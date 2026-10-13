@@ -33,7 +33,7 @@ Done when `output/00-intake.md` exists and the user has confirmed it.
 
 ## Phase 1 — Research Doc
 
-1. Read `templates/01-research-brief.md` and the research section of `references/frameworks.md`.
+1. Read `templates/01-research-brief.md` and section 3, "Foundational Docs SOP", of `references/frameworks.md`.
 2. Fill the brief's brackets from the intake.
 3. If you can search the web, do the research yourself: real quotes, real sources, cited. If you cannot, write the brief out as a complete deep-research prompt, give it to the user to run in ChatGPT Deep Research or Gemini Deep Research, and ask them to paste the result back.
 4. Write `output/01-research-doc.md`. Minimum 6 pages. Verbatim quotes beat paraphrase. No invented quotes.
@@ -71,19 +71,19 @@ At this point the foundation is built. The SOP calls these the foundational docu
 ## Phase 6 — Headlines and hooks
 
 1. Read `Foundational Docs/03 - The Direct Response Headline Engine.txt`. Skim `04` and `07` for structure.
-2. For each of the three chosen messages, write 20 headlines and 20 hooks. Use the avatar's verbatim quotes as raw material. Follow the headline criteria in doc 03 (self-interest, news, curiosity, quick and easy, specificity, credibility, time frame).
+2. For each of the three chosen messages, write 20 headlines and 20 hooks. Use the avatar's verbatim quotes as raw material. Follow the laws and headline types in doc 03 (open loop, name the wound, new promise, specificity, simplicity, credibility, compress time). Cross-check each headline against the 4-criteria formula in `references/frameworks.md` section 6 (self-interest, news, curiosity, quick and easy) and the hook checklist in section 9.
 3. If the user can run the scrape prompt in `Foundational Docs/05`, offer it as a way to get more raw language.
 4. Write `output/06-headlines-and-hooks.md`.
 
 ## Phase 7 — Creative
 
-1. Image ads first. Follow The Brand Builder's Engine: for each message, concepts for static image ads with the hook as headline, the image prompt, and the primary text. Aim for 20 concepts across the three messages.
+1. Image ads first. Follow The Brand Builder's Engine: for each message, concepts for static image ads with the hook as headline, the image prompt, and the primary text. Aim for 20 concepts across the three messages. Write the image prompts for whichever image model the user said they have in intake; if they named none, write them for Nano Banana Pro (doc 02's default) and say so.
 2. Video ads second, only after the user has a winning message from image ads or asks for video anyway. Follow `Foundational Docs/06`: locked script, scene list, text-to-image prompt per scene, image-to-video prompt per scene.
 3. Write `output/07-image-ads.md` and, when done, `output/08-video-ads.md`.
 
 ## Phase 8 — Landing page, advertorial, or VSL (only if asked for in intake)
 
-Use `references/frameworks.md`: Sales Page Anatomy, Advertorial SOP, or the VSL structure. Structure the asset around the necessary beliefs in order. Write to `output/09-<asset>.md`.
+Use `references/frameworks.md`: section 5 Sales Page Anatomy, section 6 Advertorial SOP, or the Mini-VSL 9 ingredients in section 8 Video Ads. Structure the asset around the necessary beliefs in order. Write to `output/09-<asset>.md`.
 
 ## Rules that apply to every phase
 

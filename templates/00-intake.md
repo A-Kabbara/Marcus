@@ -10,6 +10,7 @@ Claude: ask the user for every item below that you do not already know. Ask in o
 - Where you sell (own store, Shopify, Amazon, service booked by call, etc.):
 
 ## The product (one product per run; repeat for others)
+- If you sell more than one product, which one do we do first:
 - Product name:
 - What it is, physically or practically:
 - What it does for the customer (the outcome, not the feature):
@@ -24,6 +25,11 @@ Claude: ask the user for every item below that you do not already know. Ask in o
 - The problem they have when they go looking:
 - What they have already tried that did not work:
 - Where they hang out online (subreddits, forums, groups, creators):
+
+## Tools you have
+- AI image model you can use (Nano Banana Pro, Midjourney, Flux, other, none):
+- AI video model you can use (Kling, Veo, Runway, other, none):
+- Can you run ChatGPT Deep Research or Gemini Deep Research (yes/no):
 
 ## Assets you already have
 - Current sales page or product page URL:
