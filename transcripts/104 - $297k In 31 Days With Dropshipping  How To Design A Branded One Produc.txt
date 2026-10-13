@@ -1,0 +1,266 @@
+TITLE: $297k In 31 Days With Dropshipping | How To Design A Branded One Product Store (Step-By-Step)
+URL: https://www.youtube.com/watch?v=7t7V51ThlmI
+DURATION: 1142s
+============================================================
+
+Oh, what's up, guys? In this video, I'm going to show you exactly how we made $297,000 drop
+shipping in just 31 days. So I'm here inside my store here. I'll give it a quick refresher that
+you can see everything is real and legit. And yep, as you can see, 297K in sales. But really,
+the only reason we're able to do these numbers is because of this number right here. We had an
+average conversion rate of 4%, which means that every 100 people who visit our store, four of
+them are going to whip out their credit card and pay us money to buy a product, which is a really
+good conversion rate. The reason that that conversion rate is so high is simply because
+of the very unique way that we set up our landing pages. So in this video, not only am I going to
+show you what an actually good landing page looks like, because I'll be honest, most of the people
+that create drop shipping stores, their landing pages look like they were created by a six-year-old
+on Adderall. But I'm actually going to make a high converting landing page for you. So you can
+literally watch over the shoulder and see exactly how we design landing pages,
+that can get you results just like this. But let's answer the question that's on everybody's
+mind. Out of this $297,000, how much did you actually take home in profit? So our total sales
+were 297K, but when you subtract refunds and payment processing fees, our net sales were
+actually $278,000. From there, we really had two big expenses. Number one is our ad spend. So this
+is money we spent on Facebook ads. And as you can see here in our ads manager last month, we spent
+$163,000 on Facebook ads. And our second big expense was our product cost, which is actually
+paying our supplier to ship out our products for us. So we had $29,000 in cost of goods sold,
+which left us with $84,719 in net profit, which is about 20% net profit margins.
+Now enough talking, let's go ahead and design this landing page so you can actually make more
+money and do all the fun stuff that comes with it, like buying Lamborghinis, retiring your mom,
+and escaping the matrix. All right, so first things first, we got to actually create a Shopify
+store. If you hit the first link in the description, you can actually get Shopify literally
+for $1 per month for three months. It's a ridiculous deal. So if you don't have a
+store, click that first link in the description. And here we're just going to type in our email,
+create this free trial so that we can get a store going. And now that we're in the store,
+the first thing to do is add a product. Now I'm not going to go through my entire
+product research process here. If that's something that you want, I'll create a separate video,
+just comment product below this video. What I'm going to do is head over to ShopHunter
+and quickly find a product that is generating a lot of sales so that we can design the landing
+page specifically around that one product. So inside ShopHunter, I found this product here.
+You may have seen it before. ShopHunter says they're doing between like one and
+$100,000 per day in sales. Now, do I think that's 100% accurate? Obviously not,
+but I can click over to their website and activate the similar web extension
+and see that they have generated between one and 300,000 visitors per month, which if they have
+over a hundred K visitors per month, that is enough for me to say that, yes, this product
+is validated. It's proven to sell so we can design a brand around it. So this is the store here. If
+this is your store, I apologize in advance. It looks fantastic. Trying to steal someone else's
+websites or products, usually just a fast way to lose money. So do not do that. But just for
+example purposes, I'm going to use this product and build a nice looking landing page. So let's
+go back to our store and hit add product. Now for the name of this product, I'm going to call this
+the Relaxer Back Stretcher. Now for the description, you want to lead with one benefit driven
+sentence and then three bullet points that are also very benefit driven. Now to do this, I actually
+head over to ChatGBT to write up some really quick copy. Now to write this little bit of copy,
+you're going to want to go to Amazon and find the exact product that you're trying to sell.
+So I found this product here. It's not exactly the same product, but you can see that it achieves the
+same outcome and gets the same result. All this description, all of this right here, you're going
+to completely ignore. We do not care about that. You're going to go straight for the reviews. And
+what you're going to do is take the top three most positive reviews, the ones that people have found
+the most helpful right here. You're going to paste these into ChatGBT with a specific prompt so that
+it'll write the best benefit driven headline that you can possibly write. All right, so I pasted the
+reviews into ChatGBT along with a few of my custom prompts. If you want all the prompts that I use to
+copy on my Ecom brands, just write the word prompt in the comments below and I'll send it to you
+completely for free. All right, so I made a few adjustments to the copy, pasted it into the
+description. And now we want to add three quick benefit driven bullets so that people can briefly
+get a summary of the outcomes that they're going to experience as a result of using this product.
+We do this because nobody wants to read a long paragraph. We're not here writing a
+novel. Most people already have the attention of a goldfish. And so we need to use that
+and keep things very, very short and to the point and always frame things
+in their perspective. It's not about how cool our product is. It's about what our product can do
+to deliver the outcome that these customers actually want, which in this case is a relief
+from back and neck pain. So let's head back over to ChatGBT and write some bullets.
+So these three bullets are actually not bad at all. So let's copy them and paste them directly
+into our Shopify store just to make things look a little bit cleaner. Let's go ahead and add just
+a tiny bit of formatting for each bullet. Boom. And just like that, we got those bullets done.
+We got that initial benefit driven sentence done. So now we're going to go ahead and paste
+that in. Let's go ahead and hit save and go on to the next step. I went over to AliExpress and I
+found this product here and we can get it shipped for probably right around $5. And after looking
+at a few other competitors, we're going to price our product at $40. So in your Shopify product,
+just scroll down to where it says price. And we're going to go ahead and add $39.95 with a compare
+app price of just the standard 50% off, which is $79.95. Let's unselect track quantity and hit save.
+So the next thing we're going to do is add some super basic product images to our product. Most
+people are selling this as.
+A somewhat gender neutral product. Like if we look at this store here,
+there's nothing in particular that's appealing to one gender or the other. This is good for both
+male and females. Now I'm going to take this product and make it a female specific product,
+because if you think about the problems that many women have, a lot of them struggle from
+lower back pain because of, you know, these things that they got up here as well as having a lot of
+children. I mean, that's a lot of stress on your lower back. So I'm going to work that into all of
+the copy, but specifically with the product images, we're going to add product images that specifically
+women because there's some really high quality product images here on this all express listing.
+I mean, check out these product images. There's almost no adjustments that we really have to
+make to these photos. So now we're actually going to upload these photos into our Shopify store.
+So all you have to do is take a quick screenshot of the photos that you actually want to upload
+and then bring them over to your Shopify and boom, we're good to go. So you're just going
+to continue this with all the product images that you want to use. And that'll be everything
+we do on this particular product page. And now we're going to go back home and select
+customize themes. So my favorite theme to use is the refresh theme. So we're just going to go down
+here and select add and as this is adding i need to tell you guys there's no such thing as the
+perfect theme i've had stores that have had the most bare bones basic design that have generated
+six figures per month the more important thing is the product the offer the copy and the ads the
+theme is not going to make or break your success but if you choose one like this one it can make
+it just a little bit easier so now that this is added we're going to go ahead and select publish
+and now we're going to go in and actually customize our specific product page so let's not
+worry about the home page for now go to products and select the default product the first thing
+we're going to do is go through and update all the colors so go up here to theme settings select
+colors and under scheme 1 let's go ahead and adjust the background so that it is pure white
+and the next thing i want to adjust is the buy button so i'm going to go here and i want to
+actually get this exact pink color that is used in this image because i really like the color scheme
+here so i uploaded into this website here image color picker and it gave me this entire color
+palette so i'm actually going to use this pink right here i'm going to copy the hex
+code go back over to the store and paste that right in and so far i really like how that looks
+even on mobile that button is very clear so let's update the rest of the colors the text we're just
+going to make pure black for the label text we're going to make full white outline button we're
+going to make the same color as our previous buttons while we're at it let's go ahead and
+adjust the header as well to adjust those colors so let's select scheme 2 for that and go and edit
+all those colors so since our actual logo is going to be around this pink color as well i'm
+going to keep these buttons fully black so everything else here is all going to be
+black all right and then finally the announcement bar let's also just adjust the color of that too
+we'll make that one schema 3 and just adjust the background so that it is this pink color and in
+terms of what we want to label this announcement bar i like to keep it very simple and make it free
+worldwide shipping on all orders and i'll add a little emoji up here for any store that i launch
+i don't just launch it in the us i typically launch it in a bunch of different countries
+so to know that there's free shipping on all orders no matter where you're living is really
+important for a high conversion rate next thing we want to do is let's edit the color of this
+sale button right here so i actually really like red for the sale button because it kind of shouts
+out at you that there is really big sale going on and although it does differ from our main pink
+color we want it to be different we want it to stand out so that people can take action on the
+deal there's also a lot of psychology behind the color red and how it can trigger urgency and
+action now all of our colors are pretty much done the only thing that's left is to go through and
+edit all the sections to build out the rest of this landing page so for this little piece of
+text right here where it says my store my favorite thing to do here is to emphasize
+our reviews so to do that you're going to add five star emojis in a row and then add some type
+of rating so then even when you go to mobile which is where most people are going to be buying from
+you can see it looks very very good and immediately there is social proof that is
+established so now that we have this main section done we want to add one main headline that is our
+usp which stands for our unique selling proposition and for me like i said i chose this to be a female
+specific brand so i'm going to go to the left here and select add section and then select rich text
+we're going to write let's adjust the button here and say get yours now
+and what i've noticed is when you have an emoji on a call to action button it can increase your
+conversion rate pretty significantly so we're going to add that little arrow there so i just
+wrote another line here that says women experience back pain up to three times more frequently than
+men we designed this product specifically for women for better posture and less back pain if
+i wanted to write something better i could spend a little bit more time on it but for now i just want
+to show you guys the best structure that you can specifically use now let's just go to the settings
+and edit a few small things to make this flow a little bit better so let's go to scheme three
+and just reduce the padding on the top and bottom just a little bit because right now it's just
+way too much let's go with 16. there we go all right now this section is completely done let's
+go ahead and move on to the next one so the next section is going to be an overview of the four
+specific benefits that this product can achieve for you so let's go to add section and select
+collapsible content and for the heading i'm just using why use the and then insert your product
+name and now these four collapsible roads these are all going to be a different benefit that
+your product delivers to the customer plus to make this look even better i'm actually going to
+this on desktop into two separate sections so to do that just select here and then you're going to
+select another image that is related to your product so i just took another one from aliexpress
+we're going to select that hit done now you can see it divides it into two separate sections from
+here and let's even adjust this line i think we can make this even better are you ready for relief
+now for the rows themselves we already wrote three of the main headlines it's back pain posture and
+the fact that it's versatile so i'm going to expand this into four different benefits that is
+back pain neck pain posture
+and the fact that it's portable so to adjust this just select on one particular collapsible
+row and then edit each individual benefit so let's use eliminates back pain and then for the icon i'm
+actually going to select none and then here right before i'm going to use the emoji of the check
+mark because i think that looks a lot better now for the actual row content once again we pretty
+much already wrote this section so i'm just going to take what we have up here and have chad gbt
+rewrite it so i'm just going to say please rewrite this benefit driven point so let's copy this go
+back to our store and go back to this first benefit here go ahead and paste that in so i'm
+just adding one little line here that ties it down so it's one thing to write a benefit but it's
+another thing to tie down that benefit and really show what their life would be like if they actually
+get the result that the product is promising so i'm saying this means no more painful days and
+restful nights every time so now that first benefit is done let's go ahead and move through
+the rest i'm going to speed up through this part because most of this has already been written
+all right and there we go so everything is updated
+it looks good the only thing is this image is now creating a lot of white space here so i'm
+just going to turn this into a 16 by 9 photo i'm using canva and then upload that back in
+so there we go now this image is obviously not perfect if i wanted to take more time i'd probably
+adjust the image just a little bit more so that it fits perfectly but this will do for now so now
+that this benefit driven section is completed let's move on to the next one by the way don't
+forget to hit save this entire time you don't want to lose all of your the next section we want
+to add a new section so we're going to hit save as a bonus for this section so we're going to hit
+add new section right below our most recent one and we're going to use this multi-column section
+right here here's what women are saying now ideally here you're using real reviews i never
+advocate for using any type of fake reviews but again just for time purposes i'm going to make
+some up here on the spot so the first line of every little square here this is going to be the
+most important highlight of the review now again for time purposes i'm going to have chat gbt
+write some reviews for us right here all right and now our review section is complete and one thing
+that's unique to this course is that you should never want to be away for a call to action because
+when you're scrolling through on mobile you never want to be more than one scroll away from your
+call to action button the first button is going to be should be right above the fold which is the
+very first section of the page that you can see on your phone or on desktop and one scroll away
+you can see we have our next call to action the one more scroll you can see we have our next call
+to action so that's the structure that you want to keep the entire time anytime you're designing
+a landing page nobody should ever be far from your call to action button especially on mobile now
+review app like looks reviews because three reviews really isn't enough for people to make
+an informed buying decision so ideally there's a lot more that you can scroll through but these
+are good highlights now the final section that we're going to be adding is a very quick faq so
+let's go ahead and add that section we're going to hit add section right here now once again we
+want to use this collapsible content section but instead we're going to be calling this faqs now
+once again we're going to use trusty handy dandy chat gbt to help us write some really solid faqs
+here and again i'm trying to move through this relatively quickly so if i had more time on my
+hands i would be feeding chat gbt dozens of reviews and if you can't use chat gbt because of their
+character limit you can use something like clod 2 and it can take in a lot more data but the same
+questions you're going to ask and again if you want the exact same prompts that we use for our
+brand that made us over six figures in a month then just comment the word prompt below and i can
+send that right over but the point being you want to feed it as much data as possible so that it can
+create really good faqs
+and write really good copy for you for layout let's select row container just to give it a
+little bit better spacing now here's a prompt that i'm going to write for chat gbt using the reviews
+above i want you to come up with five potential questions that prospect would ask before they buy
+my product these will be used in my faq section on my landing page all right so we got our five
+questions and i'm going to go ahead and answer these questions for me all right so we're just
+going to paste that right in there let's remove these quotes and that first one is done so i'm
+going to go ahead and move through the rest speed through this and add all the faqs and we're done
+once again make sure you hit save you don't want to lose everything that you just worked so hard
+this beautiful beautiful landing page you don't want to lose all that so there we go now guys
+there's one last thing that we need to add to this landing page to completely tie it together to
+ensure that you have the highest conversion rate as humanly possible that last section that we need
+to add here as you can see let's give it a quick scroll through
+right scrolling through everything looks good we got a call to action button we are immediately
+met with our usp what makes us different and immediately into benefit driven bullet points
+along with another image testimonials and reviews faqs that's the final thing that we're missing
+here what is it we need another call to action button i just went another scroll and there was
+nothing to click so to add a button there's no just specific button you know feature that you
+can add but just go to rich text and we're going to adjust this button label to be get yours now
+once again
+now let's go to a different page now where the driver hair your
+position is wrong and place that cursor right after the message content app
+now you can identify your add comment right below
+remove that and then click here remove this one as well so now
+we just have this final button and everything is good to go now
+guys just as a bonus there's actually one other section that I want to add that we add to all of
+our landing pages that every single time no joke it increases the conversion rate
+and that is adding a benefit driven gift so to do this you're just going to go right underneath
+this section right here we're gonna hit add section we'll move it up after it's just going
+to be this image with text section right here now before we edit anything let's go ahead and hit save
+Firstly we're just going to go use our e-mail contact you know something like Guo into a
+with text section right here. Now, before we edit anything, let's go ahead and drag it and move it
+up so that it is right below our main benefit section. Now for the text, once again, we want
+to use a benefit driven headline. So let's say wash your back pain dissolved in just 15 minutes
+a day. Now here, we're not going to put an image. This is where our gift is going to go. I went to
+Google and I searched for back spine relief gift. Now, if you can't find a good gift for your
+product, simply go to TikTok and find a clip of somebody using that product and then use this
+website and it'll actually create that gift for you. But since this one was already created, I'm
+just going to use this one. I'm going to right click, save, go back to our store and let's just
+upload this image. So I just adjusted this line here so that it says get better posture in just
+15 minutes per day with this gift that goes along with it. Now I'm just going to make it a tad bit
+smaller because it was so, so massive. So let's actually keep this button here. I actually really
+like having a button in the middle of our other two sections.
+We're just going to adjust the call to action. Another way to significantly boost your conversion
+rate is to use the same call to action in all of your buttons. You don't want one to say get yours
+here and the other one to say buy now. They all need to say the same thing. Now let's just add a
+little bit of text beneath this headline. Once again, we're going to the ever so trusty chat
+GPT. So all I said was please add a description that explains the how for this benefit driven
+headline. And then I inserted the headline. I probably don't need all of this, but let's go
+ahead and copy and paste it right over once again. I actually really like this. Now,
+I could adjust a little of this language a little bit to make it more user-friendly for lack of a
+better word. Like all of your copies should be at the highest of fifth grade level, but here I think
+it looks just fine like this. So now let's go top down and look at our new landing page. So right
+off the back are really high quality images, a clear sale, call to action button, a quick benefit
+driven sentence, along with three bullet points, our USP, and then instantly into the specific
+benefits of the product with a little bit of details. And then you can always expand or not
+expand any of those.
+A gift. Once again, everything benefit driven, some quick reviews and testimonials, and then
+FAQs. And last but not least, a call to action button at the bottom. Alrighty, guys, that was
+it for this video. So thank you for watching. This is obviously my first video on the channel. So if
+you want more content like this, be sure to give it a like and subscribe. I want to come out with
+the best e-com content out there that's different from anything else. Super, super high value,
+you know, not beating around the bush, being super transparent. So if you really like that
+style of video, you're definitely going to want to subscribe and stick around.
+So thanks again, guys, for watching, and I'll see you in the next one.

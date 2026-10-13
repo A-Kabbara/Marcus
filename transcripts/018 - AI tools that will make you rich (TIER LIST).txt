@@ -1,0 +1,217 @@
+TITLE: AI tools that will make you rich (TIER LIST)
+URL: https://www.youtube.com/watch?v=nhFQXfFDaIM
+DURATION: 907s
+============================================================
+
+Hey guys, Mark here. In this video, I'm going to be going over AI tools that will make you
+rich. First up on the list, we have Claude, of course, powered by their parent company,
+Anthropic. I love Claude. We're actually starting this one off with a bang. The reason why
+is Claude has slowly become my favorite LLM to use at any point in time. Initially,
+Claude came on scene and they were really, really good at very specific things and then very,
+very bad at just about everything else. They're really good at creative writing. So for me,
+I run a lot of ads. I spend a lot of time talking about marketing. I use them for copywriting
+because with creative writing, using ChatGPT or Gemini, it just wasn't coming across with the
+emotional copy that I like to write. But Claude was so good. But now we're at the point, Claude
+has developed so substantially, especially with this new Opus 4.6 update. It is by far now my
+favorite AI tool that I use every single day. Not only do I just use it for copywriting,
+but I use it for coding. I use it for just general questions. I use it for basically
+everything. I use it for everything. I use it for everything. I use it for everything.
+At this point, of course, the downside to this is the cost and sometimes the rate limit. So
+like any LLM, it's not perfect. But just think about it. Think about the kinds of companies
+that Anthropic or Claude is competing with. You're competing with OpenAI,
+massive company funded by billionaires and all these super wealthy people. You've got Google
+with Gemini on the other hand. And then Claude just comes on the scene and freaking is whooping
+everybody's ass. So that's also just more points for Claude. This one for me is going in the S
+tier and it's not even close. Next up on the list, we got ChatGPT. Now I'll be honest,
+I would have ranked ChatGPT so much lower if it weren't for this most recent update with Codex
+5.3, which is their newest model that they launched. ChatGPT, in my opinion, has been
+going downhill. Overall, the quality of responses that you're getting, the sophistication of the
+technology, it's just not keeping up. And a lot of people are even saying that it's downright
+getting worse. Basically, the only reason at this point that I use ChatGPT, the equivalent
+of Google searches. It's just the most convenient thing for me to use. And I'm just retarded and I
+have every single AI subscription you could ever want. So
+I happen to do that a lot. But other than that, it's for me giving very, very poor quality outputs,
+incredibly biased. And overall, it's just been disappointing the updates that's been going
+through. Now, keep in mind, this is from a non-technical person. I obviously see the data
+behind the technology that they're coming out. And Codex 5.3 truly is a solid model that they
+have come out with. Some of them have just been so incredibly underwhelming, but Codex 5.3 is
+legit, especially for coding. So I'm going to put this one in the B tier right now. And truthfully,
+if it weren't for that update, I probably would have put it even
+lower. All right, next up on the list, we have Gemini. This is Google's main LLM that they have
+launched. Gemini was also one of my favorite LLMs I used for a very long time and still is very,
+very solid. For me, I'm waiting for another update from Gemini because their models are good,
+but they haven't been improving nearly at the rate of LOD or ChatGPT in my opinion. And over time,
+it should get better. And obviously, my patience is just about zero. But what I do like using
+Gemini for, number one, is going to be general web searches.
+So if you can use an LLM that has really good access to the internet and web browsing,
+you can oftentimes get better answers. So for that reason, using the deep research from Gemini,
+very solid deep research tool. I still actually prefer the deep research from ChatGPT. But now
+we're getting into this world of agentic AI to where do you even need deep research functionality
+anymore? You can just build an agent to do that for you and make it so much more customized.
+And it's not going to be as much of a fit-in-a-box kind of solution. It's going to be something
+completely customized to you, which is what I'm personally doing. For my marketing,
+research, copywriting research, I'm no longer using quite as much the deep research tools
+because you can just build agents that can research 10 times better. But overall, Gemini
+has been very consistent. I will say that. And I still really do like it for highly data
+analytical things as well. So for me, I need something that is completely emotionally detached
+when I'm doing my copy reviews, when I'm doing my copy chiefing. I don't want any glazing to
+happen whatsoever. I want you to be honest about the copy that I've written. Give me true,
+solid feedback according to my SOPs.
+With Claude and ChatGPT, I don't get that quite as often as I do with Gemini. So that's my main
+use case there. So for that reason, we're going to put this one in A tier. By the way, I created
+one of the coolest AI resources I think I've ever made using Gemini. So ChatGPT has custom GBTs,
+Claude has Claude Project, but Gemini has something called Custom Gems. And they're
+actually incredibly powerful and not many people talk about them.
+I've been using them for pretty much since they originally came out. So if you want a resource
+that I put together specifically using Gemini to make AI image ads, just DM me the word
+spoon on Instagram. Don't ask me why it's the word spoon. Just do it.
+My Instagram is at Mark Builds Brand. And next up on the list, we have Nano Banana,
+another incredible tool that was created from Google specifically for image creation.
+Now it's gotten to the point, you know, if you asked me like a year ago, or even like
+six to eight months ago, I would be using so many different models to generate images. I'd be using
+Sora, like the original Sora image generation. I'd be using all these other tools. But now
+I quite literally do not see a need in terms of image generation for anything other,
+than Nano Banana. Now there is one other tool I'm going to get to a little bit later in this video
+that is actually better than just getting it directly from Google or in your Gemini platform.
+But if you want very specific customizations, this can still be a great tool. Underlying
+technology in Nano Banana, however, is incredible. Like what you can do with good prompting is just
+absolutely insane. So again, if you want that resource, same kind of thing, just DM me the
+word spoon on Instagram and I will send it to you. But for those reasons, we are going to put
+Nano Banana in the B tier. If you're wondering why it's not higher, the technology is good,
+but there's just better ways to access it.
+Which I'll get to in a second. All right, next up on the list, we have Kling AI. I was really early
+to Kling AI when they first kind of came on the scene. And I personally love Kling. Image to video
+and just general video models now are incredibly good. There's a new model from Kling called Kling
+3. And it is basically on par, if not better than Sora 2, which when Sora 2 came on the scene,
+it was just absolutely mind blowing. You know, VO 3.1 also very, very good. There's these moments
+in AI history where it's like one of these updates, one of these new models dropped and
+you're like, holy shit, like this is going to change everything. It doesn't have to be
+very often. But I would put like Sora 2, VO 3.1, even like Nano Banana Pro, I would put in that
+group as well. Kling is good, not great. And once again, there are other ways that you can access
+the same technology just in a easier way, which again, I'll get to in a second. But regardless,
+the technology is very good. I'm going to put this one once again, the B tier. All right,
+next up on the list, we have Notebook LM. Notebook LM is a super slept on tool, once again, from
+Google. You see how many tools Google has? Like that's why I think they're probably going to be
+the ones to win. So I'm going to put this one in the B tier. And then I'm going to put this one
+in the A.I. race in the long term. But then you got Claude, you know, just absolutely killing it.
+Anyways, Notebook LM is a way where you can upload a bunch of information about anything
+and it can create structured ways for you to digest that information. So a lot of people,
+students, for example, will use it to better understand the material to pass their classes
+or, you know, whatever you want to use it for. Ultimately, you can just upload all this
+information and you can create mind maps, you can create podcasts about the information,
+you can do whatever you want. Ultimately, it's a learning tool. And that's the best way to use
+Notebook LM. I would put this in the S tier.
+The reason that I don't is because, once again, it's like a out of the box tool that you can use.
+I now believe that there are better, more customized solutions that you can build,
+which I will get to a little bit later in this video. But regardless, this is a badass one that
+not a lot of people use or know about. So if you're into skill acquisition, getting better
+at something, you want to learn a new language, you know, whatever it is, very, very good tool
+for you without going in the A tier. All right. Next up on the list, we got Higgs field. So,
+you know, during this video, I've been saying, yeah, this model is good, but there's better
+ways to access it. Enter Higgs field. I've been using Higgs field for quite a long,
+long time as well. And what Higgs field essentially does is says, hey, there's all
+these super cool AI models out there, but you don't want to have 30 subscriptions, do you?
+Turns out that was actually talking to me because I did have 30 subscriptions and I was paying
+retarded amount of money to all of them. So eventually I just cut them all and got a Higgs
+field subscription because you can access any good image model, any good video model, video to image,
+text to image, text to video, basically any model that you want to through Higgs field.
+The cool part is that as soon as the APIs become available from any of these tools over here,
+Higgs field just takes it, repackages it, and then you pay them one subscription. Usually you
+be able to use all these tools as much as you want. Another thing I like about Higgs field is
+just the discounts that they have a sucker for some AI discounts, man, I tell you, and you can
+have incredible usage with some of these tools without having to pay a lot of money. So for me,
+I'm the type of person that I do a lot of volume, whatever I do, it's usually a lot of volume. So a
+lot of images, a lot of videos. So for me, those kinds of deals and plans make a lot of sense.
+But Higgs field also has their own model for image
+generation. Now it's kind of, you know, redundant with nano banana pro, as I said, but when that
+first came on the scene, Higgs field sold, that model was so incredibly powerful, very, very
+realistic images, regardless, now that that's kind of redundant, I am still putting Higgs field in
+the S tier. If you do anything with image generation, anything with video generation,
+I highly, highly recommend it. All right, next up on the list, we have Grok. Now I'll be totally
+transparent. I use Grok the least out of any of these tools on the list. And it's not because I
+don't like Grok, it's just because I don't have a specific use case for Grok over,
+any other tool here. So in my experience, Grok is still a much better LLM than I would say like
+ChachiBT on average, I would put it right on par with Gemini. But for my day to day work,
+like if I have the option to choose between Grok and Claude or Gemini and Claude, I'm not going to
+choose Grok. So that's just my, again, this is a highly opinionated video, right? You clicked on
+the title, right? I don't want to hear shit. But for that reason, we're going to put this one in
+the A tier. It's good. It's solid. Is it mind blowing? Nah. All right, next up on the list,
+we have N8N. Once again, I was relatively early into N8N.
+Building these agentic workflows. I'll be totally honest. I am removing all of my N8N
+agents that I've built and building them another way. I'll just put it down. I'm going to open
+loop you guys for the other ones that I have on the list. But N8N is a great platform for you to
+build these AI workflows where you can combine all these tools into one. Of course, the only
+problem is it's a little bit complex to set up. You have to work with getting all your credentials
+in, which can be difficult. You have to have a little bit understanding of coding and computer
+science to be able to put some things together. That's why I have people on my team that build
+these workflows.
+But like I said, I think N8N is going to get phased out. I really do. Unless they make some
+massive adaptation to the agentic dorm that has been unfolding over the last few weeks and also
+over the last few months, I don't really see them making many adjustments. So this is one that I
+think paved the way for other tools to be created. I'm telling you guys right now, I am moving
+almost everything they have on N8N onto some other stuff. So for me, this one's going all the way
+down in the D tier. I know that's probably a shock because I do spend a lot of time,
+or I did spend a lot of time on N8N, but this is the future. If you're not going to adapt to
+technology to these new things that are being built and you're not going to move quickly,
+the use cases continue to drop. All right, next up on the list, we got Sora 2. Sora 2 as of right
+now is most likely the best text to video model out there. Probably the best video model out there
+in general. There's a new one that is just beginning getting rolled out. I'll make another
+video on that one because it's actually much better than Sora 2, but it's not super duper
+public for most people as of right now. But like I said, Sora 2,
+one of those technologies that came on the scene and you're like, wow, this is insane.
+Because with Gemini VO3 3.1, most of us can just be like, okay, that's AI. But Sora 2 was getting
+into territory where it's getting difficult to differentiate it at all. And some new tools that
+are coming out in the next few months, we're reaching the point where even people that are
+sophisticated and super, super deep into AI are not going to be able to tell the difference. That
+is a territory that we are entering. And yes, that is scary. But for now, Sora 2 is still really,
+really good. And honestly, the best.
+Video model out right now, like I'll just be honest. So I'm going to put this one in the S tier
+for now. Fantastic for video ads. Fantastic for video content in general. All right. Next up on
+the list, we have Claude Code. Claude Code, I'll just say it's going in the S tier. Claude Code is
+one of those tools I was mentioning that makes a lot of these other tools redundant. So Notebook
+LM, for example, I would never use. I would just build something myself that's more customized to
+me with Claude Code. It is one of those things where you realize that there's virtually nothing
+that you can't build. Building,
+fully automated agents, fully automated platforms, softwares in what would take a full software team
+multiple months to build an incredible amount of experience you can build in a span of a few days.
+Maybe everything is going to be working almost flawlessly. It's insane what you can do with
+Claude Code, especially if you have some other things working alongside it. So Claude Code for
+me is going directly into the S tier and our S tier is very quickly filling up here. All right.
+Next up on the list, we have Lovable. So Lovable is a vibe coding tool where you can speak normal
+language and build out of it. So you can do a lot of things. You can do a lot of things. You can
+build applications, websites, et cetera, with code without having to know how to code, which is pretty
+cool. The counter argument to this is Claude Code, ultimately for me, because I do think it's better.
+I think it's smarter. I think it can build even faster. And Lovable for me was something that I
+loved using all the time. I would launch landing pages on Lovable, host them on subdomains and just
+my speed to market was so fast. But now it's getting to the point where why would I choose
+this over something like Claude Code? That's just my personal opinion. So I would put this kind of
+in the same realm as N8n. I think it's better than N8n.
+The kind of technology that is slowly getting phased out when other technologies come on the
+scene and just kind of make it irrelevant. So I'm going to put Lovable right now in the C tier.
+All right, next up on the list, we have Manus. Manus is also an incredible underdog story. I
+think they've been now bought by Meadow, which is crazy if I'm remembering that correctly. But it
+was one of the first kind of general AI agents that you could just give it a prompt and it would
+work through multi-step reasoning to accomplish whatever task or goal that you gave it. And
+initially, since it was very, very new and early,
+it was incredibly exciting. Now it's at the point where I'm like, do I want to build something with
+Manus or am I going to build it with Claude Code? And almost every single time I just choose Claude
+Code. So for that reason, I'm just going to put Manus in the B tier for this one. And then last
+up on the list, we have 11 Labs, which is a text to speech kind of generator. You can also use it
+for voice cloning. Once again, 11 Labs has been on the scene for a very, very long time, honestly,
+and that's not an easy thing to do in the AI space. I do think that there's better models
+voice can sound, but can they handle the amount of volume that I do? Typically, no. So 11 Labs is
+still a really good option for you unless you want to use some of the better models out there that
+are open source, take a little bit more setup. But in general, I think 11 Labs is still pretty
+solid. Is there stuff better? 100%. But the volume that I do, this is a good solution. So the only
+caveat with 11 Labs is so many of these tools that I mentioned here, Sora 2, all the video models on
+Higgsfield, they already have voice enabled. You don't have to build a voice as much as you used
+these video models because the voice is just so freaking good with these new video models. So my
+uses for 11 Labs has also just been on the decline. So for me, it's not something that I use. I still
+think it's solid for most people. I'm going to put it in the B tier. And that's it for the list. So
+I know this is all kind of like theoretical and just me yapping and look at you, you just listen
+to me yap all this time. But what I did is I put together another video on my channel that actually
+makes this all super duper tactical so that you can apply it. So if you want to see that video,
+I'll post it somewhere link around here. Also, if you want to stay updated on what I think about
+AI, how I'm using it to scale ads very profitably in e-commerce info, etc. And always click the link
+below to join my email list. It's somewhere in the description. I don't know. Other than that,
+guys, thank you so much for watching. I'll see you on the next video. Peace.

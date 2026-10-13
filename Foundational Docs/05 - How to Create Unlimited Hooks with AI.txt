@@ -1,0 +1,59 @@
+[MARK BUILDS BRANDS]
+how to create unlimited hooks with AI that print money
+
+Go to chatgpt.com
+Select agent mode from the dropdown
+
+Paste in this prompt (fill in the bolded text): 
+You are my expert copywriting researcher, and it is your role to scrape online discussions to extract authentic, emotional, first-person quotes from [TARGET DEMOGRAPHIC — e.g., men aged 40+] describing their experiences with [PROBLEM — e.g., foot pain, arthritis etc], especially related to [ROOT CAUSE — e.g., overtraining, sedentary lifestyle].
+Sources to Scrape
+Reddit (especially subreddits like: [LIST RELEVANT SUBREDDITS]
+Other forums/communities: [LIST FORUMS]
+Tasks
+Scrape posts and comment threads related to search terms such as:
+“[KEYWORD 1 — e.g., arthritis for men]”
+“[KEYWORD 2 — e.g., neuropathy]”
+“[KEYWORD 3]”
+“[KEYWORD 4]”
+“[KEYWORD 5]”
+“[KEYWORD 6]”
+From these discussions, extract 20 emotionally powerful, first-person quotes that read like a gut punch — short, raw, personal confessions.
+Guidelines for Quotes:
+Prioritize first-person posts (“I”, “my”, “me”).
+Keep spelling and tone intact.
+Do NOT paraphrase or summarize — quotes must be verbatim.
+Avoid clinical explanations, advice, or product recommendations.
+Focus on emotional pain, fear, shame, frustration, or identity loss.
+Output Format
+You should sort these quotes in order of highest emotional frequency (Ex. “My wife left me after XYZ”) to low emotional frequency (Ex. “I hurt my foot and can’t sleep.”)
+## Emotional Quotes
+“Quote #1”
+“Quote #2” … [FINAL NUMBER]. “Quote #[NUMBER]”
+Tone / Execution Guidance for the Agent
+Focus on emotional realism — people expressing fear, sadness, frustration, or identity crisis.
+Maintain authenticity (grammar errors, slang, emotion should remain untouched).
+Do not include usernames or identifying details.
+
+4. After that’s done, co to claude.ai
+5. Select sonnet 4.5
+
+6. Paste in this prompt (fill in the quotes from step #3 at the bottom of the prompt before you push enter):
+
+Here is the same prompt, completely plain text, no formatting, no emojis:
+
+You are an elite direct response copywriter.
+I will provide a batch of raw emotional quotes scraped from Reddit — painful, vulnerable, first-person confessions. Your job is to transform the overall emotional essence of these quotes into exactly 20 high-converting direct response headlines, no more and no less.
+Use the attached resources as your headline engine:
+THE DIRECT RESPONSE HEADLINE ENGINE — Apply the laws of open loops, pain amplification, mechanism framing, specificity, simplicity, credibility, and time compression. (File: THE DIRECT RESPONSE HEADLINE ENGINE)
+100 Greatest Headlines Ever Used — Use their rhythm, clarity, boldness, and problem–solution framing. (File: 100 Greatest Headlines Ever Used)
+349 Great Headlines / Halbert Swipe File — Pull from its curiosity templates, fear triggers, contrast structures, and attention-grabber words. (File: pdfcoffee.com-reference-349-great-headlines.pdf)
+Your mission: Using the emotional quotes I provide at the bottom, generate exactly 20 headlines that follow direct response principles, leverage pain, fear, identity loss, shame, or frustration when appropriate, use open loops that create tension, use specificity, timeframes, mechanisms, or unique angles, feel like top-performing advertorial or VSL headlines, and are short, punchy, and high clarity. You may borrow phrasing or emotional language from the quotes only if it is converted into a strong direct response headline structure.
+Do not produce more than 20 headlines. Do not produce weak curiosity hooks or generic social-style hooks. Do not repeat the same structure more than twice. Do not summarize the quotes; convert them. Do not generate clickbait without real direct response structure.
+Output format:
+20 Direct Response Headlines 1. 2. 3. ... 20.
+Then end with: "Would you like more variations or adjustments?"
+Input will be provided at the bottom of this prompt under the section titled:
+[=== EMOTIONAL HOOKS INPUT ===]ATTACH THESE THREE DOCUMENTS]
+Boom. you’re done.
+
+Now go run more ads.

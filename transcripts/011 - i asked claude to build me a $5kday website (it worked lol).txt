@@ -1,0 +1,196 @@
+TITLE: i asked claude to build me a $5k/day website (it worked lol)
+URL: https://www.youtube.com/watch?v=r3Ozh7EtoEw
+DURATION: 981s
+============================================================
+
+Hey guys, Mark here. In this video, I'm going to be showing you how I asked Claude to build me a 5k per day website and it actually worked. As you can see here, scaled from zero to over $5,000 per day in revenue in five days or so. And the cool part about all this is it's actually pretty simple and I'm going to show you how to do it in this video. Now I've noticed there's a lot of these videos out on the internet about how to make these landing pages with Claude or Claude code. And truthfully, most of them create beautiful websites that convert nobody. And in this video, I'm actually going to
+show you how to build websites that are designed to make you money. As I said, it's a simple process.
+The first thing we're going to do is get a swipe, which is just a landing page that you want to
+emulate for inspiration. Second, I'm going to show you how to write the copy, which is the most
+important part of the entire page, by the way, because like those beautiful pages, just because
+something is aesthetic doesn't mean it's going to convert, right? The saying goes, ugly landers
+equals pretty profits. After that, I'm going to show you how to create the images all using AI
+and then go and actually design that page that looks exactly how you want it. Then we will
+achieve the entire page, which is a fancy way to say we're going to review it. Then finally,
+we're actually going to deploy it live so that we can start running traffic to it, whether that's
+paid traffic, free traffic, doesn't matter. Now, swiping is the simplest step, whether you're
+going to be looking on the Facebook ads library, you know, get hooked, one of your competitors,
+just go to one of your competitors landing pages, download it as a PDF. Or if you want to start from
+scratch, you can also do that. You just have to fill in a few steps here and there. But this is
+just a great way to get started. And it's so simple to do. I don't even have to show you how
+to do it. You probably have one in mind already. Now, moving on to step two, this is
+all about the copy, which is the words that are designed to persuade people to take an action on
+your website, whether that's fill out a lead form, make a purchase or convert somebody in
+some way, shape or form. Any phenomenal copywriter in history will tell you that the majority of the
+money is made in the research. And the funny part is research used to be something that you had to
+conduct manually. You used to have to go on forums, Facebook groups, Reddit threads and just take
+heaps of notes. And it's basically the copywriter that can have the best research. Oftentimes,
+was the copywriter that would make the most money with their offers. But now AI can do all of that
+for you. And I built a full process for this that you can steal directly from me for free. And that
+process is, of course, my legendary foundational docs SOP. If you want access to this document,
+I'll leave it the second link in the description. You can go get it for free. Basically, it's going
+to walk you through how to get deep psychological and emotional pains from your customers so that
+you can use that in your copy to get them to convert. Because we all know humans are emotional
+creatures, right? We buy based off of emotion and then we justify.
+But that entire research step is handled for you because AI will go and scrape all these websites
+for you so you have the best research as humanly possible. Once you have those four foundational
+docs, now it's time to actually write, which you guessed it, we're going to be using Claude for
+writing all this copy. So let's do it. So here we are in Claude. I'm going to begin by uploading
+all my foundational docs. And for the model, I prefer Opus. And as of today, me filling this
+Opus 4.7 has recently dropped. So ultimately, the difference between Opus and Sonnet for
+this particular purpose, it's not going to be that substantial.
+Next, I'm going to paste in this lovely prompt. By the way, if you want all the prompts that
+are associated with this video and all the resources, just go to my Instagram. It's at
+markbuildsbrands and DM me the word lander and I'll send it over to you. And now we hit
+enter. So Claude just finished up. That step is literally just to give context for all
+the research that we just conducted so that Claude is able to use that context to actually
+write the copy. And now that it has a context, we're now going to upload a PDF of a swipe,
+which is that, you know, landing page.
+That we're trying to emulate along with this prompt and hit enter. All right. So that prompt
+is finished up. What that prompt did is basically analyze why that landing page, that swipe was
+actually successful so that we can reverse engineer it for ourselves. But we haven't
+written anything yet. That is what this next prompt is for, to actually take all of that
+context now, the competitor, all of our foundational docs and use it to rewrite and actually write the
+copy for this lander. And boom, just like that, we got all the copy already written. And Claude
+actually decided to go ahead and create the landing page already. It's a little premature. Right now, we just got the copy. So let's check that off our list. Boom. Now, before we look at what Claude actually created that whole lander, let's work on the images because any landing page is literally just copy images and a bunch of stylistic elements to actually give that page its aesthetic design. Now, here's the thing about creating images. Okay. Most people are so unintentional about the images that they are creating on their landing page. They just think, oh, let me just throw up some good stuff.
+Some good looking product photos, some lifestyle photos, and just pray to the gods that it's actually going to work and be profitable. No, every image should serve a purpose. It truthfully should do one of two things. The first thing is it should install a belief. Okay. Because we all know that marketing is literally just belief change work, which means your customers or potential customers come into your business, see your landing page with a very specific set of beliefs. Just like you have a set of beliefs about the world. I have a set of beliefs about the world. So does your customer. Your job is to
+either install an empowering belief that aligns with the belief that's needed to purchase your product or remove a limiting belief that is keeping them from purchasing. So that's one thing that your images should potentially do. And the other thing is, of course, your images should be designed to remove objections. A lot of people think that selling stuff online is all about like adding, like, how can I give the customer as much information as I possibly can? Really, it's about removing as much resistance between the customer where they're at right now and them actually buying the product.
+And that's what removing objections really does. So every image that you create should be very tactical. It should be very purposeful so that even though in their mind, they're just seeing an image, you're actually moving them one step closer to the sale. Now, for our image generation, we're going to be using Nano Banana Pro specifically within Higgs Field because it's just so efficient. You can create many photos very quickly. But first, we have to actually create the prompts to get those images the way that we want them to. Again, if you want access to all these resources, just DM me on Instagram, the word lander. I'll send it. So once again, we are going to
+attach all of our foundational docs, boom, along with this prompt as well. And once again,
+Sonnet 4.6 is just fine for these purposes. All right. And just like that, we already got
+our first prompt here that actually matches the copy. So not only should the images be purposeful,
+but they obviously should also be matching the copy. And so in this page that I'm building,
+which is actually a listicle, which is a format of a pre-sales page, this one is specifically
+going to be matching the point that lotion was never designed to make skin beautiful,
+as if I was selling a skincare product. So I'm going to copy this entire
+prompt right here and paste that right into Higgs field. All right. So I'm here in Higgs field. I
+don't think you can see the full bar because my fat fucking face is in the way, but I'm going to
+paste this prompt directly along with a PNG of my product and hit enter. The settings I have
+selected is nano banana pro nine by 16 aspect ratio. Let's get it. All right. Just like that,
+we got our first image created right here. You can see prompt was entered here. We have a nice
+little before and after of, you know, the product actually in use or the difference between
+lotion and the product that we're selling here. And this is good to go. There's literally nothing
+to change here. And the cool part is anytime you're on Higgs field, you can create multiple
+variations and just choose the one that you like the best. You don't have to wait like minutes for
+every single variation. They're all delivered at once, which is really convenient. So I'm going
+to repeat this process for the rest of the images on the lander, and we are going to cross off the
+images step. Boom. All right. And on that note, we can now move on to the design step, which is
+actually making the page look like the swipe that we sent it. So as I mentioned previously,
+Claude got a little ahead of itself and decided to already create kind of the V1 of the landing
+page. So I'm going to give it a little bit of feedback. But if that didn't happen to you,
+just move simple prompt after you got the copy to say, now I want you to actually design this
+page based off of the swipe that I sent previously. All right. And here we go. We
+officially got V1 of this landing page done, this lovely listicle. Don't expect it to be perfect on
+the very first go. I'm going to give it a little bit of feedback. That's literally why I have a
+step in this process called the chiefing, because we're going to go through and adjust everything
+about this. Maybe there's a few bits of copy that we don't like, some stylistic changes that need
+adjusting, things like that. So one thing that I did is I sent in the first image that I created,
+but I didn't send any others because I wanted to make sure that overall the copy was in the
+right place and everything generally is in place before I give it more feedback. You don't want to
+like micromanage Claude during this specific step of the process. Right now, we're just trying to
+get all the pieces in place. And then when we get to the chiefing step, we can really fine-tune
+everything. So the next step on this process is to enter in all the rest of the images so that
+they can be filled in properly on the landing page. You need to give a little bit of guidance
+here. Sometimes it helps to go like image by image, like this image goes here, this image
+goes here and do it one individual message. I like to fucking chad ram shit. So I sent all the
+messages and I said the exact places that each one should be. And Claude got it perfectly. Actually,
+it worked out very, very well. All right, here we are on V2 of the lander after Claude finished
+cooking. And overall, everything structurally looks pretty good. The images are all in place.
+It has that standard listicle format of image, headline, text underneath that. And it continues
+to repeat that process all throughout the lander. And then all the way down at the bottom, we
+actually have product card here as well. Is it perfect? No, but I would say at this point,
+it's probably roughly 80% of the way. And one thing I briefly skipped over in regards to the
+design is how do you actually get a lander to look like yours and not like a competitor? Well,
+you have to have your own branding kit that you create that you send into Claude. So it
+generally knows what is your color scheme, your color palette, what typography do you use? What
+does your brand generally stand for? What is the feeling that you're trying to evoke? And so I have
+a really cool solution for that. You can go to a website called Firecrawl. And if you want to create
+your brand kit yourself, you know, you can. This process is super duper fast. Check this out. All
+right. So we're here inside of Firecrawl. We're going to go to the left hand side and select
+scrape a web page. And what you can do here is enter your brand directly. If you already have
+a brand, if you don't, then you can use the branding of another,
+brand to kind of guide what you want your page to look like. So let's say I was selling this
+nootropic supplement and I'm just going to take that URL. I'm going to paste it right here. And
+under format, I'm going to select branding and select start scraping. Now you're going to scroll
+down to where it says branding and you are going to copy as JSON. But as you can see, what it did
+here is basically scraped all the branding information that it possibly could from this
+lander. So you can go directly in Claude with this information, paste it in and say, this is
+my branding kit. I want you to adjust the landing page that I have created.
+So that it matches this branding kit right here. I already did this step, but in the case that you
+don't have this Firecrawl is a super cool tool that you can use. Not affiliated, just have to
+think it's a cool tool. Alrighty. So now that we kind of got the, not the final draft, but we are
+very close at this point in regards to this listicle, I still have a little bit of feedback
+here. So the design step at this point is mostly done. And now we move on to chiefing. Chiefing is
+actually a term specifically for copywriting, where you continually reread your copy so that
+it flows very, very smooth, right? There's the analogy of the greased up slide, which is that
+when you're reading copy, nothing should feel like a big bump in the slide, where if you're going down
+it, you just get fricking launched off. It should be super smooth the entire way down. And the best
+way to do that is literally to read it out loud continually. Like when I'm writing copy, I'll read
+it out loud five to seven times until I'm genuinely happy with what I have. And each time you read
+through, you'll notice these small little chunks or pieces that just kind of stop you up a little
+bit. So that's regards to the copy, but you should do the same.
+In regards to the aesthetic design of the page. So for example, I hate the fact that there isn't
+proper capitalization here. Anytime I'm writing a headline, I always do proper caps. And what's
+funny is these sub headlines are all fully capped. It's all auto caps, which I also hate. Anytime
+you're building something where the objective is to convert people, simplicity is king, which means
+you want to make your copy, the structure, the design so incredibly easily readable and so
+incredibly clear, because that means you're not going to be able to read the whole thing.
+You get more consumption, which means you move the sales process further. You convert more people,
+you make more money. So I don't like that. That's another piece of feedback I'm going to give.
+And I also don't like how there's this and then also this, like this seems super redundant,
+like this, this and this all on the same page seems very, very redundant. I want that removed
+along with a few other things. We need a photo here. I'm going to adjust a little bit of the
+copy because I'm not super duper loving it. But ultimately, this process should be specific to
+you. I have my own process when it comes to chiefing because I've been writing copies since
+everybody kind of does it differently. The best practice, like I said, is to legitimately read it
+out loud yourself. All your copy should be readable at absolute maximum eighth grade level,
+ideally fifth grade or below. That's another great way to chief your copy. Throw it in something like
+Hemingway app dot com and you can see generally what is the reading level of what you just wrote.
+You want to keep it simple. I promise. Keep it simple. Stupid retard. OK. All righty. And here
+we are with what is now our final version of this lander. I am a total perfectionist,
+so if this were me actually running this, my brand, there's still some things that I would
+adjust. But overall, I'm really liking how this is flowing. So let's say that this lander at this
+point is good to go. You can go back and forth as much as your little heart desires. But for me,
+this is good because another thing to keep in mind is while I do love making all these tiny
+little changes on landers, money loves speed. And some of these things are not going to make
+a massive difference, but we can cross off the chiefing step at this point. And now we move on
+to the sixth and final step, which is to actually deploy this lander so that we can start running
+ads and start having some fun. So the truth is there's a bunch of ways to do this. You ultimately
+have the skeleton of a landing page now. OK, you have all the HTML right here. As you can see,
+you have all the code where you want to deploy. This is your personal decision. I'm going to tell
+you what I do. So I basically take my code and I upload it privately to a GitHub private repository
+and then I link GitHub with Cloudflare. The reason I use Cloudflare is because it is,
+is a frickin massive company powers like half the frickin Internet. It can be a little complex
+to set up, but I'll show you how to do it in just a second here. Another cool part about this is that
+you can build pages on Cloudflare for free. So let's move into the deployment step and you can
+see exactly what I do. First thing we're going to do right here, we're actually going to download
+this entire HTML file. Next, we're going to go into our GitHub account here and next to top
+repositories. We're going to select new can name this whatever you want description. Once again,
+put whatever you want and we are going to select create
+repository. And now that we're inside, if you see this little blue hyperlinked thing right here,
+it says uploading an existing file. We are going to click and drag in this HTML file that we just
+created. After that is uploaded, you can select commit changes. We're going to go to the settings
+tab, scroll all the way down, repository visibility, change visibility to private. All right. Next,
+we're going to go to Cloudflare. You can make a free account. I'm inside of my account right here.
+And to actually turn this into a page, you're going to go to this build section, zoom in a little bit
+under computer.
+You're going to select workers and pages. Next, you're going to select create application. Next,
+where it says looking to deploy pages, you're going to select get started and import an existing
+get repository right there. You're going to select get started from here. Make sure your GitHub
+account is selected. We will select the repository that we just created and select begin set up. Now
+you're going to enter all the proper details here and select save and deploy. Now it's going to take
+a little bit of time for it to build and actually deploy this on Cloudflare. The only step if you
+want to do this is simply going to be. At the end of the day, you're going to be able to do this in a
+simple way. You're going to be able to do this in a simple way. Attaching your domain, which there's
+plenty of tutorials online of how to attach your domain to Cloudflare. And then you just link the
+two together and you're good to go. It's an incredibly simple process. And at this point,
+we now have everything. We wrote the copy. We did the images. We designed the page. We achieved it to
+our liking. And now it's deployed. You just take the live URL and run it inside of your ads manager
+wherever you want to start pushing traffic to it. So that's the entire process A to Z. If any of this
+stuff was interesting to you, by the way, I do have a mentorship called Brand Builders Academy,
+where we teach stuff like this, where you can build really cool stuff with AI, whether that's
+creatives, landing pages, et cetera. I'm literally working on a new training right now around AI
+creatives that I've never posted anywhere else. So if you want to get access to that, you can fill
+out an application. First link in the description, full transparency. It's not for everybody. It does
+cost money. So if that's not for you, that's cool. Plenty of free content here. Other than that,
+we'd love to see you inside. Thank you so much for watching. See you on the next video. Peace.

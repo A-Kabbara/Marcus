@@ -1,0 +1,1031 @@
+TITLE: $207k/mo NEW facebook ads targeting strategy for branded dropshipping
+URL: https://www.youtube.com/watch?v=bey648Li0j4
+DURATION: 1158s
+============================================================
+
+Hey guys, Mark here.
+In this video, I'm gonna be going over
+how to target on Facebook ads
+in order to get the maximum return on ad spend
+and run ads that are hyper-profitable.
+If you've been running Facebook ads for more than one day,
+you probably understand that what works
+six to 12 months ago is not what works now.
+So in this video, I'm literally going to detail
+exactly what works right now, step-by-step,
+so that you can steal it and use it for yourself.
+So when it comes to targeting on Facebook,
+the way that I'd like to think about it
+is there's a very, very clear right and wrong way
+to target on Facebook.
+So let's first talk about exactly what you shouldn't do
+if you wanna run profitable ads on Facebook
+when it comes to the targeting.
+And then right after that, I'll actually show you
+the right way to target on Facebook specifically.
+Now, before I actually show you
+the first wrong way of targeting on Facebook,
+I need you to understand how Facebook works.
+Number one, Facebook is not a social media company,
+it is a data company.
+And so it functions extremely, extremely well
+with really broad audiences.
+So it functions really, really well
+the more data that you give it.
+Previously, before, up until a few years ago,
+all the targeting and data that you gave Facebook
+was based off the inputs that you gave it.
+For example, what type of audiences are you using?
+What type of settings at the ad set level are you using?
+Et cetera.
+Now, recently, this is really not the case anymore.
+Most of the targeting on Facebook
+is now done at the creative level.
+And so in this video, I'm not gonna be going over
+like how to structure a good creative.
+I have another video on that.
+You can click the second link in the description
+and check that out.
+But this video is specifically about how to target.
+So how to set up everything right within the ads manager.
+Okay?
+What you probably don't know is that Facebook
+will analyze everything about your creative
+from the person on the ad.
+What is their skin tone?
+Are they male or female?
+How old are they?
+And they're actually using AI to analyze
+every single little facet of your ad.
+And they're using that to power the targeting.
+So previously, you could set up a specific
+like interest audience or a custom audience
+and it would literally run directly to those people
+and that'd be like the most profitable audience
+that you can run, right?
+Well, now that's not really the case anymore.
+A lot of the targeting now is done at the creative level.
+So if you don't have good creatives
+and they're not really calling out your target prospect,
+you're always going to be struggling.
+So the first main type of targeting
+that I would not recommend you go with
+if you're just starting out
+or especially if you're scaling
+is going to be interest targeting, right?
+So interests are basically categories
+that Facebook will put people in
+if they dictate that a particular user
+is interested in a topic and a career, et cetera.
+Now, the reason that this no longer works
+as well as it used to is simply
+because you are actually paying a premium
+because Facebook is tagging that particular buyer
+on Facebook.
+As an interest buyer.
+And what happens a lot of times
+is that you'll have some really small pockets
+within a particular interest audience that are profitable.
+But overall, as you scale,
+it just gets more and more difficult
+because your audience is always capped.
+And Facebook as an algorithm
+works extremely well with data.
+So the more data you can give it about your buyer,
+the better.
+Interest audiences are really the thing
+that if you Google something
+or if you click on one single ad
+or engage with one single post,
+you suddenly start seeing all these posts
+that are being related
+to the one thing that you clicked on originally.
+This is the power
+of interest targeting.
+It's still very powerful
+and it does work sometimes,
+but it's definitely not a way
+that is extremely scalable.
+And it's not a way that I would recommend
+that you start out
+on a brand new ad account either.
+This is what I mean.
+The majority of brands out there
+when they're just starting out
+and when they're scaling
+are all targeting directly
+interest audiences on Facebook,
+which means that you are paying a premium
+just to target the same audience
+as everybody else.
+What I would much rather do
+is set up a better audience
+that has less competition
+and still is going after
+the right high qualified buyers.
+So if you're in your Facebook ads account,
+you're at the ad,
+if you want to target
+an interest audience,
+all you do is you go to
+switch to original audience options.
+You're going to use original audience
+and you're just going to scroll down
+until you see this
+advantage detail targeting section.
+Now, if I were to type in,
+for example, hair care
+into the search bar
+and I select this one right here,
+you can see it's a very large audience.
+That would be what an interest audience is.
+And that's how you run it.
+The second main type of audience
+that I would not recommend
+that you run too much anymore
+is going to be the lookalike audiences.
+So lookalike audiences
+are you give Facebook
+what's called a seed audience.
+So for example,
+if I have a thousand buyers
+for my product,
+that'll be my seed audience.
+I upload them to Facebook
+and then a lookalike
+creates a variation
+that looks a lot like
+that original seed audience.
+And you can create degrees
+of separation of how close
+you want that new lookalike audience
+to be to the seed audience.
+Now, if I were starting back
+in like 2018, 2019,
+lookalikes were the shit.
+They were smashing.
+Like as soon as you've got
+enough buyers,
+enough add to carts,
+enough view contents
+for your lookalike audience,
+you run that lookalike
+and it will be
+it would destroy.
+It was a super,
+super powerful audience.
+Now, especially after in 2021,
+when we went through
+the iOS 14 updates,
+there's significantly less data
+that is powering those lookalikes.
+And so for that reason,
+lookalikes started to get nerfed.
+They were not nearly as powerful
+as it used to be years and years ago.
+So lookalikes are another type of audience
+that I really try to
+kind of stay away from.
+I still test them here and there
+to be totally honest with you.
+And they never really work at scale.
+So I pretty much have moved
+completely away from
+lookalike audiences in general,
+unless it's something
+very, very niche that I'm running.
+But for me, I'm a big scale guy.
+Like I'm going broad.
+I'm going after a lot of people.
+So the niche thing typically
+doesn't apply a whole lot to me.
+Another poor thing about
+lookalike audiences, guys,
+is that they get
+really, really expensive.
+Like oftentimes on a brand,
+not on a brand new ad account,
+but after you have a little bit
+of spend behind
+your particular offer,
+the product that you're selling
+and you test a lookalike,
+I've seen CPMs higher
+than my interest audiences,
+higher than any other audience
+that I run.
+I'm talking like $150 plus.
+And that's ridiculous
+because I already paid
+to create the seed audience
+that the lookalike
+lookalike is being built off of.
+So it's ridiculous.
+And for that reason,
+I don't really enjoy
+using lookalike
+inside of my ad manager.
+If you want to run
+a lookalike audience
+after you're in your campaign
+and you go to your ad set level,
+that's going to be right
+under custom audiences.
+So if I were to click in here
+and I select lookalike audiences,
+I can now see all the various
+lookalikes that I've created.
+You can see it's
+nicknamed by percentages.
+So the closer that percentage
+is to one.
+So for example,
+this one is a 1% lookalike
+of our customer list.
+The closer the percentage,
+the closer it's going to be
+to that original seed audience.
+And if you do like 10%,
+for example,
+then it's going to get
+farther and farther away
+from that original seed audience.
+And as a consequence,
+make that audience
+bigger and bigger and bigger.
+And the third and final
+kind of like wrong
+type of audience
+that you can run,
+it's just going to be
+any type of custom audience.
+Custom audiences
+specifically got nerfed
+for the exact same reason
+that lookalikes did
+because this is the original,
+you know, when I said seed audience,
+the custom audience
+is that seed audience.
+So if I do get a thousand sales
+for a particular product,
+that I'm buying
+and I want to upload
+a customer list,
+that will be the custom list
+that I'm running ads to.
+So for example,
+this can work really well
+for, you know,
+middle funnel remarketing campaigns,
+bottom of funnel
+remarketing campaigns,
+anything where you have
+already the data
+and you want to remarket to them.
+The problem is number one,
+if you're running
+like a really broad audience,
+you're already going to be
+hitting people more than once.
+It's just,
+it's just a part of the game.
+And then number two,
+because of iOS 14,
+there is significantly less people
+that are actually being entered
+into the custom audience,
+which not only makes it look like
+less powerful,
+it makes the original custom audience
+less powerful as well.
+So I don't really run
+the custom audiences
+really at all
+when it comes to structuring
+my ad accounts,
+running ads on Facebook.
+And to set up custom audiences,
+it's basically in the same place
+as lookalikes.
+You come in here
+and you just select custom audience.
+And here you can see,
+I know you can't see this guys,
+but this is a buyer list,
+another buyer list,
+a buyer list,
+an email list,
+a Facebook ad engagement list.
+So again,
+this is where you select them,
+but I just told you guys
+that I don't run these anymore.
+So I'm not going to actually
+go through and set up everything.
+Let's actually talk about
+the best audiences
+that you can run on Facebook.
+The best audience by far
+that you can run on Facebook
+is going to be what we consider
+a broad audience.
+So this is a very,
+very large audience.
+And the only time
+that this actually works guys,
+it's like a really important caveat
+is when you actually have
+a really good creative.
+Okay.
+So like I said,
+everything stems
+from the creative level.
+If you don't have a creative
+that's talking to the right person
+in the right way,
+it doesn't matter
+how you target on Facebook.
+It's not going to work.
+So you need to have
+really high performing creative.
+So let me just kind of
+get that out the way
+because I need you guys to know that.
+Now, broad audiences
+can kind of be segmented
+in a few different ways, right?
+Way number one is you have
+kind of what I call
+the old school broad, right?
+So let's just write
+old school right here.
+Now, the way you set up
+old school broad audiences
+is if you're in one of your
+ad sets here, for example,
+we're going to scroll down
+to that same section
+and right where it says
+advantage plus audience,
+we're just going to hit
+switch to original audience options.
+Now, once you're down here,
+you want to only add
+a few different restrictions.
+Number one is going to be the age.
+Number two is gender.
+And number three is language.
+Other than that,
+you're not touching anything.
+You're not adding
+any interest, any demographics,
+any behaviors.
+This little bar right here
+should remain untouched, OK?
+And so all you're doing
+is you're telling Facebook,
+hey, I'm just basically
+targeting in these countries
+to these ages and that's it.
+I'm not telling you anything else
+about the customer
+that I'm going after.
+And this works really well,
+like I said, when you have
+a lot of data in the ad account
+and even sometimes
+when you're just starting out,
+because again, a lot of the targeting
+is done at the creative mode.
+Now, there's a reason
+that I call this
+old school targeting,
+because another type
+of broad audience
+that you can target
+is called advantage
+plus audiences.
+So by default,
+the advantage plus audience
+is typically already preselected.
+So as you can see,
+we've got the check marks right here.
+And if you switch to original,
+that would take you
+like to the OG broad.
+But this is like
+the new school broad.
+It's called advantage plus.
+It's basically Facebook's
+fancy way of saying,
+hey, we'll do all the targeting
+on our end.
+Don't worry about anything.
+You sit back, relax.
+You be a chat media buyer.
+We'll take care of it.
+We'll take care of you.
+That's what advantage
+plus targeting is.
+And this is extremely,
+extremely powerful.
+Because you're using
+the number one asset
+to Facebook,
+which is its data.
+And if you have the right
+messaging on your creative,
+then this can work
+extremely well and even better.
+This is not only
+a massive audience, right?
+Anytime you run broad,
+you're basically running
+to hundreds of millions
+of people.
+But it also has
+massive scale.
+Okay.
+Which means that
+this is an audience
+that can actually be
+consistent for you.
+So I know a lot of people
+talk about like,
+you know, Facebook ads.
+And I know I completely
+spelled that wrong,
+but you get the idea.
+A lot of people talk
+about Facebook ads
+are like, man,
+I can't get my Facebook
+ads to be consistent,
+blah, blah, blah.
+It's so annoying.
+It's just up and down,
+up and down, up and down.
+Two things to say about that.
+Number one,
+part of that is fucking normal.
+You're advertising
+to human beings
+on one of the most
+emotional platforms
+on the planet.
+Do you expect it to be,
+you know, a consistent,
+smooth ride every day?
+Probably not.
+Number two,
+you can limit
+those inconsistencies
+by consolidating
+your ad account
+and by targeting
+much broader audiences
+and letting Facebook
+do more of the heavy lifting.
+Another cool part about this
+is as you scale,
+you're going to have
+more,
+more ads to manage.
+And the more ads to manage
+means that you are going
+to have less time
+to actually manage
+those ads,
+which is not a good recipe
+if you're an entrepreneur,
+you know,
+requiring more and more time
+inside of the ads manager.
+What you want to do
+as you scale
+is you actually want
+to consolidate the account,
+which means fewer campaigns
+with greater audiences.
+And you're really
+just competing on creatives.
+Competing on media buying
+is one of the most difficult
+things to do on the planet.
+The best media buyers
+in the world
+are extremely,
+extremely,
+extremely data heavy,
+meaning they want to see
+Facebook do the heavy lifting.
+They just want to put
+in the right inputs
+and then they're going
+to step back
+and let Facebook do its thing.
+So as long as you set up
+your campaigns in the right way,
+and really,
+I'm going to go back
+to it one last time,
+I promise.
+If your creatives are good,
+then you'll be able to scale
+without spending
+every five minutes
+inside of the ads manager.
+I've personally
+been the type of guy
+who's inside of an ads manager,
+like every 30 minutes,
+refreshing,
+you know,
+making cuts,
+scales, etc.
+And I've also been the guy
+that checks the ad account
+once a day.
+And that's not the same
+you know,
+that's like $10,000 to $20,000
+per day in ad spend.
+And the only difference
+between those two
+is one time the account
+was not consolidated
+and the other time it was.
+Another thing that I hear
+really often
+is like this account structure,
+like this audience
+doesn't work for me, right?
+You know,
+I tried it myself,
+Mark,
+I followed your video,
+I tried it
+and it doesn't work for me.
+The reality of that situation
+is that if you try
+this really consolidated structure
+and you're trying
+these more broad audiences
+and it's still not working,
+the real reason,
+the deep reason
+that you probably
+don't want to hear
+is that your creatives suck.
+You know,
+you can have
+amazing, amazing creatives
+and it'll work
+on any structure
+of your ad account.
+It'll work on any audience
+that you're testing
+if your creatives
+are really that good.
+So if you try
+this new structure
+and it's not working for you,
+you need better creatives.
+You need to start
+actually building a team
+within your business
+that can pump out
+high quality,
+data-driven creatives
+every single week.
+We test anywhere
+from 20 to 50 creatives
+per week, minimum.
+That's not including the copy.
+That's not including
+the audiences.
+That's just the creatives.
+That's the image or video.
+That we're testing.
+20 to 50 a week
+is what we do.
+That's our KPI.
+If you're not at that level,
+you know,
+unless you're like
+a complete beginner,
+if you're not at that level,
+then you need to
+step up your game
+because the more you test,
+the more data you get,
+the more you're going to understand
+what your audience
+actually resonates with.
+And then you can switch
+to that consolidated
+account structure
+and just watch your ads fly.
+Another thing I've heard
+a lot of people say
+is like,
+Mark, I'm running
+this really niche product.
+I can't run broad.
+I don't want to market
+to everybody.
+If you believe that,
+then you seriously
+misunderstand
+how the Facebook algorithm
+actually works.
+The whole point
+of gathering data
+is to gather data
+around the right people,
+the people that are
+actually your customers.
+So the more data
+you give Facebook
+in the form of ad spend,
+the more data
+it's going to return you
+and gives you back
+into your ad account
+tracked by your pixel
+about where your customers
+actually buy.
+And so going broad
+doesn't mean that
+you're just going to target
+everybody on Facebook.
+It means you're just going
+to open up the gates
+and let Facebook
+do all the heavy lifting
+for you.
+And the final objection,
+some people say,
+they're like,
+Mark, I have a new ad account.
+I can't just go
+running broad
+straight from zero.
+And once again,
+that is completely wrong.
+Again, guys,
+if you're running on broad,
+all the targeting
+is going to be done
+at the creative level.
+It used to be the case
+maybe a few years ago
+where you wouldn't want
+to run an account
+from day one
+on broad targeting.
+Facebook has evolved
+an insane amount
+since that point in time.
+We now have the extreme
+addition of artificial
+intelligence to power
+the targeting
+and the creatives
+on Facebook.
+So if you have creatives
+that are really good
+and you still set up,
+for example,
+like an advantage
+plus interest audience
+or advantage plus CBO,
+that can still
+absolutely destroy.
+That's how powerful
+the new Facebook targeting is.
+So I'm not saying
+you can just sit back
+from day one
+and never check
+your ad account.
+You still want to read the data
+because it's a constant
+game of iteration.
+But you don't need
+to obsess over interest.
+Oh, it looks like this, that.
+Just start with broad
+and you can typically see
+good results from day one
+if your creatives are good.
+And then you can make the cuts.
+You can make the scales.
+You can see where your audience
+actually resonates with.
+Facebook ads
+and honestly ads in general
+are skewing more and more
+to just becoming
+a game of creatives.
+Whoever had the best
+creatives will win.
+I will always pick somebody
+who's just a master
+at creatives to hire
+in my business
+compared to somebody
+who's just a master media buyer.
+So guys, as you can tell,
+I've gone through
+the most important
+targeting options
+that you have on Facebook.
+At the end of the day,
+creatives are king.
+Creatives are going to be
+the majority of what
+powers the targeting
+on Facebook in 2024 and 2025.
+And this is what you actually
+need to be focusing
+90% of your effort on.
+Don't spend hours
+and hours every day,
+especially if you're
+just starting out,
+microanalyzing
+your ads manager.
+Just look at what the data
+is telling you
+and then you're going
+to make better creatives
+based off of the data
+that Facebook gives you.
+For example,
+if you have one ad
+that has an extremely
+low click-through rate
+and high CPC
+and another that has
+vice versa,
+very high CTR
+and very low CPCs,
+then you can tell
+which one is resonating
+with your audience more.
+And then based off
+of that particular ad
+that you're running,
+you create new variations
+and new variations
+off of those variations.
+And the more you do that,
+the more you are beginning
+to understand
+where your customers
+actually resonate with,
+which will just power
+more and more profit
+into your business.
+You need to understand
+that Facebook is literally
+analyzing everything
+about your ad,
+not only your ad,
+but also your landing page
+and everything
+about your business
+in order to find you
+the best customers.
+So if I was running
+this business right here,
+for example,
+and I was Facebook,
+I'm of course going
+to look at the photos.
+I'm going to look at this.
+I'm going to look at that,
+but I'm not going to
+look at it like this.
+What Facebook sees is this,
+just this massive page,
+page after page
+after page of code.
+And so this is how
+it analyzes the copy
+on your page.
+This is how it analyzes
+the images.
+This is really what it sees.
+Okay, so it's not just
+you need to have
+really good creatives,
+but that's why I'm so heavy
+on scaling with funnels.
+You need to have
+a really well-designed
+landing page process,
+a full funnel
+from start to finish
+because Facebook
+is going to analyze
+this word,
+this word,
+this word,
+this word,
+this image,
+this image,
+these features.
+It's going to take
+all that data
+into consideration
+when it's going out
+and trying to serve you
+the person who's most likely
+to buy your product.
+And by the way,
+to do that little trick,
+I don't know if you guys saw,
+just right click
+and hit view page source.
+And you can see
+all the data right here.
+You can scroll forever
+and you can also see
+data specifically
+about like the extensions
+that your competitors
+are using,
+the landing page builders
+that you're using,
+et cetera.
+So luckily for you,
+Facebook actually put out
+a formula for how they calculate
+what's called
+the total value of an ad.
+Now the formula
+has changed a little bit,
+but this concept
+is super, super important
+to understand
+even until today.
+Because if you're asking,
+okay, Mark,
+I understand creatives are keen.
+How do I create good creatives?
+Well, part of that
+is understanding
+this formula right here.
+So the total value of an ad,
+and remember,
+Facebook is an auction-based platform.
+Every time there's
+an impression of an ad,
+behind the scenes,
+there's actually an auction
+going on to figure out
+which competitor
+is going to place
+for that particular format
+and fight for that impression.
+The more auctions you win,
+the more impressions you have,
+the lower CPMs,
+the more Facebook
+is going to reward you
+with the best, best traffic
+they have at their disposal.
+And so the total value equation
+is what's called
+the advertiser bid.
+So if you're using
+like lowest cost conversions,
+that's on automatically.
+If you do a manual bidding,
+that's going to put you
+at a higher level
+in the auction
+times estimated
+action rates.
+And the estimated
+action rates here,
+this is actually going to be
+the conversion rate
+on your website.
+So how likely
+is somebody who clicks
+actually going to go through
+and purchase from your website?
+Facebook actually knows that
+and they take that
+into consideration.
+If you have a very,
+very low action rate
+on your website,
+for example,
+a very, very low conversion rate
+under, let's say,
+like 1%,
+just like terrible,
+then why would they
+send you more traffic?
+Because clearly
+there's some mismatch.
+You have to always view things
+from Facebook's perspective.
+They're sending you traffic.
+They're like,
+okay, I found,
+I think the best buyer
+for you guys.
+Let's see what he does.
+And then he goes through,
+browses your website,
+and then he leaves.
+He doesn't buy.
+And that happens
+99 out of 100 times.
+Facebook is going to
+penalize you for that
+because you are creating ads
+that are not really resonating
+with the thing
+that you're actually
+optimizing for,
+which is a conversion,
+a sale.
+And so this formula here
+can be very valuable.
+The final part here
+is user value.
+And this is really like,
+how are people reacting
+to the ad
+that you're giving them?
+What is the
+relevance score,
+quality score,
+conversion rate score,
+et cetera?
+What is the thumbnail stop rate?
+What is the hold rate?
+How well is your ad
+stopping people
+and not completely
+pissing them off?
+That's basically
+how Facebook views it.
+Once again,
+if there's anything else
+you take from this video,
+please let it be
+that creatives are king.
+Like, this is how
+every ad platform is,
+by the way.
+It's not just Facebook.
+It's TikTok.
+It's Snapchat.
+It's even Google and YouTube.
+Creatives are the currency
+and it's beautiful
+because it's a level
+playing field
+for everybody.
+The person with
+the best creatives
+will win.
+And so that's why
+inside Brand Builders Academy,
+which is the program
+I have with Alex Fedotov,
+we literally teach you
+exactly step by step
+how to create
+these creatives
+that are most likely
+to be rewarded
+by Facebook in the auction,
+which means
+a higher conversion rate,
+which means more profitable ads
+and more profit for you
+in your pocket.
+And so if you're
+interested in kind of
+learning that process
+step by step,
+you can just fill out
+an application,
+click the first link
+in the description
+and apply for BBA today.
+And other than that, guys,
+that's it for this video.
+I hope you enjoyed
+and I will see you
+in the next one.
+Peace.

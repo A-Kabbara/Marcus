@@ -1,0 +1,436 @@
+TITLE: how to create AI video ads with Sora 2 that print (this feels illegal)
+URL: https://www.youtube.com/watch?v=SqaFKi7D4pQ
+DURATION: 752s
+============================================================
+
+Hey guys, Mark here.
+In this video, I'm gonna show you
+how to make Sora 2 video ads that absolutely print.
+Here's a quick sneak peek of one of the video ads
+we're gonna be creating today.
+Thyroid creams and my eczema.
+It works on your face and body.
+Yes, that is 100% AI, 100% Sora 2.
+Now, let's get into actually how to do it
+and we'll watch the full ad at the end of the video.
+So the process for creating Sora 2 videos is very simple.
+It's actually five steps.
+The first step is you wanna identify swipe.
+Next, you wanna write the script.
+Next is you wanna storyboard the ad
+and I'll explain exactly what that is in a second.
+Number four is you wanna actually generate
+the prompts for Sora 2
+and then the final piece is you actually generate
+and create the clips on Sora 2
+and piece them together into a fully cohesive ad.
+That is it.
+And you can do all of this
+and make the ad that I just showed you
+at the beginning of this video in like under an hour.
+No problem.
+All right, so let's begin with the first step
+which is going to be identifying a swipe.
+A swipe is literally just a ad
+that is running for a competitor
+that is performing very, very well
+that you want to emulate.
+Don't rip it one-to-one.
+It's a great way to get DMCA'd
+and a bunch of terrible things happen to your ad account.
+Don't do it.
+Just identify the top performing ads.
+Take inspiration and use that to create your new creative.
+So my favorite place to do that is my software, GetHooked.
+If you wanna get a trial for this,
+you can click the link in the description.
+But the cool part is like,
+this is basically the Facebook ads library on steroids.
+And if you look over to the left here,
+you can select filters to identify
+specifically ads that are winning
+and a bunch of other criteria.
+So for this example,
+I'm gonna select four and five star ads.
+Videos, status is still running.
+Language, I'm going to put English.
+And last thing, you can't see it
+because my fat ass face is in the way,
+but it's gonna be the video length.
+I wanna choose videos that are under one minute
+long, all right?
+So I select all of these pieces of criteria.
+Now let's go ahead and move forward.
+All right, so I spent a little bit of time scrolling
+and I found this ad here
+that is a bunch of different highly unique clips.
+And I think it'll be a great challenge
+to make this sort through video about.
+Check it out.
+I was so skeptical, but yes,
+Arctic Plants got rid of my acne in a week.
+I'm 28 and I struggled with acne for eight years
+until I found this.
+Now, you're not gonna find this product in a drugstore.
+It's not a prescription that comes with crazy side effects.
+Been there, we'll never do it again.
+It's totally natural, no harsh chemicals,
+and it's stopping me from ever taking Accutane again.
+You wanna get this balm.
+It's made from Arctic herbs and it's from Norse Organics.
+It's extremely potent because there's no water
+or fillers in it, so you just need a small amount.
+And it's got sea buckthorn extract and marigold oil in it,
+which actually kills the bacteria that causes the acne.
+It targets the root cause and prevents acne from coming back.
+I like to kill acne and redness ritual
+because it includes this moisturizer
+that literally makes my skin glow all day long.
+And this scrub that's made with rose flower
+that's super gentle and clears all my-
+All right, so now that we have the swipe,
+identified, we can actually move on to the next step,
+see how easy that was, boom, done.
+Now, the second step in the process
+is going to be to actually script the ad,
+which is where you take the swipe
+and you take the transcript from that
+and you just use AI to rewrite it
+according to your specific brand identity guidelines
+and what you actually believe and stand for.
+Now, my favorite process for writing AI copy,
+it's gonna be stupid easy.
+The first thing you're gonna wanna do
+is go through this foundational docs SOP, all right?
+I've done this countless times on my channel,
+so if you don't know how to do it, I can't help you,
+but it's literally spoon feeding exactly what to do
+using AI.
+And what it's doing is deep research to understand
+what are the real emotional triggers
+that gets your audience to actually convert
+because most people write copy at a surface level
+and the reason that your ads aren't converting
+is simply because the way that you're writing
+is not actually speaking to people.
+So the foundational docs process
+completely removes that as an excuse
+for why your ads aren't working.
+So I'm gonna go through this and what'll happen
+is you'll get an output of four documents,
+your research doc, your avatar doc,
+your offer brief, and your necessary beliefs document.
+You're gonna take all four of those documents,
+then we're gonna go to clod.ai,
+we are gonna go to project,
+and we are going to select new project.
+You can call this project whatever you want,
+just know that it's going to be around
+creating the script for your ads.
+Now that we're in the project,
+first thing we're gonna do is go to the instructions.
+Now for the instructions,
+what you wanna do is take this SOP that I have here
+for creating the instructions
+specifically surrounding your brand
+and then paste it directly into the instructions, okay?
+So if you want access to this document
+that is the SOP for creating the instructions
+for this clod project,
+go to my IG, it's at markbuildsbrands
+and DM me the word Sora, S-O-R-A,
+and I'll send it to you
+along with every other resource with this video.
+So I went through and filled this out.
+This is all the details here.
+I'm just gonna copy this,
+paste it directly into the clod project.
+And then the only other thing we have to do
+for this clod project to work
+is we're gonna go to the files
+and we're gonna upload all of our foundational documents.
+That is it.
+It's so incredibly simple, super duper easy,
+and let me show you how it works.
+So now we're gonna go back to get hooked
+to that ad, that swipe that we saved.
+We're gonna go to the transcription,
+which is auto-generated by AI.
+We're just gonna hit copy,
+go over into our clod project, gonna paste that,
+and then one stupidly simple,
+stupidly simple line right above it.
+And by the way, this is so idiot proof.
+Like it's insane.
+You don't need prompt engineering skills
+when you have a really solid foundation
+built with a clod project.
+You just don't,
+because you already did all the hard work.
+The foundational doc, the instructions, it's already done.
+So you can just talk to it as if it's a human being
+that's writing copy for you.
+So for example purposes, I literally just said,
+can you rewrite this ad for my brand?
+Stupid simple, all right?
+And then you're just gonna hit enter.
+And what it's gonna do is reference all the knowledge
+in that clod project to rewrite your ad script from scratch
+based off of a already preexisting proven
+win-win.
+And boom, just like that, we have the entire script.
+If you want, you can go ahead and chief it.
+I would highly recommend that.
+But for example purposes,
+I'm just gonna move pretty quickly
+and move to the next step.
+But look at that.
+We literally just already have two steps done.
+Now we have to move on to step number three,
+which is storyboarding the ad.
+Now the main constraint with Sora 2,
+if you use it in the platform itself,
+is there's a limitation of the max length of clip
+that you can use is 15 seconds,
+which means if we're creating an ad in this case,
+that's around 60 seconds long,
+we have to individually generate
+around four separate Sora clips.
+And so what that means is you have to
+take your script and segment it into specific sections
+because each output is gonna return a specific clip
+that you piece together to fully form the ad.
+If you skip this step,
+what's gonna happen is you're gonna have terrible clips.
+You're gonna have clips that are trying to match
+like a UGC versus like a B-roll clip,
+and it's just not gonna look good.
+So this step is incredibly crucial.
+But once again, I have it stupid simple
+for you guys to understand.
+So for storyboarding, all I like to do is take my script,
+paste it into a Google Doc and segment it
+into individual clips.
+So for example,
+the first clip is a creator walking through a drugstore.
+I only have those specific lines associated with that clip.
+The second is gonna be B-roll
+of like the inside of a pharmacy, like a CVS.
+The next is going to be a straight up typical UGC clip.
+And then the final is gonna be another UGC clip
+from our main UGC creator.
+Okay, that's it.
+It doesn't need to be super complicated,
+but you need to get details
+around every individual clip that you're using.
+And this is like storyboarding 101.
+You could take it so much farther,
+but this is just a good foundation for you to understand
+how to actually use this technology.
+Because if you don't storyboard,
+it's not gonna work very well.
+And boom, just like that, we got step number three complete.
+Now we move on to generating the prompts for Sora 2
+to actually function and generate good outputs.
+This is probably the most difficult piece,
+but once again, I got y'all covered.
+All right, let's do it.
+You are going to go back to Cloud.
+You are gonna go to projects
+and you are going to create a new project once again.
+This one is going to be specifically for Sora 2 prompting.
+All right, that is it.
+That is the sole goal.
+You can call it whatever you want.
+All right, let's move on.
+Now for this project,
+you do not need to upload any knowledge,
+but what you do need to upload is instructions.
+Once again, I have it all already laid out for you.
+There is literally nothing that you need to change
+about this prompt.
+Like you don't need to go in and edit anything.
+We're just gonna copy all of it,
+go into the project and paste it.
+Now we're gonna go back to our storyboarding document
+and we're gonna take this first initial portion
+of the script.
+We're gonna copy it,
+paste it directly into Cloud right here,
+and then do a few spaces.
+And what you wanna do is before you send this prompt,
+you wanna give it a little bit of guidance in detail
+about the kind of clip that you were trying to create.
+Now, if I was super duper extra,
+I could go into like Gemini,
+which is a multimodal model,
+which means that it can analyze videos.
+You can have it extract like metadata
+and everything around specific video.
+If you wanna do that, you totally can.
+What I have found is that simplicity often works
+very, very well, especially when it comes to SOAR 2.
+So in this case,
+the first clip is this woman walking through a CVS.
+So I would put a very basic prompt like this.
+I want a young, attractive, blonde, 25 year old woman
+at CVS looking at her phone camera
+that says the following energetically at a fast pace.
+Again, I could go deeper into this,
+but simplicity is king and creating that feedback loop
+where you get a clip,
+you see if it's what you want,
+you make adjustments and you just continue that process.
+So we're gonna go ahead and hit enter here.
+We have Opus 4.1 selected.
+You don't need to use 4.1.
+You could totally use Claude Sonnet
+and it'll do the job just fine.
+And as you can see,
+it creates this entire kind of prompt here
+that we can literally copy and paste directly into SOAR 2.
+So that's what we're going to do, all right?
+But now, once again, we have this four step created.
+Now we can move on to the final piece,
+which is actually creating the clip on SOAR 2.
+All right, so we're here in SOAR 2.
+I'm going to paste that entire long prompt,
+directly into SOAR 2.
+I'm using SOAR 2 Pro.
+It's not necessary.
+It's very easy to remove watermarks
+if that's what you're worried about.
+There's like a million websites that do that.
+Landscape, we're going to do portrait.
+Resolution, we're going to keep it at standard.
+And duration at 15 seconds.
+So I'm going to hit enter and let this cook.
+All right, so we've got the first clip already created.
+Let's take a little peek, see how it looks.
+Okay, so I quit steroid creams
+and my eczema like literally exploded
+until I found this Nordic balm with Manuka honey
+that actually heals your barrier.
+I'm 27 and I've battled eczema since I was a kid.
+It thinned my skin and made flares worse.
+I have no adjustments to make to this.
+This is like the very first try
+and this is exactly what we got.
+This is perfect.
+Now let's move on to the next clip.
+So we're going to copy this portion of the script,
+paste it directly into Cloud Project, get a few enters,
+and then write a little blurb
+of the exact content that we want.
+Now this clip is not UGC.
+This is actually B-roll of the inside of a pharmacy
+and showing like a steroid medication on a counter.
+All right, so once again, simple prompt, hit enter.
+So we're going to take this prompt, pop it into SOAR 2.
+And while that's going,
+let's actually move on to the next one
+and do just all these prompts.
+At once, I believe you can run a total
+of three SOAR 2 generations at one time.
+At least if I do more than that, it doesn't work for me.
+But now we're getting into the actual UGC.
+So same process as always,
+I'm not going to show it start to finish,
+but copy it, add into the Cloud Project,
+get details of exactly what you want,
+then send it directly to SOAR 2.
+All right, so we've got our first UGC clip.
+Let's take a look and see how it came out.
+Okay, Friar Organics is different.
+It's from Norway, made with Manuka honey
+that's been used for like centuries to heal skin.
+It's not watered down.
+It's pure concentrated healing.
+The Manuka honey fights inflammation
+and bacteria naturally while Nordic botanicals-
+Okay, you get the idea.
+This is fucking insane.
+Let me show you one of the other clips I made.
+Now this clip is actually some B-roll
+of the product actually in use.
+And just take a look at the prompt here.
+You can see, I switched it up a little bit.
+With the B-roll, it's incredibly important
+to keep it stupid, stupid simple.
+Check this out.
+So it's not perfect, but it is a amazing clip
+to use in B-roll back to back.
+You can do it in the fully packaged product.
+You can do it actually using the product.
+You can do it applying the product to your face,
+but then it doesn't really become B-roll.
+That's actually like UGC.
+But at this stage, I have completed
+every single individual B-roll
+and every single individual clip here.
+Let's finally put it all together,
+cross this shit off.
+We did all five steps
+and look at the fully finished ad we created.
+Okay, so I quit steroid creams
+and my eczema literally exploded
+until I found this Nordic balm with Manuka honey
+that actually heals your barrier.
+I'm 27 and I've battled eczema since I was a kid.
+Steroids thinned my skin and made flares worse.
+Now you're not gonna find this product in a drug store.
+It's not a prescription that comes with crazy side effects.
+Been there, will never do it again.
+Okay, Freya Organics is different.
+It's from Norway.
+Made with Manuka honey that's been used
+for like centuries to heal skin.
+It's not watered down.
+It's pure concentrated healing.
+The Manuka honey fights inflammation and bacteria naturally
+while Nordic botanicals rebuild your barrier.
+It works on your face and body,
+absorbs fast and doesn't leave you feeling
+like a greased turkey.
+After years of disappointment, Freya actually worked.
+My flares are rare now and when they happen,
+this stops them fast.
+60 day guarantee, so you literally have nothing to lose.
+So that's pretty damn good.
+If I had to give a complaint
+about this particular creative that I made,
+it would be there's very, very, very slight,
+variations in the character,
+but that has actually been solved by Sora 2 recently.
+You can create custom characters
+and I was just too lazy to do it for this video.
+But if you download the actual Sora 2 mobile app,
+you can create unique characters and character identities
+that you can continue to reuse over and over again
+with consistent characters and consistent voices.
+To me, this technology is absolutely fucking insane.
+And I think that if you're able to use these ads
+and create an ad like I just created there,
+you are on a great path to actually like finally making
+Ecom work and scaling your brand.
+Now, the one caveat here is just because you have good ads,
+if you're sending all your ads to a shitty funnel,
+you're not going to scale, right?
+So that's why I built Brand Builders Academy,
+because we don't actually just show you all this cool AI stuff
+with Sora 2 and everything,
+but actually the full process A to Z,
+product funnel, creative, everything.
+So if you want to join that,
+you can fill out an application below,
+click the first link in the description
+and we'll see if you're a good fit.
+Other than that, guys, thank you so much for watching.
+Hope you enjoy this one.
+This was a long time in the making
+and I actually filmed this video,
+I think seven total times, but my OBS kept crashing.
+So we finally made it.
+Thank you so much for watching.
+I'll see you on the next one.
+Run more ads. Peace.

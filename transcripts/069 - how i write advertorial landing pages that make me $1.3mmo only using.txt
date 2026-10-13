@@ -1,0 +1,295 @@
+TITLE: how i write advertorial landing pages that make me $1.3m/mo only using AI (prompts included)
+URL: https://www.youtube.com/watch?v=fYODZCW0SD4
+DURATION: 1226s
+============================================================
+
+Hey guys, Mark here. In this video, I'm going to show you how to write a full advertorial
+completely from scratch using AI. Now, what most people do, which is a terrible, terrible,
+terrible, terrible, terrible idea is number one is they find some swipe, right? They find somebody
+else that's running an advertorial and then they go over to, you know, good old trusty ChatGPT or
+over to Claude, you know, ChatGPT is superior, but that's a whole nother thing. And they basically
+say, Hey, rewrite this book for my company. And this overall is an absolutely terrible way to
+ever write a successful advertorial because you're not doing any of your research around
+your product, your audience, your offer, nothing. Basically say, Hey, ChatGPT, write this, make me
+a millionaire, make it print. I don't want anything else to do with this. And you know,
+as I said, that's a terrible strategy. And so in this video, I'm going to show you the real
+strategy that you should be following, which is much more extensive. But once you do all the hard
+work, it's very, very easy for you to replicate advertorials using AI really, really quickly.
+If you don't know what an advertorial is, it looks a little something like this,
+where you're basically selling to somebody using a combination of an ad and an editorial. So it
+feels like it was written by a third party.
+You're somebody that's completely impartial, completely unbiased, but in reality, you're
+selling your product throughout the entire landing page. So I actually have a full swipe file. I'll
+leave it in the description of this video that you guys can check out of all hundreds of just
+really, really successful advertorials. But that's not the purpose of this video. The purpose of this
+video is to show you the new best way for you to actually write an advertorial completely from
+scratch. Now, since we're not using this old process, the real process that we're going to
+follow is actually really, really simple. First, you're going to be doing your research. Now,
+this is not something that you're going to be doing yourself. We're going to use AI,
+but you're going to have to do this. Once you have your research, step number two is you're
+going to build what I call your foundational doc. Now, your foundational docs is basically a set of
+three or four different documents that you put together that you constantly feed into AI. And
+if they have these four documents, AI is always, always, always, always, always going to spit out
+just phenomenal, high quality copy that is based off of the research that you did prior. This is
+the step that most people skip. And as a result, they're never able to write an advertorial that
+actually converts. Step number three is you are going to find a successful competitor,
+and swipe them for your own rewriting process. Step number four is you're actually going to have
+AI write the full advertorial. And then step number five, of course, one of the most important steps,
+again, probably second most important, is to chief. So chiefing is a process of reviewing
+your copy and make sure that it's actually ready to be put out into the wild so that you can spend
+some money on it, make some money back in return. So let's go ahead and get right into it. No long
+winded intro or anything. What I did is I pulled together this full document here. I'm not lying
+sub 50 IQ individual, this document, and they would still be able to put out a really, really
+high quality advertorial. This is the best SOP I think I may have ever created in my life. So we're
+literally going to follow this step by step, right? And the first step, like I said, is research. So
+we're going to copy this prompt and head over to ChatGPT. And by the way, I said this briefly in
+the intro, but I really believe that ChatGPT is superior to Claude. I actually call ChatGPT
+ChadGPT because Claude tries to be so PC with everything and they don't end up getting as deep
+into the research as I really want them to. Plus, we're going to use an additional feature,
+in ChatGPT that Claude doesn't have that I'm going to show you in just one second. So all you
+have to do here is take out this little section right here where it says, explain what you're
+selling to and who. In this case, I'm going to take this actual product right here and I'm
+basically going to write an advertorial for this product. So I'm going to go ahead and copy this
+right here and add a little line in the AI that kind of explains actually what we're selling here.
+Now, very important before I hit send on this, what I'm going to do is I'm going to go to the
+brand that I'm writing for. In this case, I'm going to go over to webpage to PDF and I'm going
+to convert their entire sales page into a PDF. And I'm going to go over to the brand that I'm
+and upload it so that ChatGPT has a little bit of context about the brand that you're running for.
+This is your own brand. Just upload any content that you have. It could be PDF of your sales page,
+PDF of your existing advertorials. Just give it as much information as possible on the product
+itself. So I'm going to go ahead and download this and then we're going to upload it right
+into ChatGPT and hit enter. And by the way, make sure that you guys are using ChatGPT 4.5.
+I've been doing a lot of experimenting recently with AI and 4.5 honestly is significantly better
+than 4.0. A lot of the updates are just like marginal improvements, but this one I really
+feel is significantly better than 4.0. So I'm going to go ahead and upload this.
+than the previous model. Now, after we've hit these prompts, a lot of times it's going to give
+you this full analysis, which is fantastic. We actually don't care about that. We really only
+care about the finished product right now. And I'm really just priming ChatGPT to be able to put
+out the best quality copy as humanly possible. Now I'm going to copy prompt number two here,
+go over to ChatGPT, paste it in. I'm also going to paste two documents about how to properly
+conduct copywriting research. I have these linked in the document right here and here.
+I can't believe I'm giving this shit away for free. So I uploaded these two docs,
+going to hit enter and wait till it finishes the analysis.
+Next step, we're going to move on to prompt number three. So I'm going to copy this here
+from the doc, paste it over here. And once again, just fill out this one line here that actually
+explains the product that we're going to be selling. Now, this prompt is very, very important
+because basically what I'm telling it to do is create a prompt for itself. So it's kind of like
+AI inception. I'm creating an AI to do AI research. And what we're doing here is basically creating a
+prompt for it to use the deep research feature right here on ChatGPT. So I could write my own
+no problem, but why when I could use AI to write the prompt for me?
+As soon as I hit enter on this particular prompt, that's going to spit out a full prompt. I'm
+literally going to copy and paste directly back into ChatGPT, but make sure I have deep research
+selected. So let's hit enter on this prompt. All right. So we're finished the full prompt here.
+So I just copied that entire prompt that it gave me right here and literally just pasted it right
+back. And so let me scroll to the top here. No work necessary here. Like AI just wrote this entire
+prompt is very, very good. Just make sure you have deep research selected and I'm going to hit enter.
+Now, when you go through this process, typically the AI will ask you a few clarifying questions.
+Yep. There it goes right.
+Here. So you just have to quickly answer those and then it's going to go through the deep
+research process. So for this particular example, I'm going to say, yes, we are specifically US
+based. For number two, I'm going to say all price ranges. And number three, I'm going to say yes.
+And after this, I literally hit enter and it's going to begin the deep research process. Now,
+depending on your product, your market, et cetera, this is typically going to take anywhere from
+eight to 20 minutes. So I'm going to step away for a second. I'm going to let ChatGPT cook and
+I'll be right back. All right. So it took about 11 minutes. And as you can see here,
+oh my goodness gracious, look at all this.
+Beautiful, beautiful, beautiful research that just goes on for so long. So what you want to
+do now is you're going to copy this entire message, paste it into a new doc, download
+that document as a PDF, because that's going to be one of your foundational documents that you
+create. As I said here in this process, there's a set of foundational docs that you need. Okay.
+One is going to be the research doc. All right. And at this point, you have that done. This is
+the most difficult part, which is ironically also the easiest part because AI just did all of it
+for you. Now we go back to the doc and we are going to move on.
+The next foundational document, which is going to be our avatar sheet template. I'm going to copy
+this prompt here, go right here. And again, I have links to all these documents guys in this
+one mega document that I created this one here. So if you need the avatar sheet template, just go
+ahead and download that there. Now we're going to paste this document with the template downloaded
+also as a PDF. And if you don't know how to download these, by the way, if you just go to
+file download, you can select the PDF right there. We've got the avatar sheet doc uploaded. We're
+going to hit enter and keep cooking. Now what it's going to do here is fill out based off the
+details around the avatar that you currently want to sell to. All right. So what we're doing now
+is building the second foundational doc, which is going to be our avatar sheet.
+This is such gold. It's even just watching this AI cook right in front of me. It is so, so good.
+I mean, just look at like some of these quotes for this particular product, right? I need a
+solution now before another freezing winter hits. I'm desperate to stop throwing money
+away on inefficient heating. Finding a safe cost of a heater is a priority. I can't afford another
+huge bill.
+Like I literally can't afford another huge bill. That is a massive pain that we're going to be able
+to tap into with the copy on this advertorial. So same process, we're going to copy all of this
+right here, paste it right into another document called avatar sheet, download as a PDF, save it
+for later. Next, we're going to move on to the third foundational document. So let's go ahead
+and copy this. I'm going to paste it right in here and attach the offer brief template. So this is
+going to be the third foundational doc. This is all about the actual offer itself. So what is the
+funnel architecture that we want to use? What is the level of service that we want to use? What is
+what is the level of consciousness we want to speak to what is the stage of awareness stage
+of sophistication all that unique mechanism everything all the copy ingredients that you
+want to put together to actually create a good vsl this is why most people that just like paste
+in a swipe and say hey chad do you rewrite this this is where they mess up they don't actually
+understand the deep underlying principles behind high converting copy they just blindly swipe
+and hope that it makes them familiar it's a terrible terrible strategy so here with the
+offer document we paste the prompt in there we're going to upload the offer doc upload that right
+there wait for it to upload and just hit enter now it's going to fill out same exact process but
+it's going to fill out everything regarding the offer itself this is so good like i can't
+stop saying it bro but this is so insane i like to think that i'm smart that i came up with this
+but really this is all it's all ai doing this man it's incredible all right same process here
+the offer brief is done we're going to copy all of this information here if you want to add more
+information to these documents guys you're more than welcome to the quality of the output that
+you get from anisense.com.
+i'm going to save it through another document right now and save it as a pdf save it for later
+now we're going to head back to the document and going to work on our final foundational document
+now you don't need to understand what all that text is i know you guys see it's like oh it's a
+lot really what we're doing is creating this final foundational document which is the necessary
+beliefs that your prospect needs to have in order for them to be able to do what they need to do
+have in order to actually buy your product i believe that marketing at its core is simply a
+game of belief change prospects are coming into your business into your website into your funnel
+with a specific set of beliefs because we always act in accordance with our own beliefs your job
+is simply to shift those beliefs into empowering beliefs instead of limiting beliefs so that they
+will actually purchase your product necessary so i'm literally going to take all of this prompt
+right here don't worry about the text it's basically just going to analyze this transcript
+we're going to paste it directly into the document and we're going to paste it directly into the
+transcript so nothing needs to change and have it analyze this transcript real quick while that is
+cooking let's go ahead and go to prompt four we're going to copy this and note you have to attach the
+avatar sheet the offer brief and the research document that you already have created so we're
+going to copy all of this and then attach those other three foundational documents that we have
+already created previously so i'm going to paste this here and i'm going to upload the three
+additional documents as this is going another thing that i do guys just to speed up the process
+i literally hit enter on chat gpt on the prompt and i
+immediately move on to the next one because again we're not specifically looking for the
+output yet because we have not written an advertorial yet we're really just doing the
+research we're building up the foundation that's why i call them foundational documents because if
+you have them you only have to do this once as soon as you have it you're going to upload these
+documents in the future and literally just start printing really really good copy whether that's
+via sales whether that's ads whether it's advertorials anything landing page copy you can
+do it all so the short of this prompt is i want you to create these beliefs at a maximum of six
+that if they have every single one of these beliefs that they will positively buy our product
+so then we know the only thing that we have to do at that stage is simply make sure that our copy
+aligns with those six necessary beliefs that they have to have in order to buy the product and our
+job is done so let's go ahead and hit enter and it's going to go through and create those six
+necessary beliefs so same process as before guys we're literally going to copy all of these beliefs
+right here i'm going to paste them into a new doc save it and download it as a pdf and let's move on
+to the next step okay so the next step is going to be prompt number five in which case we're
+literally just going to refresh its memory and now send all the documents together and have them
+analyze each individual documents that they're completely top of mind for the ai if you really
+want to write good copy of the chat gbt don't think of it as an ai think of it as your junior
+copywriter you want to guide it you want to have a conversation give it feedback critique it so i'm
+going to upload these four documents right here at this point all of our foundational documents
+have been created we have the research doc the avatar doc the offer brief and the necessary
+documents so i just uploaded all those here let's go ahead and hit send and again this is really
+just to refresh its memory on all the research that is done prior all the hard work the next
+step in this process is going to be to find a swipe now like i said earlier you can check the
+link in the description i have a full swipe file already created on get hooked you guys can go and
+see all the advertorials there for simplicity purposes what i'm going to do is just use this
+advertorial for this product that's already running and just say like you know this one
+is running successfully currently so i'm just going to take this url and follow the same process
+before and do the url to pdf go ahead and convert it and i'm going to download that so i can send it
+as the swipe so i'm going to upload that swiped pdf of the advertorial that we want to emulate
+then the next step we're going to go back to our trusty document here and move on to the swipe
+section all right so we're going to copy all of this right here and paste that entire prompt right
+into chachi boutique by the way as a little side note i'm using this heat product this uh internal
+space heating product this is not a product that i personally sell and if you're wondering why the
+main reason that i've seen from this research specifically that people are looking for this
+product is to save money it's for affordability now this product is definitely affordable i'm
+gonna hit send here while i rant for a little bit this product is definitely affordable if
+you compare it to like your heating bill however typically audiences that are looking for the
+cheapest way to do things like i don't ever want to compete on price i want to have the premium
+product in my market because it's going to match with premium marketing premium messaging premium
+copy and so i don't really like selling to markets that are like looking for the cheapest way to do
+it's a race to the bottom there's a reason why nobody is able to compete with walmart and they're
+extremely low prices or same thing with amazon just the margins are ridiculously low i'd rather
+sell premium products to a premium audience so now that we've uploaded the swipe and chachi bt has
+analyzed the swipe this step is now completely done so like the research step is done foundational
+docs created swipe has been uploaded next we get to actually have some fun and start writing the
+advertorial now one thing that i noticed quick caveat is that when you're writing advertorials
+and any type of copy honestly with chatbot you're going to have to write the advertorials and you're
+going to have to be very careful with how much copy you wanted to write if i tell it to write
+the entire advertorial start to finish the quality of the output is going to be very low because it's
+limited with the number of tokens that it can send back to you so for example if there's an
+advertorial that's like 2 000 words and you say hey like rewrite this based off all the foundational
+research that we did it's only going to send you back like a thousand words so i like to do it in
+chunks either like first half second half or you know by chunks of the actual advertorial inside
+of my document here i have it go first half to second half so we're going to go to the right
+that we're on that step i'm going to copy this go back to chat gpt paste it and just fill in this
+information here all right and now that analysis is finished and i filled in the info on this
+prompt i'm going to hit send and now the fun actually begins where it's actually going to
+be writing the advertorial for you now keep in mind i only told it to write the first half so
+let's look at the first half if it's good we'll have it continue and finish the entire advertorial
+if it needs tweaking if we want to write to a different angle then we'll take some time to
+readjust it again it should be a conversation at this point
+all the hard work has been done it's really just finding the perfect angle for your advertorial
+making sure that it's being communicated properly another thing just because i'm really an annoying
+is i don't like it when you go through the side view here i always select answering chat
+instead because in my opinion sometimes the outputs come out cleaner that could be totally
+biased but that's just my personal experience oh great i broke it there we go all right so
+it's in the process of writing this full advertorial i'm already super excited because
+right i couldn't sleep and night terrified about our heating bills so i discovered this
+new device so massive open loop here created which is exactly what you want with an advertorial i'm
+dying to read the rest listening after reading the headline have one simple portable heater
+finally food my family from the endless stress of skyrocketing
+energy costs pretty solid headline but the crazy thing here is that this headline here is actually
+a swipe of one of the most successful headlines of all time a really really old direct response
+headline i did not tell to do this so the fact that this is really cool sales later i'm talking
+talking about here is this headline here they laughed when i sat down at the piano but when i
+started to play so look at this headline here i couldn't sleep at night terrifying until i
+discovered this new device so it's like a very very similar format here i'm pretty happy with
+this first half honestly mostly just based off of the headline because the headline when it comes
+to split testing things the headline pulls like 90 of your entire advertorial and so at this point
+i could cross reference and start going back and forth with chat gpt i'm pretty happy with this
+i'm going to tell it to write the second half and while it's writing that second half i'm going to
+go ahead and copy the entire first half here and paste it into its own document and it has finished
+the second half of the advertorial so same exact process guys i'm going to copy the second half
+paste it into my advertorial documents so that at this point we should have like a fully finished
+fully written advertorial and what you're going to do is paste all into another document same
+process right download as a pdf and immediately upload it back to chat gpt because at this point
+we have it written right you can go back and forth you can brainstorm new angles constantly like this
+is the step where you can really experiment but next we want to
+achieve it and we can achieve it ourselves which we you know i always recommend that you do but i'm
+going to have ai chief it first based off of the research that it did like is this advertorial
+actually in alignment with the necessary beliefs is it actually in alignment with the research is
+it actually following the necessary copywriting principles that need to be followed in order for
+you to write really high converting copy so i'm going to copy all this here paste it into my
+document download as a pdf and immediately upload it right back we're going to go over here and now
+we're going to go to the chiefing section of this document all right so i'm going to copy all of
+this here and go ahead and paste it into my document and i'm going to go ahead and paste it
+right in now i said this earlier but i want to reiterate when you are chiefing copy you should
+have ai chief it but you're not done you still have to go through and cheap it yourself and so
+my favorite chiefing process is pretty standard i like to read through it and anytime i feel stuck
+like there's not a completely natural flow and there's some illogical organization of the words
+that's going to be something that i actually personally adjust all right there was a famous
+copywriter can't remember his name currently but he said that your copy should basically
+be like your prospect is sliding down a slippery slide like a grease up slide so if there's any
+point during your advertorial where it feels like there's a bump in the slide and it just doesn't
+feel natural that's really the goal of the chiefing process where you can identify those points where
+it's not flowing super super well because that's going to be something that ends up costing you
+conversions so now this is actually a step that you want to read the output that ai has given you
+so let's take a look at the the chiefing that it did here so it does align with the emotional
+storytelling identification of the problem so hit the necessary button and you're good to go
+i believe my current heating method is inefficient and costly the unique mechanism is clearly
+presented we pre-handled objections like a lot of people think that objections are something that's
+only covered like an faq section no ideally there's no objections ideally you cover and
+handle all the objections before they even get to the sales page of your offer so this is really
+really good leveraging external blame and villain so this is like from the competitor analysis that
+it did previously the risk reversal is there which is going to help with the affordability aspect
+also in alignment with our levels of consciousness
+stages of sophistication and then also gives a few areas for you to potentially improve especially
+like the conspiracy angle because with this one it's like the heating companies are like trying
+to keep you broke or like trying to always keep increasing your bill etc etc so that could be an
+entire new angle that you dive into this is called the whistleblower angle where there was like
+somebody on the inside quote unquote that was able to escape and is now trying to tell the truth to
+the world that's a really powerful angle that you can use the avatars as well overall everything is
+pretty in line you can see that it's in line with avatar research but the
+fact that you did actually have people flip through your app for free with the necessary
+beliefs with the level of consciousness everything that you could possibly need and at this point
+you have completed the process i added a bonus here on the document which is basically how to
+create avatarios with additional angles but it's really in this process right here so after you
+go through and write it now you can actually have a conversation with Ai the entire time
+but that's basically it for this video guys i mean at this point you know exactly how to
+conduct really effective copywriting research you know how to create the foundational documents you
+know how to find the swipe you know how to write it and you know how to cheat so like you are basically
+the Xiaadan media director as you go through and write нашего活 Plano with this guideberk
+open sell a copy of thesamable tomb site is a super easy one and i 2018 дж.
+Like you are basically 100% completed on writing an advertorial.
+And that took us like under an hour to do the entire process.
+It's absolutely insane, like the capabilities of AI right now.
+And this is something that we use actively in our business and something that I'm proving
+every single day.
+But this is what we're actually doing right now.

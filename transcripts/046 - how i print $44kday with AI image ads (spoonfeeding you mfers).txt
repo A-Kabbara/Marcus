@@ -1,0 +1,247 @@
+TITLE: how i print $44k/day with AI image ads (spoonfeeding you mfers)
+URL: https://www.youtube.com/watch?v=uMoDlQftwWw
+DURATION: 1071s
+============================================================
+
+hey guys mark here in this video i'm going to show you how i print 44k a day using almost exclusively
+image ads if you've never cracked image ads before you probably don't know why they're actually
+so great so let me first tell you why image ads are so amazing all right number one is that you
+can iterate so quickly i believe that money loves speed and if you can move quick and you can test
+angles extremely fast it's a fantastic way to get your brand off the ground and even to scale it and
+just test new concepts without having to send stuff to a video editor or edit videos yourself
+and then number two just in the context of ai is going to be you can create these 100 yourself you
+don't need an editor and with some of the tools i'm going to show you in this video you can
+literally make like a full batch of like 20 creatives that are really really high quality
+without a designer in under an hour it's just absolutely absurd and if you think that like
+harder to make money with images it's actually not true you can make a lot of money with images
+sometimes even more than videos the one caveat that i want to say about image ads is that
+typically they tend to die out and get fatigued a little bit faster but if you're just starting
+out it doesn't matter
+you don't have to worry about fatigue with a specific creative until you get to like 10 to 50k
+and spend for that particular creative let's not talk about that for now let's actually talk about
+how to create these image ads because i really believe this is one of the most underrated things
+in e-commerce right now because everybody is just obsessed with videos and when everybody's doing
+one thing you ideally want to go do the other now what most people try to do when it comes to
+creating image ads is they'll go on facebook ads library they'll go on get hooked they'll find some
+pretty decent looking image ad they'll pop into chat gpt and say hey remake this but for my brand
+it's not going to convert anybody there's no emotional triggers whatsoever and then you throw
+it up in your ad account put some spend behind it and wonder why you're not a millionaire overnight
+well your ads actually suck and so in this video i'm going to show you the process that you can use
+to actually tap into these emotional angles because in the same way that you have like a hook
+with a video ad you have the same thing with a static image but the hook in and of itself is the
+creative and the power and the hook is basically created in one of two ways right the first way is
+we call like a transformation right so i went from x to y so i was in this terrible terrible state i
+was super super overweight and then boom i took this magic pill and now i'm 225 pounds lean six
+pack shredded i benched 500 pounds all the girls won me it's amazing right that's a transformational
+hook i went from this the nightmare situation to this the ultimate dream scenario so that's number
+one the other type of hook that is super powerful is just the first half which is basically only
+right now these are a little bit more tricky for you to figure out but with the nightmare
+transformation you essentially want to create a static image that is centered around the nightmare
+scenario so imagine like a super overweight person looking down at a scale and instead of
+the scale saying like 300 pounds or whatever it just says like you're fat you know like that's
+the nightmare situation for somebody who's struggling with their weight for example
+the reason this is a little bit more tricky is because there's not the emotional contrast and
+in the process i'm going to show you guys in just one second you can actually use ai to find these
+specific transformations so that you don't even have to come up with these yourself like i'm quite
+literally spoon feeding your exactly what you need to do to create winning static ads
+at scale that print you crazy cash the first step in this entire process is just to actually do your
+research okay now of course yes we're going to use ai for this process but you could up
+everything else if you get this one part right i promise you you're already ahead of like 99
+entrepreneurs out there because what they do is exactly what i said in the beginning they just
+like
+go to their library or look on get hooked and they try to just replicate an ad not really knowing the
+deep emotional triggers that it's going to get somebody to buy you don't just guess this is what
+i really believe about ai guys long term where there's not going to be a game of guessing and
+testing to see if an ad is going to be successful you have all the research in the world all these
+ai tools in your belt why would you not use them to validate if this trigger is going to work or
+not before you put any ad spend behind it like just the risk and barrier to entry is so freaking
+low it's absolutely absurd and so with the risk and barrier to entry is so freaking low it's
+absolutely absurd and so with the risk and barrier to entry is so freaking low it's absolutely absurd and
+so with the research process again what we're really looking for is the hook like the
+transformation the specific quotes the voice of the customer right and so what we do to actually
+get the research is we follow my foundational docs resource which is essentially a series of
+four different documents that you use yes ai to create but when you have these when you
+feed these into ai you're able to create images that are like a hundred times better than if you
+were to just like type your own little prompt into chat gbt or to another like text to image software
+so let's quickly create the foundational docs because this is going to be one of the most
+valuable things that you would learn in this video so i'll make sure to you know drop the link below
+this video but here's the sop once again spoon fit all right all you have to do let's go to problem
+number one we're going to go over to chat gbt the model that you want to be using in this particular
+case is going to be 4-0 that's all you need to do for these initial prompts before we get into
+any deep research right so you're basically going to paste this in and fill in some information so
+i did a little bit of research before this particular video and i found this brand here
+that if we open up the similar web we can see that they're doing 300 000 visitors per month
+but more importantly they are scaling and they're scaling you know relatively moderately aggressively
+which is fantastic and there's just so much that we can tap into like with this particular angle
+i haven't made the ads yet but this is going to be fun so all i'm going to do i'm going to use
+this extension right up here and hit capture entire page yeah this is like a free extension
+i think but all it's going to do is screenshot the entire sales page here
+so that i can feed this into ai to help create a prompt to go and actually do the deep research
+so because if you're just like a total novice with using ai you're going to write your own prompts
+you should have ai writing prompts for you and that's what we're doing with this initial step
+so let's go ahead and save this pdf and then we're going to go back into chat upload that pdf right
+there and as soon as it's load we're going to hit enter while that's going let's move on to prompt
+2 all right we can go through this super duper fast so we're going to paste prompt 2 and once
+again we're just going to upload these two documents here and here and let it run so we
+hit enter there let's move on to the next prompt we just paste it right in we're going to hit enter
+we actually have the fun part so that entire you know three prompt process right there was
+literally just for us to get an actually good prompt that we can resend into a new prompt
+inside of chat gpt and enable deep research right so we're going to go to the bottom hit copy and go
+to a new window hit paste and make sure we delete any of this nonsense up here that is just totally
+not necessary and same thing at the bottom and then we're going to go to tools we are going to
+hit deep research and hit enter every single time you run these deep research and honestly this is
+like a pet peeve of mine chat gpt will ask you a few questions and then we're going to hit enter
+so let's just quickly answer those all right so we hit enter after answering those questions and
+now as you can see it's starting the research so let's fast forward through this all
+righty so here we are we got the entire research document completely done here as you can see this
+is just i can't even tell you how much freaking gold there is in this entire you know many many
+multiple page long research and the best part is this is only one of the foundational documents
+right so what we're going to do is we're going to copy this entire thing and go ahead and paste it
+into a document and save that document download it as a docx and just keep it in your back pocket
+in the meantime let's move on to the next prompt we're just going to copy this right here go into
+chat gpt paste it attach the avatar sheet template and hit enter all right so we got the full avatar
+sheet same process as before guys we're just going to upload this into google doc download it and
+keep it in your back pocket and let's move on to next prompt which is going to be this one right
+here so let's copy this paste it in attach the opera brief document and hit enter all right now
+we're going to move on to the necessary beliefs which is the final document here so let's copy
+all this text right here go back into chat paste it in and hit enter all right in the very final
+prompt here let's go ahead and copy all this we're going to reattach the three documents that we
+already have so we can complete the final document which is the necessary beliefs document we're
+going to paste that right in and hit enter all right so at this stage we have all the foundational
+docs actually created so like the first step is done the boring part is done and now we can move on
+and have some fun and start creating these creatives okay so like i said the first process
+is research first step right that's done step number two is going to be to identify the existing
+proven formats that are actually working in the market right now so when it comes to like testing
+static ads i typically follow the 80 20 principle which means 80 of the testing that i do is
+iterations of existing winners now if you don't have successful ads in your account yet that means
+that you can go to a tool like get hooked which i'll show you and you can identify winning creatives
+and have ai remake those simple as that all right that's number one if you have winning static ads
+already you can upload those as references and make iterations the other 20 percent is going to
+be completely new concepts that you create from scratch okay so let's just act as if this is a
+brand that we've never actually ran before we have zero static ads running whatsoever what we're
+going to do is open a new tab and go over to get hooked and all i'm looking for here right now is
+existing winning ads that are running in the supplement space so let me show you the exact
+format that we're going to select here because this is very important right so for performance
+we're going to do four and five star ad format is going to be image static ad style we're going to
+leave that blank for now status is still running run time is going to be a minimum of seven days
+language is going to be english channels let's do facebook and instagram creative usage let's do
+more than three and brand active ads i want to see a minimum of 100 ads in the ad library all right
+and that's going to be it for these filters so let's quickly identify right some pretty good
+ad formats that i like that kind of like stand out you have like traditional before and afters
+comparisons those will be pretty easy like one thing when it comes to creating static images
+guys is like there's a lot of format and that's one cool thing about get hooked that you can
+actually do is the static ad style right if you only want to see before and afters boom
+all the before and afters right if you only want to see uh faq explainers boom you have them all
+there so there's a bunch of different styles that you can kind of play around with and of
+course you can always just scroll through like i am and find some good formats right so the first
+thing that i want to do is let's see let me find one that stands out here i actually really like
+the format of this creative right here let me zoom in to make sure that you guys can see it but
+it is technically before and after but it's animated like one of the risks with running
+before and afters is you're very likely to get that ad rejected and potentially even your entire
+ad account shut down so i don't necessarily recommend them but if they're animated like
+this they're a lot more likely to be approved so what we're going to do is we're going to go
+right to download media hit that so that we have
+that image saved and next step we're going to go back to chat gpt and open up a new window all
+right guys so next we're going to take this prompt right here this is another prompt that i wrote for
+image app creation once again you'll notice it's a prompt to write a prompt and this is like one of
+the most important steps because if you don't understand prompt engineering you're never going
+to get the output that you want and typically humans just suck at writing problems in general
+why not use ai for what it's good for so if you want this entire prompt right here just dm me the
+word image on ig it's at mark builds brands and i'll send it to you over for free so i paste the
+prompt adjust it all the way down and then i'm going to go back to chat gpt and open up a new
+window all the custom info now we're going to add those four foundational documents that we just
+created before and let's hit enter and again guys you can still use the model 4-0 for this because
+we're doing something very very simple we're literally just going to be creating prompts with
+this right so the next step we're going to upload that swipe image right that example image that we
+found on get hook with a simple line you don't even need a prompt for this can you please create
+a prompt to recreate this image but for my brand so because we already did all the hard work of
+creating the foundational documents and having some good prompt engineering here now we can be
+all lazy and chatty
+and just say hey i need you to remake this now all right so it's going to create the prompt right
+here as we can see and what we're going to do now this is like the most important part of this entire
+video we're going to copy this section right here that is the actual prompt and then we're going to
+go over to my favorite text-to-image software that is on the market right now higgs field so
+higgsfield.ai is a very very high quality text-to-image software that you can use and
+truthfully i have no relationship with this company and maybe i will in the future but
+i'm sharing it because i use them and i produce a lot of winning creatives using this software
+right here what's really cool is if you go down out of my camera maybe covering it if you select
+where it says soul you can essentially see that there's three different models down here we have
+higgs field sole flux context max and gpt image so these are obviously three different text image
+models that you can use to create images but what's interesting is that each of them has a very
+distinct advantage right higgs field soul for example if you look at these four photos at the
+very top right here very very good for creating images that can be used to hearing pictures that
+the most realistic ugc type images right basically indistinguishable from taking photos like with an
+iphone right a few of these down here also same kind of thing flux context in my opinion is really
+good with animation so if you want to create like an animated woman driving a car for example not
+animated as in like a video but like an image very very good at creating those i've also made
+multiple winners on that and then finally for gpt this is the best model for adding text on an image
+it's not perfect but higgs field is definitely not there flux in my experience is also not there
+so gbt is the closest one so in this particular case we're only going to use gpt for this
+particular brief so let's just send this in and hit generate but what i'll usually do guys is if
+i have an idea for a brief i'll actually launch it on all three models i'll launch it on gpt i'll
+launch it on flux and i'll launch it on higgs field and i'll see which one returns the highest quality
+output but i'll tell you right now if you're going to have text on your image creative chat gpt is
+most likely to be the most effective way to generate text on your image creative chat gpt is most likely
+still going to be your best option if you guys have better solutions i'm always eager to learn
+just drop it in the comments but for me i've produced so many winners with this model that
+it's what's working the best for me right now all right so just like that we got the image actually
+super duper fast and we can see the man boob thick before overweight dude again this is not
+gonna work if this was like a realistic image if you try to do a weight loss before and after
+oh my god you want to talk about having compliance issues with facebook that is just like the perfect
+recipe for zuck to hate you but as you can see puffy chat gpt is the best way to generate text on
+your image creative chat cpbc puffy chess gyno comestia soft and tired physique low libido and
+drive shame and insecurity all right and then on the right hand side got a guy that looks a
+little bit like me not quite as good looking unfortunately but lean hard chest high energy
+and focused reignited sex drive masculine confidence so great so amazing wow truthfully
+this is really good a lot of times when there's a lot of text on the image chat gpt will totally
+up but it was flawless in this particular case the reason why is because again all the hard work that
+in, this particular case the reason why is because again all the hard work that we did before so this
+again all the hard work that we did before so this entire project is just not going to work the way
+So this entire video, I don't know how long this video is going to end up being, but if you put in
+the work, you build the foundational documents and you have the right prompting using AI,
+everything else is just so much easier from there on out. Let's do another one real quick,
+but in a different format, right? Let's take this one as an example, sold out in a blink.
+I kind of like this and this could be a good ad potentially for retargeting, right? Maybe for
+cold traffic, probably not, but we're going to hit download, upload that right into our chat
+GPT. Simple, simple, simple prompt right here. No need to do it in a new window because we're
+doing super duper basic low context window. We already did all the training. So let's just get
+this tech to image prompt and then we'll go ahead and paste it into Higgs field. Once again, this
+one is probably going to be best for the chat GPT model. I know I'm using chat GPT in Higgs field,
+so it's kind of ironic that I'm using Higgs field period. But like I said, you can try to run this
+with other models, but with text on the image, I promise you it's typically going to be better
+if you use the chat GPT model.
+But if you want to do it in a different format, you can do it in a different format.
+If you want to do something very, very realistic, then you absolutely can. In fact, we'll do that
+just one more test after this. And here we go. We got the creative right here. Obviously, this is
+not going to be what the actual bottle looks like. If I wanted to add the bottle in, I could very
+easily. I just didn't upload PNG file of what the bottle looks like. But this looks really good.
+Honestly, the branding is going to change a little bit because of the bottle. But to be honest,
+I didn't really give it that context. So just give it the context and expect it to give you a much
+better output. But let's use the Higgs field model, Higgs field sole specifically just one time.
+So another thing that you guys can do is down here, instead of sending a swipe or an example
+from get hook, you can just have it create one from scratch. So in this case, the prompt I use,
+can you create a text to prompt image for hyper realistic image of the nightmare scenario,
+completely misspelled, like half the words in that sentence, but fuck it. And we're going to
+take this entire prompt right here. Once again, very extensive. It's not always the case that
+like the longer the prompt is going to give you a better output. And in fact, oftentimes it's not.
+But, you know, let's see what we can do. We're going to paste this in.
+Select Higgs field. I didn't even read it, but let's see what it looks like when it comes to
+realistic images, by the way. Once again, within Higgs field sole, I do like to use the realistic
+model. The iPhone model can work very, very well, but I truthfully stick to these two or like 90%
+of the ads that I'm doing. All right. And here we got the images now. Really important caveat here.
+Obviously, this is not going to be something that you run on Facebook. This is literally just for
+example purposes, but this does show you how realistic some of the images can look.
+I don't know why it made his eyes look so dark, like he just got into a fight with 10 dudes and
+got completely fucked up. But hey, still very realistic. That's really the point. And I think
+you can see even by some of these images below just how realistic you can make these images look
+with the right prompting. In this case, I actually think that I over prompted just a little bit, but
+that's not the point. The point is to show you how cool this technology is and how amazing it can be
+if you use it correctly. Again, get creative, you know, experiment with the different models. And I
+promise you, you can create a creative that looks.
+Really, really good and fits the exact style that you kind of want. So that's going to be it for this
+video, guys. Again, thank you so much for watching. If you want more info like this, we literally just
+built an entire AI section in my mentorship program called Brand Builders Academy. So if you
+like this, we have stuff way better than this inside. So if you want in, you can click the
+first link in the description and check that out. We have a full application process, so we're very
+clear. We don't want to accept everybody. But if you're serious, got some capital set aside, click
+the link and you can apply. Other than that, I'll see you on the next video. Peace. Run more ads.

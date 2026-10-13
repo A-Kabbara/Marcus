@@ -1,0 +1,239 @@
+TITLE: winning products are a lie.
+URL: https://www.youtube.com/watch?v=2XG8McHVSeY
+DURATION: 1111s
+============================================================
+
+hey guys mark here in this video i want to talk to you about why i believe that winning products
+as a concept is a lie i believe that it is a lie that was created by gurus and to kind of convince
+you that if there's for whatever reason that you're not seeing success in e-commerce and
+drop shipping it's all because of the product but i think this is a very very flawed way of thinking
+and i want to show you the exact way that i actually think about things differently okay
+and so if you think of kind of the standard path that most people go through is they will number
+one they're always going to find a product and after they find a product obviously they're going
+to build a store and then you're actually going to go through and test the product on let's say
+paid ads for example and what happens when people go through this process typically is that right
+after they you know they find the product they build a store and they actually test the product
+on ads what happens they lose money and what most people do at this point is they go right
+back to stage one and they say god darn it uh this product was not a
+a winning product i guess i guess i just didn't hit the lottery with this particular product
+now we have to go back to the drawing board and actually retest another product and they just
+continue this cycle over and over and over again they test the product lose money test the product
+lose money and every single time they're blaming it on the same exact thing which is the product
+when in reality yes the product is important i'm not going to sit here and tell you that a product
+is not important however there's more than the product that goes into being successful
+when it comes to drop shipping with a product
+a product can carry your way to success if you have no idea what you're doing
+if you have like an s to your product these are extremely extremely rare to find
+and i never recommend people to start with the strategy instead of going about this process i
+want to challenge you to simply think a different way i'm not going to tell you like step by step
+but i promise you if i change the way that you think it's going to make you more money
+compared to just like some other product research tutorial or some facebook ads tutorial just
+understand this one reframe is going to make you more money than any other little tutorial
+that i were to put out on this channel and so what we're going to do instead of doing it this way is
+we're still going to find a product i'm not going to talk about how to find a product because it
+really doesn't matter in this example we're still going to build a store and you know what we're
+still actually going to test that product on ads what really changes is what happens after you test
+a product on that because if you kind of think with the old way the lazy drop shipper way as i
+like to call it as soon as you see that you're not profitable on that initial launch let's say you
+spend a hundred dollars on ads two three hundred dollars on ads five hundred dollars on ads
+and you're not profitable that's the only metric that you look at but i want to challenge you to
+think a different way so instead of thinking that way let's say you test a product on ads
+right you still lose money notice how the outcome is still the exact same now the difference between
+the the lazy drop shipper and the winning branded drop shippers is the winning winning branded drop
+shippers they actually lose money and then they ask themselves a very very important question
+and that question is why i never believed that the game of like testing
+a product on paid ads is a game of gambling because you know that you don't ever actually
+lose money you only buy data i'm gonna say that again you don't lose money you buy data
+and so the problem is most of these lazy dropshippers they have no idea how to actually
+analyze ad data and funnel data to actually identify what the breakdown is so i was recently
+training somebody on my team and i'll teaching them basically how to run ads from scratch
+the process that i taught this team member was basically where is the breakdown
+occurring so in this video i want to actually show you exactly how to identify what the real
+constraint is where you can identify exactly what it is about this initial test that you did
+that caused it to not be profitable and then with one simple tweak one simple relaunch
+you can actually be profitable and so the the strategy here is anytime that you launch a product
+and you're unprofitable there's a reason for it so your your job is to ask why and so let me kind
+of show you how i actually go about this decision making process because there's only two possible
+reasons that your ad in the ad launch that you did was not successful so the first breakdown
+that can be happening is an ad side breakdown and so again always ask your question where is
+the breakdown occurring number one it's either occurring at the ad level or number two it's
+occurring at the funnel level and if you're wondering what funnel level means all i mean
+when i say the word funnel in this particular circumstance is simply the process when you get
+somebody to land on your website for the very first time and then go through every step where
+you're writing a link that's available to you or the first step in your process so if you're running
+a regular pdp a product page and you're sending your traffic there you have the product page then
+you have the add to cart page and initiate checkout page and then the success page like the
+thank you page that's the funnel that i'm referring to in this case so you either have
+a funnel related breakdown or an ad related breakdown now the only question is of course
+how do you know which breakdown it is and then how do you actually solve it okay the evidence if you
+have an ad side breakdown right let's say you spent three hundred dollars on ads and you're going to
+looking for is, are my ad metrics either within a KPI or outside of a KPI? And so the first KPI
+that you want to look for is going to be your ad side metrics. For example, your CPMs. Second is
+going to be your CTR. Third is going to be your CPC. And to be real with you, I actually did this
+in a reverse order. The most important is a CPC and then CTR and then CPMs. Because even if you
+have ridiculously low CTR, which ideally you actually want a high CTR, let's say your CTR is
+like 0.5%, not a very good click-through rate in this particular case. If your CPMs are low enough,
+your CPC is still going to be pretty low. Like if you have $5 CPMs and you have a really low CTR,
+your CPC could still be like under $1. And so the KPIs that I want you guys to shoot for in this
+particular case to identify where the ad constraint is, is if your CPMs are, let's say, this one is
+very highly dependent on what you're doing. So if you have a really low CPMs and you have a really
+running, but you have CPMs that are over $30, that could be an ad side breakdown. If your CTR
+is less than 3%, that would be an ad side breakdown. And finally, let's say that you're
+running traffic specifically in the United States. If your CPC is over, so greater than $1.50,
+then that would be another ad side breakdown. So whenever you launch your ads again,
+I want you to keep this video open and you're going to go through and you're actually going
+to set up your columns in a way where you can identify this data very, very easily.
+And if you don't know the exact columns that you should kind of have set up within your ads
+manager, just go to my Instagram at Mark builds brands and DM me the word columns, and I'll send
+it to you for free so that you can kind of keep it in your back pocket. But what you're looking
+for initially, number one is actually going to be the CPC. So when you start spending money on ads,
+let's say that you have a CPC of $3 and you're running ads in the United States,
+that's a very expensive CPC in the e-commerce industry. And so again, this depends a lot on
+the niche that you're testing, but this would mean all of these actually typically,
+I mean the same thing, which is that there's either a number one can move over a little bit.
+There's either number one, a creative problem, which basically means that the ad that you're
+actually running is simply not good enough to get enough people to click through at a high rate.
+And then number two would be an audience problem. So maybe your creatives are actually really good,
+but just because you're targeting the wrong pocket of audience,
+you're not actually making money. Now, listen, I know I spelled that wrong, but listen,
+I know that 99% of the time, and I'm speaking from my own experience here,
+it's actually a creative problem. I can't even tell you how most people have no clue how to
+actually create highly persuasive creatives on Facebook ads, on TikTok ads, on any platform in
+general. They just don't know how to create highly converting creatives. And so typically,
+this is the number one issue that I see. It's typically a creative issue. If you diagnose
+your funnel and you look through the columns, you see, wow,
+man, my CPMs are really high. My CTR is really low. My CPC is really high. What that means is
+that your creative is not getting pushed in the algorithm because it's not actually getting people
+to your website in an efficient manner that Facebook likes. You have to understand that
+Facebook's whole goal as a platform is to get as many people onto the platform as humanly possible
+and create a positive user experience. If you have ads that are, for example,
+highly aggressive, that have before and afters, that are saying specific kind of trigger,
+you don't want to say in your ads, guess what? You're going to be penalized. If the ad isn't
+rejected, that doesn't mean that Facebook doesn't like it. They could still not like it, but kind of
+do a little penalization in terms of increasing your CPMs or even just sending you lower quality
+traffic. So that's when it would actually be an audience issue. So if you see, for example,
+that your creatives are killing it, like your CPMs are fine, your CTR is very high, your CPC is very
+low. However, you're still not really converting people. That could be an audience issue.
+And what I mean by audience issue, this is very rarely the problem. Once again,
+I just want to be super clear. It's typically a creative issue, but if it is an audience issue,
+then you need to adjust the targeting at the ad set level. If you're running, for example,
+advantage plus, maybe try testing interests. If you're running broad, maybe try testing
+some really, really broad interests instead of just keeping it wide open. Just play around with
+the targeting and this method of just split testing, like you're a mad scientist. I promise
+you, it's going to save you so much money in the longterm.
+So that's the first side of constraints that you want to identify. Again, you go through the ads,
+you spend some money. The question you're asking is where is the breakdown occurring? So let's say
+your ads are great. Your CTR is good. CPC is fine. CPMs aren't too bad. What is the real breakdown
+now? Well, what that tells Facebook is that you're getting people off of their platform
+in a very efficient manner, which is good. Facebook is okay with that. They know
+that very good ads are actually going to take users off of their platform. That's okay. That's
+part of running sales campaigns in general. Now, the next question you want to ask is
+what if there is a funnel side constraint? Where would that breakdown be occurring? What would
+that breakdown really look like? And you're going to see that manifest really in a few different
+ways. Number one, and most importantly, it's going to be your conversion rate. So if you have
+a conversion rate that is under 3%, that is going to be a funnel side constraint. I'll tell you
+right now, the two most common things that I see is either going to be a creative issue or a funnel
+issue, specifically getting people to add the product to the cart in the first place. So again,
+I'm speaking specifically if you're running like that PDP funnel that I mentioned earlier.
+So if your conversion rate is under 3%, that means that your landing page is not doing its job. If
+your ads are good, all the ad sets are within KPI, but your conversion rate is, let's say, 1%,
+your sales page is not doing its job. You don't have persuasive enough copy on the page. You
+don't have enough benefit-driven
+gifts, for example, that is actually showing people how the product works. Maybe you're
+focusing too much on the features instead of the benefits and the outcomes that people will get.
+And so the conversion rate typically I see manifests in two different ways. Number one
+is going to be your add to cart ratio. So my goal is always going to be over 10%. And you
+can actually see this on your Shopify dashboard. What is the percentage of people that land on your
+page and are marked as a content view? How many of them actually add the product to cart? The KPI here,
+is 10%. If you're at like 5% or like 3%, that is a huge needle that you can move. And what you need
+to do is split test different landing pages. So whether that's just changing the copy and the
+images on the PDP, that's fine. Whether that's building a custom landing page, like a custom
+sales page through something like PageFly or through something like GemPages, that worked
+as well too. I've ran with both successfully before. Or maybe you want to just take the leap
+and build a whole direct response style funnel through another platform like Funnelish or two.
+So I'm going to go ahead and do that. And I'm going to go ahead and do that. So I'm going to go ahead
+and do that. And I'm going to go ahead and do that. And I'm going to go ahead and do that. And I'm going to go ahead and do that.
+whatever it is, your ads are doing their job. They're pulling the weight. That's good.
+That's something that's difficult to crack. Most people never crack that. Now you need to work on
+the funnel and get people to actually convert. And so this is one issue that I see is going to
+be that add to cart ratio. And then the other is going to be basically your add to cart to
+purchase ratio. So let's say that you actually do have 100 add to carts. In this case,
+what is the KPI for getting 100?
+add to carts to actually go through and purchase? Well, the KPI that we have internally is a minimum
+of 30%. So if you have a hundred add to carts, that means that in an ideal world, you have at
+least 30 people that actually purchase. And again, this can all be tracked within the Shopify
+analytics. It's very easy to see. And so again, it's kind of like a linear decision-making process
+where first you ask yourself, am I profitable? The question typically is no. So you ask why,
+where is the breakdown occurring? Is it an ad breakdown or is it a funnel side breakdown? Okay.
+Let's say it's a funnel side breakdown. If your conversion rate is under 3%, the question is why?
+Okay. Well, let's see. Is our add to cart ratio good? Okay. Let's say the add to cart ratio is
+good. The sales page is doing its job. The product page is doing its job. Great. The breakdown in
+this example, let's say is I have 30 add to carts, but I only have two purchases. That would be
+another constraint that you would have to solve. That would be the real root cause of the issue.
+A lot of people don't have that. A lot of people don't have that. A lot of people don't have that.
+A lot of people, they just like throw money at ads, see that it's not profitable, and then they
+quit. That's not how business works. That's not how paid ads work. It doesn't even matter actually
+if you're running paid ads, any traffic in general, you need to understand this principle.
+You need to have an add to cart ratio of ideally 10% or more, and then the add to cart to purchase
+ratio of at least 30%. And so if all of these metrics are in check, I'll tell you right now,
+you will be running a hyper profitable business. Hyper profitable. Your ads are killing it. Your
+funnel is killing it. Your ads are killing it. Your funnel is killing it. Your funnel is killing
+it. All you have to do now is run more ads, spend more money on ads. It's that simple.
+Now, in the very, very rare case that your ads are good and your conversion rate is, sorry,
+there should be over 3%, or that's if it's bad. I'm sorry. So if you have a bad conversion rate,
+that's under 3%. Maybe, and again, this is not very rare, but maybe you're not profitable simply
+because your average order value is too low. So our KPI, this really, really depends on the price
+of the product that you're selling. I think a good KPI for your AOV is 2X your front end product
+price. So let's say that I'm selling a product for $30 on my Shopify store. If I run a little
+bit of traffic, I see that I'm not profitable. I go through this whole decision-making process.
+My conversion rate's good. Add to cart ratio is good. The only thing that's not good is my average
+order value. And the way that I know that, once again, on the Shopify dashboard, if you're selling
+a product for $30, you're selling a product for $30. You're selling a product for $30. You're selling
+a product for $30. The KPI would be your AOV is a minimum of 60. And honestly, this is really
+conservative. I would even say go as high as 3X your front end product price. So if I'm selling
+for 30, then the AOV could be all the way up to $90. And if you're sitting back thinking, Mark,
+how is that even possible? That sounds insane. I thought that some upsells and some order bumps
+would maybe boost the AOV by 5, 10, maybe $20. 3Xing is just ridiculous. And to that, I say,
+I'm doing it. I'm doing it.
+Literally right now. And I also have many friends that are doing it right now. I know one of the
+biggest brand owners in this space has an average order value of $200. Yet his front end product
+price is only like 70. And so think about that. That's almost a 3X of your front end product
+price. So again, this whole process is going to help you diagnose the real root cause of the
+problem, the real breakdown. So again, instead of going about this process like an NPC and just
+following the basic bitch advice that's all over YouTube, where you just throw money on ads,
+you get really confused, lose money, and then you get scared and turn everything off.
+Don't do that. I'm telling you from experience, that is how you make emotional decisions and
+never make any real money. Instead, you're going to put on your freaking big boy pants
+and you're going to read the data. Because again, you don't lose money with paid ads.
+You're buying data. It's a game of optimization. It's not just, oh, I tested this. I'm not
+profitable on the first day. Screw this. Turn everything off. No, that's not how it works.
+That's not how the freaking game works. You still find a product, build a store, test money on ads.
+If you're not profitable, guess what? Why? Is it an ad side breakdown or funnel side breakdown?
+Well, let's look at the ad stats. What are my CPM, CTR, CPC? Are they within KPI? No? Okay. Well,
+then that means that it's either a creative problem, most likely, and again, 99% of cases,
+creative problem, or it's an audience problem. Yes, I know I spelled that wrong. Now let's say
+amazing CPCs, great CTR, just the most highly engaging, high curiosity, conversion driven
+creatives to ever touch the face of this earth. Let's say that your ads are great. Now you want
+to look into your funnel. What is your conversion rate? If it's under 3%, you're not going to make
+it. If your add to cart ratio specifically is not over 10% or at least close to 10%,
+you're not going to make it. If your add to cart to purchase ratio isn't ideally close to 30%,
+you're not going to make it. And then finally, look at your AOV. Shoot for at least two to three
+your front end product price. Okay. So I hope you guys understand this. When I went through this
+process myself, like again, this is something that I wish I knew when I was just starting out,
+because this would have saved me so many freaking headaches over the years. I can't even tell you
+how much money I would have saved if I understood this. Ads and just generally running a successful
+e-commerce business, it's a game of constant optimization. It's not just throwing shit at
+the wall and then seeing that nothing sticks and then leaving. It's throwing shit at the
+wall and then seeing that nothing sticks and then leaving. It's throwing shit at the wall
+looking at what sticks and asking yourself, why? Why did this stick? And then this didn't.
+And this is why this decision-making process is so powerful. And again, this is all stuff that
+we teach within Brand Builders Academy. We take it to an even deeper level so that you can analyze
+sub KPIs within your ads. For example, like your thumbnail stop rate, your hold rate,
+and other custom metrics that we have on the ads dashboard. And the same thing with the funnel. We
+have these custom metrics that we're looking for so that you can get really, really nitty,
+gritty. So if you want to apply for Brand Builders Academy, you want somebody to hold your hand all
+the way to 1K a day, just click the first link in the description. Other than that, guys, I really
+hope you enjoyed this video. Again, share this with a friend who needs to hear it. Because for
+me, if somebody showed me this video six years ago when I got started, my mind would have been
+blown and I probably would have saved so much freaking money. So thank you guys so much for
+watching and I'll see you in the next one.

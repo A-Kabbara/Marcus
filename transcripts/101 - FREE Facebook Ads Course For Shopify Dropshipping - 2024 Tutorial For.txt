@@ -1,0 +1,473 @@
+TITLE: FREE Facebook Ads Course For Shopify Dropshipping - 2024 Tutorial For Beginners
+URL: https://www.youtube.com/watch?v=8SFz75J4pjY
+DURATION: 1934s
+============================================================
+
+In this video, I'm going to show you everything that you need to know to launch your first
+successful Facebook ad campaign from complete scratch. This video is designed to get you from
+somebody who maybe doesn't know a whole lot, if anything, about launching Facebook ads to a
+literal freaking ads expert, somebody who just hops in the ads manager and starts printing money
+practically on demand. And if you don't know who I am, my name is Mark Studer. And as you can tell
+by my shirt, I run ads for a living. So who better to learn from than somebody who does this every
+single day? After you're fully logged into your Facebook account, the first thing that you want
+to do is go to business.facebook.com. And the first thing we're going to do is set up what's
+called a business manager. You can see this is the first screen that we see right here. It's
+going to pre-fill in your name. So with Facebook, there's this infrastructure where at the very top,
+you have a business manager. You want to think of this as a house. And inside of the house,
+there's a bunch of different rooms that you can have, such as you can have a room for the ad
+accounts. You can have a room for the pixels. The business manager is what holds all of that
+together. So if you're building a house, you're going to start from the outside in. You're not
+going to start by building one of the smallest rooms, right? You're going to start by building
+the foundation and actually building the house first before anything else. So that's what we're
+doing right here. You want to start by naming your business manager. You can name it whatever
+you want. I'll just call mine MarksBM. And then here, you're going to have your name. And lastly,
+down below, just add your email that you want to use to be associated with the business. And then
+you're just going to click submit right here. And boom, there you go. Your business manager
+was created. Great job. You're doing great so far. Now you just are going to have to confirm
+your email address. So go over to your Gmail account or whatever you're using and click the
+inside of that email to actually confirm the creation of the business manager. So here you
+can see we got the email. We're just going to click in here and just hit confirm now. And there
+you have it. You've officially created your first business manager. Great work. You're doing so good.
+So now that you're in the business manager, the first thing you want to do is scroll all the way
+to the bottom on the left side and click business info. And here you're going to select edit. You're
+actually going to go through and insert all the information that you have that's associated with
+your business. Now, if you don't have a business, that's okay. Just fill out the information that
+is associated with you personally.
+And then when you do create the business, eventually down the line, you can come and
+update this information at any time. No biggie. So where it says legal name of business, if you
+don't have a business, you can just put, you know, your own name right here in country, obviously
+the country that you are staying. Same thing with the street address. Again, if you don't have a
+specific business address, just use the one that is associated with your residential address. It's
+fine. And always come back and change it later down the line. It's not a big deal. After you've
+finished all that, you're going to just hit save in the bottom right hand corner. Now that you're
+back in the main screen, the BM, next thing to do is to go to the section that says,
+people. So scroll all the way up to the top on the left hand side. So people is where you can add
+other people to your business manager. So for example, if you want somebody else to run your
+ads or you have a business partner, this is where you can go and do that. You just go up to invite
+right here in this blue button. You're going to enter their email address that's associated with
+their Facebook profile, and then just invite them to your BM. You know, it's like a little BM party,
+just invite them over, just come on over. But for me, I don't have any friends, so I'm not inviting
+anybody to my business manager. It's my party, party of one. Next step is to add two factor
+authentication. Now I know for a lot of you, that's probably kind of a pain in the butt,
+to set up, but I promise you it's worthwhile. And the reason why is because oftentimes you will
+see ad accounts get hacked, which means people will actually hack into your own ad account and
+spend your money and then disappear. Poof, they're gone. And there's nothing you can do about it.
+I'm only saying this because I have personally had experiences of this, and I can tell you from
+firsthand experience, it sucks. Just going to go to security center right here and rate under two
+factor authentication. We're going to hit everyone. And from there, you're good to go. 2FA will
+officially be set up anytime you try to log into the account. Now that we have kind of the general
+structure of the BM set up, we're going to move into actually creating your own Facebook page.
+So to do that, you're going to go right under pages. Who would have thought you're going to
+hit add very important here. You're going to select a third option. You're not going to hit
+add a page. This is if you're adding an existing page, but you probably don't have a page. So
+you're going to go right down to where it says, create a new page is going to create a brand new
+Facebook page from scratch associated with your business. So let's go ahead and click that. So
+whatever your business name is called, you want to put it right here. In this case, I already have
+one for my business. So I'm just going to call this one. Mark has no friends and under category
+pretty common. You're just going to choose whatever is associated with your category. So let's say like
+I run and you know, an education business. That's a great one. So we'll select like education is
+absolutely not mandatory. Just select whatever is most associated with your business and the bio,
+as you can see here, it's optional. So that means that we don't do it. It looks like Facebook is
+telling me I don't have friends. Now we can see that Mark's BM officially has the Mark has no
+friends Facebook page. So we're going to just check this box that says I agree and hit create
+page. I do have friends. I swear.
+I pay them a lot of money. So now that the page is done, we're going to do the exact same process
+with the ad accounts because right now no ad account exists inside of this business manager.
+There's no ad account room inside of this business manager house. So just go to ad accounts over on
+the left hand side under BM hit add and then create a new ad account ad account name. I wonder
+what we're going to put here. Once again, you can name this anything that you want. So if it's
+associated with your business, you could just put your business name and then add account right
+after it's pretty standard. In my case, Mark has no friends ad account pretty standard. Then
+you want to select the time zone that you're currently living in. It's probably automatically
+populated, but I'm in the New York time zone. So I'm going to keep that and then currency. Once
+again, just use the standard currency that you plan on advertising in. So if that's dollars,
+that's euros, doesn't matter. Just select the one that you're currently using. This is really
+important because you cannot change the currency. So like, let's say you accidentally select Turkish
+lira. You can't go back and change it. Like the only way is just to create an entirely new ad
+account, which is a total pain oftentimes. So make sure you actually select the right one. Don't mess
+it up. And here we want to select my business hit create. Now you're going to have this
+little box pops up that says add people and set permission. So this is kind of weird. So you have
+to assign yourself to an ad account just because it exists inside your business manager does not
+mean that you can run it. So you have to actually assign yourself as a person that can run that ad
+account. So what we're going to do here with this box is check this. Then we're going to check
+manage ad accounts. That means you can view the performance, manage campaigns, manage creative
+hub, everything, right? You're basically an admin on the account and we're going to hit assign. So
+before you start running your ads, you'll get this window again, where you have to add payment info
+to make money. So we're going to close this window and exit and continue with the set. All right. So
+now you have the ad account. What we're going to move on to next is verifying your domain. So
+whenever you start running an ad again, this is kind of weird that Facebook does this, but you
+have to verify that you actually own it. So if you try to run ads without a verified domain, you may
+not get the ad approved or you may get lower quality traffic because you didn't verify the
+domain. So it's just a good general practice to verify all domains that you're running. So in this
+case, we're going to go right under brand safety, hit domain, hit ad, and then we're going to create
+a domain. And now here, you're going to enter the domain that you already have purchased. If you
+haven't purchased one, you can just go to GoDaddy and buy one. It'll cost you like 20 or 30 bucks
+all in. It's very cheap. Oh, wow. It's available. If this video doesn't do well, I will have bought
+markhasnofriends.com for nothing. As you can see, it says the domain is not verified. So what we're
+going to do from this dropdown is hit the third option to update the DNS TXT record with your
+domain registrar. So because I just bought through GoDaddy, I'm going to head over to GoDaddy and put
+this little record in. It's very simple. You can do it with me. If you follow me, you can follow me.
+So I'm just going to copy here and go over to my domain. I'm going to hit add a new record.
+I'm going to choose TXT and I'm going to put this as the value. Boom. That's the name. Hit save.
+Yeah. So as you can see, our markhasnofriends.com domain is verified very quick. That was under a
+minute. That was actually pretty crazy. So the next most important step is that you set up your
+pixel. And if somebody ever says, Hey, I don't know what a pixel is. Can you explain it to me?
+This is all that you need to know. All it is, it's just a really cool piece of technology to track
+each and every person that comes to your website. Now to actually set it up,
+all you have to do is go to not the pixel section, actually kind of weird, but you're
+going to go into the data sets section and go ahead and hit add. Under add, you can name this
+data set, whatever you want. And we'll call this one. The mark has no friends pixel. And we'll do
+the friends with a Z. So after you hit create, you see this screen right here. Now I could go
+into detail about what each of these options means. What is conversions API? All you need to
+know is that it's a good thing and you want to keep this dot checked. All right. So we're going
+to hit next in the bottom right hand corner, and then we're going to select check for partners.
+Now, a lot of you, if you're watching this video, you're probably in the e-commerce,
+probably running stores on Shopify. So we're going to go ahead and select Shopify right here. And
+Facebook makes this so easy to actually get integrated. So all you're going to do is hit
+this blue button, go to Shopify. It'll open your Shopify account right here. Just select your store
+and we're going to hit install right here in the bottom, right? So because Facebook is a massive
+company and Shopify is also a massive company, they have these really cool partnerships that
+makes the integration super easy. When I was starting out, it was so difficult to get the
+pixel installed and so confusing. So you really got a good, you know,
+take advantage of it. So we're going to select our BM right here, Mark's BM, hit connect. Now we
+see this window pop up about managing your data sharing preferences. Now this section,
+we want to select maximum. All you need to know is that the more data you allow Facebook to give
+you, the better of an ad runner that you're going to be, the more profitable ad campaigns you're
+going to run. Because one thing that you take away from this video, it should be that data
+is freaking king. So we're going to hit save in the bottom right here. Next, you're just going to
+select the pixel that you just created. The Mark has no friends pixel right here, and we're going
+to select connect and then the terms and conditions. Check the box. Don't ask any questions
+and submit for review. All right. And just like that, we're good to go. We got the green active
+run ads on Facebook and Instagram. So all the pixel setup is officially done. So let's go back
+to the pixel settings on Facebook and we're going to just select next in the bottom right and then
+enter the URL that's associated with your business. So for us, that's just going to be the online
+store here. So I'm just going to grab this URL, paste it in and hit send test traffic. So what
+Facebook is doing now that the pixel is installed is they're sending what's called like test traffic
+to your ad account. So you can see that it's sending a message that says, okay, this person
+actually did visit and the pixel is actually capturing that data. So now we're back in the
+BM and you can see that, yes, the pixel is active. So everything was connected successfully. Seeing
+that green button is a good mark of verification that we're good to go. And then we're just going
+to hit finish in the bottom right here. So the pixel has officially been set up. Good job. Give
+yourself a little pat on the back. You did great. The final thing that you have to do, and again,
+this step is just kind of weird, but you absolutely have to do it is you have to assign that new pixel
+that you just created.
+So what you're going to do is you're just going to select the pixel that you just created,
+which for us is a mark has no friends pixel with a Z. And then when you're just going to select
+connected assets, assign assets and select the box of the new ad account that we already created
+previously. So this is the mark has no friends ad account. Boom. Now we're good to go. So we can
+actually jump inside of the ad account now. And I'm going to walk you through how to actually
+create your first real profitable ad campaign. Everything that we've done so far is literally
+just like laying the groundwork. We're setting the foundation because it's kind of annoying to
+set up. I'm not going to lie to you, but it's one of those things that you have to do. And
+if you don't, you're just not going to be able to run profitable ad campaigns, if at all. Now to
+actually hop in the ad account, we're just going to go to the ad accounts, select the one that we
+had created and hit open in ads manager. Now, before I create a single campaign, everything
+I'm about to show you is extremely fun, but it also gets extremely complex. So one of the most
+important things when you're running ads is simply having a feedback loop. So like I'm about to show
+you how to create your campaign, how to create your ad sets, how to launch it. And you'll get
+this huge burst of dopamine just flooding into your brain because you just launched your first
+successful ad as you should.
+However, the hardest part is letting the ads actually run, looking at the data and then
+making data-based decisions on how to make your ads more profitable. To this day, I personally
+have mentors that I look up to, to understand how to look at ad data better. And so that problem,
+like just not knowing how to read the data is actually exactly why we created Brand Builders
+Academy. So this is our community. We actually teach you everything there is to know about
+e-commerce, about Facebook ads. And we're actually so serious about your success that we will assign
+you a success coach where you can ask some questions about your ads. You can hop on
+calls with them. You can actually make sure that you run profitable ads from day one, because
+having that feedback is so freaking crucial. So if you want to apply for BBA for Brand Builders
+Academy, just click the first link in the description. So Facebook has a hierarchy inside
+of it. At the very top of the hierarchy, you have the campaign and you kind of want to think of
+these as the big building blocks of your ad account. What is it that you actually want?
+Do you want sales? Do you want engagement? That is all determined at the campaign level.
+Underneath the campaign, you can have multiple different ad sets. And all the ad set is,
+is simply who is the ad set? And that's what we're going to talk about today. So if you're
+really after, is it men between the ages of 35 and 55 that are interested in construction? Is it
+women between the ages of 25 and 37 that have an interest in makeup? This is where the actual
+targeting is done. This is where the who is captured. And then the ads are underneath each
+individual ad set. So you could have three, you could have five, you could have 30 ads
+underneath one singular ad set. And the ad, of course, is the creative. This is the most
+important part of the ad account, the video or image that you're using to try to get
+customers for your business. Without further ado, let's hop in and create our first campaign.
+So you're going to go up to this beautiful green button here and select create. Under buying type,
+we're going to keep it as auction. And as you can see, you have all these different objectives
+around what you want your campaign to actually do. Whatever you tell Facebook to optimize for
+is exactly what it will give you. If you want a bunch of leads for your business, it'll come back
+and it'll give you leads. If you say, hey, Facebook, I want some more likes on my Instagram
+post. So you select engagement. Facebook will come back and give you a whole bunch of engagement.
+Seems pretty straightforward, right? The most common question that I get, and I'm not joking
+when I tell you this, is people saying, well, I have this website, but nobody's visiting. I need
+traffic. So they'll hop in the ad account, they'll create a new campaign, and they'll select traffic.
+And you know what happens? They spend all this money running a freaking traffic campaign,
+and then they come to me like, Mark, I got all these people to my website, but nobody bought.
+I wonder why, Steve. I wonder why. It's because you said you want traffic and you don't want
+sales. God damn it, Steve. What you should do is actually optimize your campaigns for
+what you want. And that's what I'm going to do. I'm going to go ahead and create a new campaign.
+Which 99% of the people watching this video right now, you want sales, all right? You want to make
+money and run profitable campaigns. That's why you're here in the first place. So you're going
+to select sales and hit continue. Now you're going to get this option to do what's called
+an Advantage Plus shopping campaign or a manual sales campaign. So an Advantage Plus shopping
+campaign is where you tell Facebook, hey, I'm not going to tell you exactly who I want to go after.
+I'll just give you the creatives. You spend it how you want. Advantage Plus is a super powerful
+tool for scaling, meaning when you want to spend more money on ads and
+increase the amount that you're spending every single day, Advantage Plus campaigns are
+phenomenal. But when you're starting out, I highly recommend that you go with a manual sales campaign.
+So that's what we're going to do. Now that we're inside the campaign, the first thing you have is
+actually naming it. Now I could give you a hundred different naming conventions right now, but all
+that really matters is that you know exactly what's going on inside your campaign without
+actually opening it. So for example, if I were to close this off and I just see this one campaign
+that we're building right now, without clicking into it and looking at the settings, am I going
+to know exactly what product is being sold?
+At what budget? When did it start? What type of campaign is it? That is all you need to know.
+So I'm not going to go over a specific naming conventions. Just keep it simple and keep it
+organized. Now, if we scroll down past that, you don't need to select a category unless you're
+selling to a sensitive category like financial products, employment, housing, et cetera. So we're
+going to go ahead and skip that because that's not what we're selling. And we're going to keep
+the Advantage Plus catalog ads checked off and also the Advantage campaign budget checked off.
+So this, if I were to turn this on,
+officially what's called a CBO, which stands for campaign budget optimization. All this means
+is that you set the budget at the campaign level instead of at the ad set level. So for example,
+if you have a campaign and there's five ad sets within that one campaign, but you turn on CBO and
+you set, let's say a hundred dollar day budget, you're telling Facebook, Hey, you can spend a
+hundred dollars a day across any of these ad sets, exactly how you see fit. If you want to spend $99
+on one ad set and 25 cents across the others, you can do that. And oftentimes that's actually what
+the ad set is. So if you want to spend $99 on one ad set and $0.25 across the others, you can do that.
+But for us, since we're starting off with a brand new account, we're going to stick to ABO,
+which is ad set budget optimization. So you set the budget at the individual ad set level,
+instead of at the campaign level. So moving down, we don't need to adjust any of these settings
+here. We're just going to go ahead and hit next, move on to the ad set level. Now, again, the ad
+set is the who, who is it that you're actually trying to target in this particular ad set.
+So for conversion, we're going to keep website selected. We're going to select our pixel here.
+Mark has no friends with a Z pixel. Under conversion events, we're going to select purchase.
+Because once again, what you tell Facebook to optimize for is exactly what it's going to give
+you. So if I were to, instead of purchase, select something like add to cart, then you're going to
+turn into somebody like Steve and you're going to get all these add to carts and zero purchases.
+Under attribution setting, you'll see it'll say seven day click and one day view. Once again,
+I could go into detail about this, but all you need to know is that that's a great place to start
+and you don't need to adjust it until you're spending just a stupid amount of money on ads.
+So keep that as is. So you can see here, dynamic creative is turned off. We're going to keep it
+off. Dynamic creative is another one of those features created by Facebook.
+Where they're like, oh, you just give us a bunch of inputs, a bunch of creatives,
+headlines, copies, blah, blah, blah. And we'll figure out the best combination. And yeah,
+in theory, that makes a lot of sense, but I can tell you after spending a stupid amount of money
+on ads at scale, this really doesn't work that well for numerous reasons. But at the end of the
+day, it doesn't matter. I listened to data and the data says that just traditional creatives are much
+better. So keep that checked off. Now we'll move to the budget. Under the budget, I highly recommend
+keeping it as a daily budget instead of lifetime or instead of selecting an end date. I'm a big
+fan of keeping it simple. And when you're launching new ads, you should be hands on
+this idea that you just like launch ads and you set it and forget it. And then you go on a vacation
+to Bali. It's just complete bullshit. Ads are something that needs to be looked after, especially
+in the beginning. You want to look at the data, but if you set a lifetime budget or a budget with
+an end date, then I know you just have the wrong intentions going in. So keep it as a daily budget.
+And in terms of how much it should be, what I highly recommend is set the daily budget at what
+your product is priced at currently. So let's say I was selling a $30 product. I'm just going
+to go in here and put 30, and then I'm going to let that run for a minimum of three days, which
+means this specific ad set will have spent at least $90. So I can actually look at the data,
+see if this is something worth pursuing and what adjustments I need to make to the product or to
+the creative. Now that we have the budget set, you have to schedule for when you want that ad set to
+start spending. So for me, I always think it's best practice to schedule for the next day around
+4 AM because I only run ads in the US and that's when naturally a lot of people are beginning to
+wake up. And I know you're thinking, Mark, who the hell wakes up at 4 AM? You would
+be surprised because I have people buying products at 4 AM. I don't know who they are,
+but I love them for doing that. And let's move on to audience controls.
+Before I go through audience controls, we're just going to scroll down here and select
+switch to original audience option. So we're not going to be using the advantage plus audience.
+Again, this is one of those Facebook features where they want you to give them control over
+the audience, but on a brand new ad account, I don't recommend that. So we're going to hit
+use original audience. Like I said earlier, this is really the who
+of your campaign. Who do you want to target? This is where you can set the age. You can
+set the location, you can set the gender. So I'm just going to tell you exactly what I would
+recommend. Number one, I run the far majority of my ads in the US, so we're going to keep the
+locations as United States only. However, if you're selling in other countries, obviously
+just use what's most common sense. Now for the age, unless you have a product that's only going
+to be used for a specific age group, I highly recommend keeping it very broad. While Facebook
+does have its issues with like control and there's all these features where they're like, oh, give me
+control, give me control. I'm actually a big fan of keeping it broad because the more data,
+that you can give Facebook and Facebook can give you on where your buyers actually are,
+the better results you're going to get. So keeping it broad initially is a great way to start out
+your campaigns. And it's the same exact process for gender. So if you're only selling a product
+that applies to men or only selling a product that applies to women, then obviously select
+which one makes the most sense. So let's say we're selling a skincare product. So I'm only
+going to select women here, and I'm still going to keep the age very broad because skincare is a
+timeless niche. It doesn't matter if you're 16, doesn't matter if you're 65, you probably buy
+products. The next part is to move on to the targeting, right? The interest targeting. The
+best practice here is just to add one interest that's associated with your product and to not
+overthink it. So for us, we're selling a skincare product, right? So I'm just going to search
+skincare and see what pops up. And immediately we have skincare, cosmetics, simple skincare,
+CeraVe skincare, REN skincare, image skincare. There's just a stupid amount of interest,
+and there's probably a lot more if I were to keep scrolling.
+The guidance I want to give you here is only select audiences that are ideally no greater
+than 100 million in total size, because we're only selling in the United States. Keep in mind.
+So the skincare audience, for example, is between 257 million and 302 million. It's a little bit
+too big. We want to dial down just a little bit more. So let's select the CeraVe interest,
+just as an example here. So this one was three to 3.5 million. That's perfect. Next,
+we want to select the language. Once again, just use the language that you're actually
+selling it. The final section at the end of the ad set is the placements. All placements means
+is where do you want your ad to actually show up? You want to show up on the Instagram,
+feed you want to show up on Facebook stories, which apparently are a thing.
+The best practice here is just to use what's called advantage plus placements. This is just
+a fancy way of saying every single one that Facebook has access to, and it's going to spend
+based off of how people are interacting per placement. So I don't want to go too in depth
+on that particular topic. It just means everything. But if you only want your ads to show
+in the feeds or only in the reels, then you just select edit manual. And then you can see each and
+every individual placement that there is every feed, every story, every reel you can select and
+select every single one. But for us, we like to keep it simple because we're Chad media buyers.
+So we're going to hit advantage plus and that's it for the ad set level. Now we're going to hit
+next and go to the ad. Before I get started on how to create an ad, you need to understand that
+this is by far the most important part of running ads on Facebook. It all comes down to the ad
+itself. You could totally mess up on the targeting and the interest and still make money. You could
+probably totally mess up even on the campaign and still make money as long as your ads are good.
+That's why my whole thing is run more ads should say run more good ads, because if you run
+boring ads, nobody's going to watch. Nobody's cares. Nobody cares about who you are for the ad
+name. Same process as before. Just use something simple and organized so that you can know exactly
+what's going on in that ad without actually opening the ad. It's under the identity section.
+You can see we already have the mark has no friends. Facebook page is already selected,
+so we're good to go. The Instagram account. We're just going to use a selected Facebook page,
+so you don't actually need to create an Instagram account to run ads on Facebook and Instagram. So
+I actually don't recommend people create an Instagram account right when they launch,
+unless you already have one with at least ten thousand followers. And the reason why is because
+on Instagram, especially when people are buying something, they are so vain, they are so
+judgmental. So if they see a brand new Instagram account that has zero followers in like three
+posts, that's working against you and that's going to affect the conversion rate that you have
+on your store. So I recommend if you're just starting out from scratch, just select use
+Facebook page and then you can create an Instagram account later down the line. It's not a big deal
+at all. Now it comes down to the actual ad creation. So on Facebook,
+there's really three types of ads that you can create image ads, video ads or carousel ads,
+and carousels are just a collection of multiple images or multiple videos in a row. For us,
+we're just going to run a simple image ad because they're very cheap. So you just want to select
+single image or video and deselect multi advertiser under ad sources. We also want to keep
+this completely blank. Once again, this is another thing where Facebook is trying to get more
+information from you and this doesn't help you in any way. And now go down to the actual ad creative.
+So when you hear somebody say creative or how many creatives are you testing,
+per week, which is something I ask my team every single week, creative is simply the image or the
+video associated with your ad. It's what has the most power, the most pull amongst any part of the
+ad, more than the copy, more than the call to action. The creative is by far the most important
+element. And if you get that right, especially the first two to three seconds of the creative,
+you will make so much money. Like Facebook will become a thing where you put a dollar in and you
+get three, four, $5. That's why paid ads are so powerful. So we're going to upload the ad that we
+already worked. So we're going to upload the ad that we already worked. So we're going to upload
+the ad that we already worked. So we're going to upload the ad that we already worked. So we're
+just going to upload and gotcha. So our ad beautiful ad right here before we actually
+upload it, you want to make sure that it fits every single placement. So I just keep it on
+original because I find that if you change the original resolution of that image, it just looks
+really wonky and really weird. We're going to keep original for all three. That's what I recommend
+hit next and all the ad optimization, just skip them all. I promise they're not worth it. Another
+thing that you need to know about Facebook is that they'll have all these errors around your
+account. They'll say like, oh, this is not going to be good for your results. You need to have more
+creative. That's not true. Facebook is a business at the end of the day. They want the money of
+small business owners like you, especially people that have no idea what they're doing. And so
+most of these errors for the far majority of the time, you can just completely ignore them.
+If you follow exactly what I've told you to do in this course, you will be way better off
+than any Facebook recommendation that pops up on your ad account. So things like this,
+you can just completely ignore X amount outside of your creative. There's one additional piece of
+your ad that is by far the second most important because the number one is the creative number two
+is your.
+Primary text. This is the text that appears right underneath your Facebook page,
+but right above the creative. So let me just like type out a little thing right here. As an example,
+you can see this is right where it appears on Facebook and then right below the image
+on Instagram. So think of it kind of as the caption, but the way that people's brain works
+when they're scrolling on Instagram, the first thing that they see always is the creative.
+So that's like that's 90% of your success of the ad right there. Once they watch a little
+bit of the creative, they'll actually glance up to the primary text or they'll look at wherever
+their caption is going to be. So on Instagram, it's down, but on Facebook, it's up.
+That's why the primary text is the second most important piece of the ad. And after that,
+it would be the headline and the description, which if I were to write a headline, for example,
+that's going to be right here on the ad and on Instagram, it doesn't even show up.
+And then the description of course is going to be right below the headline again on Instagram.
+It doesn't even show up. That should tell you how important it actually is. It doesn't even
+show up on Instagram. Final thing I'll say about ad copy is Facebook loves rejecting ads and they'll
+reject ads for a number of reasons. Sometimes it's completely random, but most of the times,
+it'll reject ads from the ad copy based off what you write. So if you're writing something that's
+really what we call aggressive in the industry, like if you're selling a weight loss product,
+easily lose 20 pounds in two days without diet or exercise. Facebook has an AI built in and it's
+going to analyze that and analyze the sentiment around that particular claim and that piece of
+text. And it's going to say, yeah, I don't think so. That sounds super unrealistic. And what you're
+writing is not in the best interest of our users, our collective users. There's over a billion
+monthly active users on Facebook. That's not even including Instagram or WhatsApp, which Facebook
+owns both of those. So general rules are don't have any really, really aggressive claims like
+that. Any wild transformation and don't cuss. You can bleep out curse words, but don't just outright
+cuss and don't write in all caps. Writing in all caps is one of the worst things you can do because
+oftentimes you won't actually get rejected for having an ad that's written in all caps. But what
+Facebook will do is they'll say, wow, this ad, this guy was really trying to sound so important that
+we're going to punish him. And we're going to increase his ad costs like crazy to the point
+where it's not even worth running ads. And years ago, I had a client that this happened to, and I
+was like, what is going on? This is so weird. And we look at the ad. I'm like, oh, well, there it is.
+He wrote everything in all caps and it was like 200 words. So just write like your normal human
+being selling a product to a random stranger on the internet and you'll be just fine. Now for the
+call to action, I like to keep it very simple. I typically keep it as shop now or learn more. So if
+you're selling an e-commerce product, then keep it a shop. Now, anything else, just keep it as learn
+here. The last thing that we really have to add is going to be the ad destination, which is a fancy
+way of saying the URL that you want the traffic to go to after they click on your ad. So for us,
+that's going to be our pretty little test Shopify store that we have here. So we're just going to
+copy that and paste a rate into the URL and we're good to go. You don't need to put anything for
+display link browser add-ons. Again, this is just, it doesn't help your conversion rate. It's not
+going to make you more money. You don't need to do all the other settings at the ad level. You don't
+need to touch. We have the link. You have the copy updated. The creative is there. That's all that you
+need. The only final thing that's a great add-on if you scroll all the way down. So if you're running
+an e-commerce store, I highly recommend you use triple whale for tracking. If you're running info,
+I highly recommend you use a software called high roast. If you're running anything else
+in between, send me a DM on Instagram and I can help you out a little bit further there.
+So what you'll do is paste some simple URL parameters right here at the bottom of all
+of your ads. So that anytime somebody clicks and buys something from you, you can know the exact
+ad ad set the audience. You can know everything about where that person came from to optimize your
+ads better. And that's it. So all you have to do is go to the bottom, right? And we're going to
+select publish. So I'm just going to add my payment information here. I'm going to hit next.
+So this is a really important thing about once again, Facebook and how they categorize what
+type of payment method that you use. I'm just going to tell you what to do and then tell you
+why you should select credit card and nothing else. Don't pay with PayPal. Don't pay with an
+online bank connected. Don't pay any other way, except for a credit card. The reason why is
+because Facebook, like I said, is a business and they always want your money. You are the target
+for Facebook ads. If they see you add PayPal, which is not as secure as something like a credit
+card with the U S banking system, they're actually going to alter the quality of traffic that they
+send you because of the payment method, which is crazy, but they will send you lower quality
+traffic, lower your conversion rate, lower your average order value, and you'll make less money
+simply because you changed the payment method. All right. And we're good to go. The card has
+been saved. It has been added. So you may have to hit publish once again. So we're just going
+to select publish on the ad. Now that we have the payment method added, boom, there you go.
+You did it. You just published your first ad on Facebook.
+Great job. So now that your first campaign is actually live and you're going to start spending
+money on ads, this is where the real work begins. All that stuff that I just took you through.
+I hate to say it. That was the easy part. That was just setting things up. Now you get to actually
+run and manage testing, new creatives, testing, new audiences, testing, this testing, that testing,
+everything, and just seeing what sticks, what is really resonating with the audience.
+And one of the best ways to really do that is simply to know your numbers, know what metrics
+to look at and cut out all of the noise. Let me actually show you how to create some custom
+columns to properly analyze your data. So we're going to go to columns right here and you're
+going to go to customize columns. Now over here on the right hand side, right under campaign,
+we are going to delete everything except for delivery and budget. Everything else we're
+going to build from the bottom up. So just X everything out here right now. This is a
+nice clean start. So first we want to click impressions, which is just a fancy way to say
+how many people actually saw your ad. And next, while you have impressions search,
+you're going to select CPM, which is how expensive it is for you to
+advertise to 1000 people. After CPMs, we're going to select CTR and you specifically want to select
+link click through rate. This is the percentage of people that see your ad stop and click the link
+to go to your website. After CTR, we're going to select CPC, same process. You want to select the
+one that says cost per link click. And again, that's how much you pay Facebook for one click
+to your website. Next, you want to search for link clicks, which is pretty straightforward.
+How many people actually clicked on your ad? Next, you want to search for landing page views,
+select total. This is the amount of people that both clicked and landed on your landing page
+because a lot of people will click and because your website loads too slow, they'll leave before
+it's even registered as a landing page view. Next, you want to add add to cart. We're going
+to search, add the cart and hit total. And then all of these, you want to deselect every single
+one. Next, we're going to do initiate checkout, hit total and same process, deselect all four
+of these check boxes. Next is going to be purchases. So for purchases, we're going to
+select total deselect all four. And while you still have purchases searched, you're going to
+select value and purchase ROAS. So scroll down and you're going to uncheck all four
+for conversion value. Keep scrolling and then uncheck these two for ROAS. So the purchases
+conversion value is just a fancy way to say how much revenue you actually generated. What was your
+sales for this ad, for this ad set, for this campaign? The cost per purchase is how much
+you're paying for purchase. Pretty straightforward. And then the purchase ROAS is what is your return
+on your advertising dollars. So if I were to go to Facebook and spend $100 on ads and I brought back
+$200 in revenue, that would be a 2.0 ROAS. After all this is done, you're going to go to the bottom
+left, save as column preset, and you're going to type in run more ads as a constant reminder that
+you always need to be running more ads and just go to bottom right and hit apply. There you go.
+You got all these beautiful custom columns saved and ready to go so that you can analyze data like
+a real expert. All right, that's it for this video, guys. Thank you so much for watching.
+Facebook ads are complicated. They're tough. I've been running ads for six plus years and
+there's still stuff that I see that I'm like, what the hell is even that? That's why I'm going to
+do this. I'm going to do this. That's why it's so important to have like a coach or a mentor
+that can give you personalized one-on-one feedback. Again, that's why we built Brand
+Builders Academy. So if you want to learn how to run ads most successfully with e-commerce
+specifically, just click the first link in the description to apply for that program.
+Other than that, make sure you subscribe. I got more super valuable videos coming for you.
+Other than that, I'll see you in the next video. Peace.

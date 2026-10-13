@@ -1,0 +1,621 @@
+TITLE: how to make "f*ck you" money with branded dropshipping
+URL: https://www.youtube.com/watch?v=eKIMDsVRdYM
+DURATION: 929s
+============================================================
+
+Hey guys, Mark here.
+In this video, I'm gonna be going over
+how to make FU money with branded dropshipping.
+And before I tell you exactly how we're gonna do that,
+let me tell you what we're not going to do.
+So what we're not gonna do
+is look for some unsaturated product
+that's never been tested.
+We're not going to go and steal people's content
+and we're not gonna build a basic niche
+or one product store that is not designed
+to maximize your average order value
+and your conversion rate.
+Instead, what we're gonna do
+is we're actually going to go and look out specifically
+for a product that is quote unquote saturated.
+I don't like using the term saturated.
+I think it's a term invented by gurus.
+So I like to use the term validated,
+but we'll use saturated anyway.
+So what we're looking for really
+is to find a product that is
+what most people would call saturated.
+And the way that I define this
+is specifically three to 500,000 visitors per month
+to their website.
+Cause that's how you know
+they're spending a reasonable amount on ads
+where I consider they're typically doing around
+at least like two or 300K per month in monthly revenue.
+So what we're gonna do is find a saturated product,
+but we're not gonna sell it the same way as everybody else.
+We're gonna find a product
+and then sell it using an unsaturated angle.
+And if you don't know what a angle is,
+the best way to think about angles
+is simply a different way to sell your product
+to a slightly different group of people.
+If you think about why people buy a product,
+not everybody buys it for the same reason.
+For example, if you are going to buy an iPhone,
+some people buy an iPhone because they wanna fit in.
+Other people buy an iPhone
+just because they don't wanna be somebody
+who has that green text bubble and uses an Android.
+Other people buy iPhone
+just the most convenient phone option out there.
+So everybody's kind of buying for a different reason.
+And we're gonna take that same logic and apply it here
+so that we can start making that FU money.
+So let me actually show you
+how to find the saturated products
+and then how to create the unsaturated angles.
+So one of my favorite ways to actually find products
+that are proven to sell
+is to open up an incognito tab and go to weather.com.
+And after you get to weather.com,
+what you're gonna do is scroll all the way down to the bottom
+to the point where you see sponsored content.
+And these are what's called native ads.
+These are ads being,
+shown to, as you can tell, very, very cold audiences.
+They have no idea who you are.
+And typically the click-through rates are very low.
+However, the CPMs are also very low.
+And so the first ad that kind of caught my eye here
+is this ad right here.
+And this is obviously a flexible shoe,
+barefoot shoe type product.
+And so I opened this store up here.
+And of course I'm gonna be wondering,
+okay, how much revenue are they actually doing?
+How many visitors are they driving
+to this particular landing page?
+So I'm gonna go back to my main browser here, pop it open.
+And I'm actually going to use a similar web extension
+to see how many visitors are driving.
+And as you can see,
+they're doing a good amount of volume.
+You know, these guys are doing over 500,000 visits
+every single month.
+So we can check that box and say,
+okay, this product actually is validated.
+It is what people call saturated.
+So we got half of the equation already.
+Now what we need to do is sell this product
+using an unsaturated angle.
+And so if you look at this particular product,
+the question that I'm really trying to ask
+is what is the main angle that these guys are selling with?
+And to be honest with you,
+one of the first things
+that I really saw here with this particular lander,
+this was actually the first lander that I saw.
+And what I see is orthopedics and neurologists amazed
+these barefoot shoes help Americans lose weight
+and live a pain-free life, right?
+And so immediately I can tell
+which angle they're trying to sell this with,
+which is the weight loss angle
+and then the pain-free angle.
+But mostly it's gonna be about the weight loss.
+In fact, when I was doing a little bit of research
+for making this video,
+this was the first advertorial page that I really saw.
+And because of that,
+the lose weight angle seems to be the main,
+the main reason that people
+are actually purchasing this product.
+And so the question that I'm creating in my mind is
+what is another way that I can sell this product
+to this group of people
+without using the weight loss angle?
+And so what we're actually gonna do
+is we're gonna open Amazon.
+And what I'm gonna do is I wanna specifically analyze
+the reviews that are associated
+with this particular product.
+So I'm gonna go up to Amazon
+and simply search barefoot shoes to see what comes up.
+And what we're really looking for here
+is it doesn't have to be a one-to-one of the product.
+What I'm looking for is,
+a product that generally is kind of solving
+like that same problem.
+It's a barefoot shoe,
+but I wanna look for the one
+that has the most amount of like solid reviews, right?
+And the first one that kind of caught my eye
+is this one right here.
+You can see there's 1,700 reviews.
+Obviously this is like the identical product,
+but there's only 300 reviews.
+So a lot more reviews here.
+And now that we have this page kind of pulled open,
+what you're gonna do is click on the reviews
+and then still scroll all the way down.
+So we're gonna scroll past this and hit see more reviews.
+Now, at this point, there's two ways you can go about this.
+You can go about this,
+the manual process,
+and read all the reviews yourself,
+or we can use AI and technology to our advantage.
+So I actually have this extension installed up here
+that just exports all the reviews from Amazon.
+I'm not affiliated with this company in any way,
+but it is pretty handy for exporting reviews in a mass way.
+So after this process is done,
+you can see it's already downloaded 30 different reviews.
+I'm gonna go all the way to 100.
+This is like a $3 extension.
+So in my mind, it's pretty worth it
+in terms of the time that you save with it.
+So as it's scrolling through all these reviews,
+as soon as I have that export file,
+I'm gonna show you,
+I'm gonna upload it into ChatGPT
+and we're gonna cross analyze
+what is it about this particular product
+that people are buying it for?
+What types of people are really buying this product?
+And I'm gonna move away from the weight loss angle
+and try to tap into a new angle,
+a new way to sell this exact same product.
+So let's go over to ChatGPT right here.
+We got a new conversation pulled up.
+I'm not gonna waste your time,
+showing exactly what I'm writing here.
+It doesn't need to be anything fancy.
+So I'm just gonna write a quick prompt
+to help ChatGPT break down the other angles
+that I can potentially tap into
+with this particular product.
+So I finished going through ChatGPT
+and I actually found one main angle
+that wasn't really tapped into with the previous product
+and that is neuropathy.
+And neuropathy is a pain associated with your feet
+that is caused by nerves.
+And so this is an angle that we can actually tap into
+to sell this product.
+We're gonna go after specifically foot pain,
+but neuropathy specifically.
+This is absolutely a winning angle
+just based off of the other people
+in this particular industry
+that are selling with this angle.
+I know this to be a proven one.
+So if we go back to our board here,
+we now have that product that is proven.
+It's validated, it's saturated,
+and we have this new angle,
+this new way of selling it.
+And so at this point, we're about halfway done, right?
+You have the product, you have the angle.
+Now the only question is, of course,
+how are you actually going to sell that product?
+And so one of the main things
+that I've learned throughout my dropshipping journey
+is that if you wanna have what 99% of people have,
+you do what 99% of people do.
+And if 99% of people are kind of running the same structure,
+meaning they'll have like an ad,
+let's say,
+on Facebook or TikTok,
+then they'll drive that traffic
+to a standard product page built on Shopify.
+Then they'll go to the checkout page.
+And as soon as they hit the checkout page,
+they will land on the thank you page.
+Now this is kind of like
+the standard Shopify checkout process.
+Now the problems with this particular method
+are a few fold.
+Number one, typically you'll have
+a pretty low conversion rate, right?
+Low CVR.
+And the reason why is because
+as soon as people get off the ad,
+they're immediately kind of slapped across the face
+with an offer,
+just like buy, buy, buy,
+buy, buy.
+And in terms of developing a relationship
+with your customer,
+that's obviously not very good.
+What I like to do is actually build out
+traditional direct response style funnels, all right?
+I call it funnel scaling.
+And so the difference between this funnel
+and funnel scaling is,
+like I said,
+you typically have a low CVR
+and what I call a low AOV, right?
+A low average order value.
+And so the problem with this funnel
+is simply that it's really not built to sell, right?
+As soon as people get off of seeing an ad
+on Facebook or TikTok,
+they are immediately just slapped in the face
+with an offer, right?
+That's basically the equivalent
+of going on a date with a woman
+that you've never met before in your entire life.
+And as soon as you see her,
+the very first words out of your mouth are,
+hey, I'm Mark.
+Do you want to go back to my place?
+Obviously, that's not going to be a very effective method.
+I want you to think of business in the same way.
+You're developing a relationship with your customers
+and your funnel,
+like this process right here,
+should really reflect that.
+And so instead of running a funnel like this,
+we're going to do something a little bit differently, right?
+We're still going to have that same ad
+on Facebook or TikTok,
+wherever you're running traffic.
+But instead of,
+we're not going to a product page,
+we're actually going to go to something
+called a pre-sales page,
+such as an advertorial page.
+And the advertorial page,
+its job is basically to sell the product
+in a way that is non-invasive.
+Sell the product in a way
+that's almost hiding the sales process a little bit.
+It's positioned basically as an article
+that's written by a third party,
+just promoting your product.
+And typically,
+just by the addition of this step alone,
+you can have a significant increase
+in your conversion rate
+and in your average order value.
+And so after the advertorial,
+instead of going to like
+a standard Shopify product page,
+we're going to go to a sales page.
+And the difference is,
+a sales page is all about
+actually selling the outcomes of the product,
+not focusing so much on the product itself.
+So you can have a lot more customization,
+a lot higher average order value
+because you can bundle products together.
+And on Shopify,
+typically you can struggle to do that
+with a standard Shopify product page.
+And then of course,
+after the sales page,
+we're going to go to an additional page
+where people can actually purchase.
+All right?
+And that's going to be called
+the order page.
+Now, on this order page,
+we're going to have quantity discounts.
+We're going to have order bumps.
+We're going to have other types of upsells.
+We're going to have social proof.
+And so the conversion rate
+because of this page
+is going to increase.
+And with all these AOV boosters
+that I mentioned right here,
+it's also going to cause an increase
+in your average order value.
+And so this point right here
+is actually the point
+that people have paid, right?
+You have their credit card information.
+They've paid to buy your product.
+And what most people do,
+especially with this structure right here,
+they stop.
+As soon as they collect
+the payment information, they stop.
+But what if I told you,
+that the step directly
+after you actually capture payment
+has the highest potential
+for increasing your AOV
+out of any step in your entire funnel.
+So instead of sending people
+from the order page
+who actually go through and purchase,
+instead of sending them
+to like a basic thank you page,
+what we're going to do
+is send them to an OTO, right?
+That stands for one-time offer.
+It's a way to say a post-purchase upsell.
+And so on this OTO,
+we're actually going to get another offer
+in front of your customers.
+One of the biggest mistakes
+that I see entrepreneurs make
+when they're getting into e-commerce
+or getting into dropshipping
+is they view the funnel
+so one-dimensionally.
+It's like as soon as you get them
+to buy a product,
+they're just gone.
+Poof.
+You never get their money again.
+But once you realize that right here,
+there's the most amount of power
+in your entire funnel,
+then you can put another offer
+in front of their face
+for an additional product,
+a complimentary product.
+And oftentimes you can add so much
+to your average order value
+just with this step alone.
+And let's say that for whatever reason,
+people say, you know,
+no, this offer is not for me.
+Well, as soon as they say no,
+guess what we're going to do?
+We're going to hit them
+with a downsell offer
+for this particular product
+that we were selling here
+for, let's say, 50% off.
+So even if they say no,
+they're still going to be hit
+with the downsell, right?
+Right here,
+which is also going to be,
+you know, more money
+for your average order value.
+And the cool part is
+you can rinse and repeat this process.
+Upsell, downsell, upsell, downsell.
+Let's say we just have one.
+And after that,
+we send them directly
+to the thank you page.
+Now, I know my scribbling
+is pretty messy here,
+but when you go through this process
+of actually building a real funnel,
+a direct response funnel,
+what you'll see is typically
+an increase in your average order value
+and an increase in your conversion rate.
+Now, you see an increase in the AOV
+because you have all these other upsells
+and offers post-purchase,
+along with really well-structured upsells
+on your order page
+and bundles on your sales page.
+Now, another reason
+that you'll typically see
+an increase in the conversion rate
+is simply because
+of fundamental rule in marketing.
+The more content
+and the more time
+that you can get people
+to consume with your brand,
+the more likely
+they are to spend more money with you.
+So notice,
+let's say people on average,
+they spend three minutes
+on the advertorial page.
+Then they're going to go
+to the sales page.
+They're going to spend
+maybe two minutes there
+and maybe another two minutes
+on the actual order page.
+We're now up to seven minutes
+that the customer has spent with us.
+Whereas over here,
+maybe, just maybe,
+you'll get them to spend
+three minutes on the product page here,
+maybe one or two minutes
+on this page.
+And all of a sudden,
+they're done, right?
+This is the thank you page.
+There's no more time
+for them to spend.
+And over here,
+you have seven plus minutes
+of consumption.
+Again, the more that you can get them
+to consume, the better.
+And that's not even including the ad.
+Like, let's say you have
+a four-minute ad.
+On average, your customers
+are watching two minutes
+of that ad, right?
+Now you're up to nine minutes
+of consumption.
+So people are so much more
+emotionally bought in
+with your brand
+that if you position an upsell
+in the right way post-purchase,
+you can add a significant amount
+in your AOV.
+I have something that I tell
+to my clients all the time,
+which is that,
+let's say you're selling
+a product, right?
+Your product price
+is equal to $40.
+And your AOV
+is equal to something, right?
+I'm going to get to that
+in a second.
+Now, if your product price is 40,
+I know everything
+about your business
+that I need to know
+based off of the difference
+between your product price
+and your AOV.
+So for example,
+if your AOV is $40,
+which let's be real,
+most people,
+their AOV is just equal
+to their product price,
+then I know that
+you're never going to be able
+to scale as successfully
+as you want.
+Because you're not going
+to be able to compete
+with the rising ad costs.
+One universal law
+of scaling on paid ads
+is that the more money
+that you spend,
+the higher your CPA is,
+aka the more expensive
+ads really get.
+And the cool part
+about this method
+that I'm teaching you guys
+right now
+is that you can have an AOV
+that is significantly higher
+than your product price.
+So instead of having
+an AOV be 40,
+which is the same
+as your product price,
+let's say you have
+an AOV now of 90.
+So for the same exact cost
+to acquire a customer,
+like let's say your CPA,
+was like $25.
+So instead of just having
+this $15 margin right here,
+all of a sudden,
+your margins become
+so much better
+because you're competing
+on the funnel
+and you're competing
+on something like economics, right?
+Where you can just scale,
+you can spend so much more money
+on ads
+because your AOV
+is so much higher
+than all your competitors.
+This is the concept
+of competing
+on having a really good funnel
+and testing and scaling
+a product that is proven,
+but with an unsaturated angle.
+And so if I were
+to literally start
+from scratch,
+this is the exact model
+that I would use.
+This is scalable
+and this is profitable, right?
+So once again,
+just to recap for you guys,
+we want to go after a product
+that we know
+is already proven to sell.
+And once we have that,
+once we have that box checked,
+we're looking to sell
+that product
+with a new angle,
+an angle that the competitors
+are not using.
+But based on data,
+we know that people
+are still buying the product
+for this specific reason.
+And once we have the product
+and the angle,
+we know how we're going to sell it.
+What we're going to do
+is construct
+a very well put together funnel.
+By the way,
+if you're wondering,
+Mark, how do I put together
+a funnel structure like this?
+You can use a software
+called Funnelish
+if you're just starting out.
+That's what we use.
+And then if you're
+really good at scaling
+and you're doing
+a little bit more volume,
+I would recommend a software
+called Checkout Champ.
+Those two are the most robust,
+top-down funnel builders
+that you can have.
+Again, this is the process
+that I would use
+if I really wanted
+to make FU money
+because the cool thing is
+the more money you spend on ads,
+even if your ads
+get more expensive,
+you're still so profitable
+and you have so much margin
+to work with
+that it doesn't matter.
+You can still scale
+as aggressively as you want.
+And so this is actually
+like the entire process
+that we teach
+start to finish
+within our program
+called Brand Builders Academy.
+So this is my mentorship program
+that I own with Alex Fedidoff.
+And so we actually teach you
+how to find these products,
+how to come up with the angles,
+how to do what we call
+problem research
+instead of product research.
+And so if you're interested
+in someone like kind of
+holding your hand
+throughout the whole process
+of building a store,
+finding products from scratch,
+just click the first link
+in the description
+and you can apply
+for Brand Builders Academy.
+Other than that,
+guys, thank you so much
+for watching
+and I'll see you in the next video.
+Peace.

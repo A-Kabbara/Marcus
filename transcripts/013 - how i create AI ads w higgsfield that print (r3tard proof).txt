@@ -1,0 +1,684 @@
+TITLE: how i create AI ads w/ higgsfield that print (r3tard proof)
+URL: https://www.youtube.com/watch?v=2QJLri6yB2Q
+DURATION: 924s
+============================================================
+
+Hey guys, Mark here.
+In this video, I'm going to be going over
+how I make AI ads on Higgs field that print.
+I've made this process extremely simple
+and truthfully, you just need to follow along
+and do exactly what I do and you'll get some amazing ads.
+And by the end of this video,
+you should know how exactly to create
+a little something like this in under 60 seconds
+and as a little sneak peek,
+a video like this in under 30 minutes.
+Here's what doctors never tell you.
+When you age, your body loses it.
+That's where NMN comes in.
+So let's get into it.
+Now making ads with AI,
+there's really two kinds of ads that you can make, right?
+You have image ads and video, right?
+Nothing really groundbreaking there.
+So let's first talk about image ads.
+I love image ads.
+And the reason why I love them
+is because they are super duper cheap to produce.
+They are very, very fast,
+meaning you can produce and test a high quantity of them
+very, very quickly.
+And they allow you to test a variety of different angles,
+messaging, avatars, et cetera.
+So you can find your core winning message
+before you spend the time and money
+and invest it into video ads.
+Plus with the stage that we're at in AI now,
+it is so fricking easy.
+Like I can't even,
+I can't even tell you,
+you'll see what I mean.
+But the ultimate purpose here with image ads
+is you want to be able to find
+what I call your winning sales message.
+Everybody kind of talks about,
+you know, winning ad this,
+winning ad that,
+but the best thing that you're really looking for
+is your winning sales message.
+Because as soon as you have that message,
+that can be transmuted into videos,
+into different formats of images,
+into UGC,
+into a VSL,
+into a short form video,
+into founder UGC,
+into all different kinds of image ads as well.
+Native statics,
+bottom of funnel,
+everything you could possibly imagine.
+And it all comes from
+finding your winning sales message.
+And of course,
+images are the fastest way to find that.
+Now, generally speaking,
+there's two ways that you can
+create winning image ads.
+Number one is you can do what's called swiping,
+which is where you find a competitor,
+either direct or indirect.
+You take their ad,
+use it for inspiration
+and just create your own little twist of it,
+which is good because you get to use
+something that's already working
+and proven to work.
+So you're reducing your variables.
+And then second is going to be new concepts.
+And truthfully,
+both of these are equally powerful.
+I think new concepts are relatively slept on.
+And the reason why is because
+most people in the space only know how to copy,
+like they have no ounce of originality in their life,
+but you can use AI to be originality now.
+All right.
+That's not an issue anymore.
+Now for this video,
+I'm going to be covering both.
+All right.
+So let's first cover swiping.
+Now, both of these ways of creating winning image ads
+starts with your foundational docs,
+which I've linked the SOP that you can use
+to create your foundational docs
+in the second link in this video description.
+Basically, what you're going to do
+is you're going to do incredibly deep psychological
+and psychographic research on your customer
+so that you know the exact words that they speak.
+You know, their emotional hot points,
+you know, the stages of sophistication,
+level of awareness,
+everything is done for you.
+But that is like your home.
+Everything is going to stem from your research
+because as we know,
+the greatest copywriters in history
+all say the same thing.
+And it is true that the money is in the research,
+but you don't have to spend hours upon hours
+doing that anymore like you used to.
+Now for swiping,
+you have to have an ad to swipe in the first place.
+My favorite place to look for winning ads to swipe
+is going to be GetHooked.
+If you want to get a subscription,
+I'll also leave it in the description.
+But what I'll look for here, for example,
+is specifically ads that are four or five stars,
+which is winning ads,
+and images running specifically in the English language.
+And I'll just scroll through these
+until I find one that I want to swipe for my own market.
+If you want to get even more granular,
+you could even select the exact niche that you're in here
+so that you swipe directly from your own niche.
+But that doesn't have to be a rule.
+A lot of times you can find fantastic ads
+by swiping cross niches.
+So let's say I was scrolling.
+I really wanted to remake this ad.
+All I'm going to do is hit download media right here.
+We're going to go over to Claude,
+go to the projects section,
+select new project,
+name it whatever you want.
+I'm going to be selling an NMN powder,
+which is like a NAD plus booster, apparently.
+For the files,
+you're going to upload those foundational docs.
+And for the instructions,
+just paste in my special set of instructions.
+If you want this actual like word for word prompt,
+exactly what you send in here,
+just go to my Instagram at MarkBuildsBrands,
+DM me the word print,
+and I'll send it over to you for free.
+All right, for the model,
+you can keep Sonnet selected.
+This is pretty simple stuff here.
+And just upload the image,
+click enter,
+and just let it cook.
+That's all you got to do.
+You don't have to send a single word.
+Basically, what it's going to be doing is
+first analyzing why this ad was successful in the first place.
+And then second,
+reverse engineering every single individual element of this ad
+from the copy to the colors,
+everything so that it matches my brand.
+Now you don't need to go and actually
+look at what it's saying word for word.
+You can scroll right down to the text to image prompt section
+because not only did it analyze your entire swipe,
+it also made a prompt
+so that you don't have to write one yourself.
+So we're going to copy,
+and go right into Higgs field.
+And then we're going to go to the image section,
+select create image,
+and make sure that you have Nano Banana Pro selected.
+I'm going to keep it 9x16 format with four variations.
+I'm going to paste the prompt right there.
+And then most importantly,
+as you can tell by these images here,
+I didn't do it.
+You want to also upload a PNG of your image
+on a white background.
+And we hit generate.
+And while those images are being created,
+by the way,
+the cool thing about this prompt
+is that it also gives you adapted variations.
+In the case you want to change a copy
+or just a layout or something like that,
+you can just,
+simply select one of these
+and give the feedback directly to Claude.
+Claude will adjust the prompt,
+paste a new prompt,
+get new images.
+Just like that,
+you have multiple variations
+of that original swiped image,
+exact with your brand,
+details,
+everything A to Z.
+Now look closely.
+Do you see any text here that is misspelled?
+Do you see anything that's off?
+No, it's 100% perfect.
+That all comes down to the prompting.
+If you ever struggle with having like text
+being off on an image or a video,
+it's because you didn't go into enough depth
+on the prompt.
+These LLMs can't extract everything
+from an image.
+They can get pretty close,
+but if you add in the details where it's missing,
+it can create flawless images and videos.
+Now swiping, as we can see,
+super duper easy,
+takes virtually zero time whatsoever.
+How about new concepts?
+Well, as I said,
+most of you are not original,
+not able to think,
+me either, you know,
+but what you can do is use AI to help you think.
+And one thing that I put together
+on that exact same SOP,
+again, DM me the word print on IG
+if you want to get it.
+But one thing that I included,
+you won't be able to see this, of course,
+but is the exact prompts that you can use
+for ideation instead of just raw swiping.
+Follow the exact same process.
+You just take the prompt,
+plug it into the clog with your foundational docs.
+You get the text image prompts,
+send that directly into Higgs field,
+you get the images.
+It's so incredibly simple,
+but this one is completely new concepts
+that you've never seen before.
+So image ads, just like that,
+solved, cracked,
+never need to get any other software
+for the rest of your life.
+Cool.
+Let's move on to video ads
+because naturally video ads
+are a little bit trickier.
+But even with videos,
+the technology has gotten so incredibly insane.
+I mean, you saw in the,
+in original portion of the video
+where I teased a little bit of the ad that I made,
+you can do just about anything.
+But before I get into that,
+why video ads in the first place?
+Well, video ads are great.
+Number one,
+because they're typically more scalable than images.
+Image ads can saturate very, very quickly.
+I don't know the exact reason why,
+but I do know that in terms of
+how much top of funnel reach
+that they can have profitably,
+it's nowhere near video ads.
+The second reason also is because
+typically you will see also higher conversion rates
+from videos as well.
+It's not a total rule,
+but just on average,
+I would say you see higher conversion rates
+because people are consuming more.
+They're consuming not just visually,
+but also through the audio.
+And you have what's called
+their attention in isolation.
+Like if you're looking at an image,
+they're bouncing around,
+their eyes are all over.
+If you're looking at a video,
+you have 100% of their attention
+while they're watching that video,
+which is part of the reason
+why the conversion rate is higher.
+And as we know,
+the law of consumption,
+the longer you can get a person
+to interact with your brand,
+the higher that conversion rate is going to be.
+Now, my actual process
+for creating winning video ads is,
+and like, I mean, good.
+Video ads is pretty straightforward.
+It's a five-step process, right?
+First, you're going to find a swipe
+just as a place to begin with.
+It doesn't have to be a swipe,
+but it's a good place to begin with.
+Next, you're going to script the ad
+specifically for your brand.
+And then you're going to storyboard it,
+which means parsing out the script
+to match with a specific video clip.
+Then you create the prompts
+to actually make those individual clips.
+And the last piece,
+you edit all together
+until you have your fully formed,
+created ad.
+Before I actually follow this exact thing,
+step-by-step,
+you have to understand that
+it's not even worth your time
+running video ads
+unless you understand
+this.
+Which is 90% of your success
+in video ads
+is going to come down
+to having a really, really good hook,
+which is the first three to five seconds
+of your video ad.
+But your hook is actually broken down
+into three different pieces.
+The first is the copy,
+which I would say is about
+70 to 80% of your success right there.
+Then you have the actual clip itself,
+which is like the video,
+what we call the scroll stopper.
+And then the final piece
+is the audio in the background,
+which is typically
+some sort of voiceover
+or just directly voiced
+from the character itself
+or something else.
+That is the least
+of your worst.
+The most important
+is going to be the copy
+and of course,
+the scroll stopping clip.
+Once you have the hook
+of your video ad,
+the other two pieces
+are very, very simple, right?
+So first,
+you just hook them in
+and get the attention.
+Second is you create the body
+to actually sell
+the freaking product
+because first,
+you just got to get the attention.
+If you don't have attention,
+you don't have anything.
+And then you use the body
+to actually sell the product,
+show your mechanism,
+show how you're different
+than everybody else
+and why your product
+is the best thing
+to ever touch the face
+of the earth.
+And then third,
+throw a nice hard right hook
+call to action,
+get them on your website,
+get them to buy.
+Now, let me kind of break down
+how this process works
+because it sounds like
+I'm just throwing a bunch
+of random words on the screen
+and expecting you to get it.
+So let me show you
+how this works tactically, okay?
+The first thing you want to do
+is of course,
+find a competitor's ad
+where you can swipe
+the transcript specifically
+and be able to rewrite that
+based off of your specific brand,
+aka your lovely foundational docs.
+So let's say I'll scroll
+and get hooked.
+I found this lovely ad right here.
+And so now that I have the swipe,
+already this first piece
+has been checked off, okay?
+I found the swipe.
+We're already one fifth
+of the way through.
+Now, to actually rewrite the script,
+this is incredibly easy.
+All you have to do
+is upload your foundational docs
+to either a cloud project
+or just in a conversation
+and then send the full script.
+So I would come to this competitor,
+copy transcript,
+send it and have it rewrite it
+based off of your specific
+foundational docs,
+your research,
+your emotional pain points
+with your product and your brand.
+Then you'll have the script.
+And from there,
+you want to start
+the storyboarding process,
+which is where you take
+one individual line
+or two lines of your script
+and create one clip
+specifically for that script.
+That's a pretty easy process.
+It's typically matching
+one sentence equals
+one or two clips.
+Now, the prompting process
+is an interesting one
+because it's actually
+a two part process.
+The first thing that you want to do
+is you want to generate
+a text to image prompt on cloud
+and then send that prompt
+into Higgs field,
+specifically using nano banana pro
+to actually create
+the starting frame of your video.
+Once you have the starting frame,
+again, this is all done in Higgs field.
+And after you have that individual,
+starting frame created,
+you're going to do image to video
+using cling three.
+And you have to make sure
+you have a good prompt
+for the image to video,
+like just getting the image
+as a starting frame
+is only half of it.
+You have to make sure
+you have a really good prompt
+with it as well,
+which I'll show you how to do.
+And so after that,
+you'll have each individual clip
+exactly as you want it.
+So the prompt process
+is now complete.
+And then you just have
+to piece them together,
+edit them,
+and they're good to go.
+So now I'm going to go through
+an example of me
+following this process
+step by step
+to actually create
+one of the clips
+that I made in the video.
+And by the way,
+everything that I just touched on,
+I'm going to actually
+go and do it now.
+But if you want the actual
+like step by step
+exactly what to do,
+and then you can even
+upload this into a cloud
+and be able to have
+most is done for you
+on autopilot.
+I put together this full
+AI video ad creation SOP.
+You can follow this to the T,
+upload it into cloud code
+and have it do it
+for you automatically.
+I don't really care.
+You take it,
+do what you want with it.
+Just go to my Instagram,
+DM me the word Higgs field
+and I'll send it to you for free.
+All right.
+So let's go through an example
+of me actually following this process.
+So since I,
+I already have my script done,
+all I need to do is take
+one specific line
+and be able to feed that into cloud
+so that I get a text to image prompt
+of what that first starting frame
+should look like.
+All right.
+So I got the exact prompt from cloud
+again to get these kind of prompts.
+Just make sure you follow
+that SOP to the T,
+copy paste over into Higgs field.
+And this was the output
+that I got here.
+This is basically perfect.
+What I'm shooting for here.
+And again, it's all in the SOP
+is I wanted a product shot
+specifically showing
+this product in action.
+So now that I have this image,
+I'm going to go
+and download this right here,
+go to video and select cling three.
+And now we need the image
+to video prompt
+to actually bring this to life.
+So you'll enter a very specific
+portion of your script.
+Make sure you have the prompt
+along to go with it.
+So we will go right here and copy.
+So first we're going to upload
+this individual photo as a start frame.
+I'm going to paste in my prompt
+and then I'm going to select the length
+that I want this video to be.
+I believe Claude said this clip
+was going to be six to a second.
+So I'm going to put it right
+in the middle at seven and hit generate.
+And a few minutes later,
+this is the output that we got.
+Let's take a look.
+One scoop every morning
+gives yourselves
+what they've been running short on.
+Sweet.
+So very simple.
+I think it's relatively well explained.
+There's no issues
+with the packaging on the product.
+This clip is good to go.
+As you can see,
+you can follow this exact same process
+for UGC style clips
+exactly like this.
+Trust me and give it a try.
+You can use this for scroll stoppers
+like I did.
+You being tired.
+Like this where this lady
+legs are just gone.
+Like a scroll stopper
+should be something you look at
+and you literally
+have to be like,
+what the fuck did I just look at?
+So I tried to capture this.
+This was Claude's idea
+where her legs just kind of melted
+because she has zero energy.
+You being tired
+isn't about sleep,
+stress or genetics.
+And as a nice little touch,
+what I did at the end here
+is something else for retention.
+Keep watching.
+So something weird
+that makes you say,
+what the fuck?
+Is this the best I could do?
+No, but this was Claude's idea.
+I think it's pretty funny.
+And you can even follow this process
+for these animation style clips
+where you have animated figures
+talking like this.
+When you age,
+your body loses its ability
+to produce an ad plus
+a little molecule
+your cells use to generate energy
+at a biological level.
+There's basically zero
+that you can't do
+and you can do it
+all inside of Higgs field
+because it's just using the APIs
+from all these technology
+and aggregating them in one place.
+So whether you need B-roll,
+whether you want a scroll stopper,
+you need regular UGC,
+you want podcasts,
+everything can be built here.
+It's just creating
+a really good image
+with Nano Banana Pro
+and having good
+prompting there
+and then image to video
+with good prompting as well.
+At this point,
+you have all the clips created.
+All that's left to do
+is just assemble them,
+add some captions,
+maybe a few cuts
+and you're good to go.
+This is the final ad
+that I created
+in a pretty short period of time.
+If you wake up feeling like this
+and need coffee after coffee
+just to get through the day,
+keep watching.
+Doctors never tell you
+about why you constantly feel tired
+no matter how much caffeine you take.
+When you age,
+your body loses its ability
+to produce NAD+.
+A little molecule your cells use
+to generate energy
+at a biological level.
+You being tired
+isn't about sleep,
+stress or genetics.
+Your cells are just running on fumes
+and no amount of caffeine
+will fix that.
+That's where NMN comes in.
+It's the direct precursor
+your body uses
+to produce NAD+.
+One scoop every morning
+gives your cells
+what they've been running short on.
+No spike,
+no crash,
+just you with real energy
+really functioning at your best.
+Ladies,
+just trust me
+and give it a try.
+Get your 30-day supply
+of NMN powder
+by tapping the link
+below this video.
+Now, shameless plug,
+if you liked all this stuff
+then you will love it
+inside of BBA.
+I'm literally filming
+new content
+this weekend
+specifically around AI
+that I haven't put out anywhere.
+So, if you want to learn
+how to start a real e-commerce brand
+using all these AI tools,
+just click the first link
+in the description
+and see if you're a good fit
+for BBA.
+Full transparency,
+we don't accept everybody
+but if you're a good fit,
+we will let you know.
+Other than that,
+make sure you get my SOPs
+and everything that you need
+to make these videos.
+And I'll see you all
+in the next one.
+Peace.

@@ -1,0 +1,130 @@
+TITLE: this new AI found me a $371k/mo winning product in 9 mins (not ChatGPT)
+URL: https://www.youtube.com/watch?v=VxgRCUOCX9Q
+DURATION: 568s
+============================================================
+
+Hey guys, Mark here. In this video, I'm going to show you how I use this new AI tool to find a
+$376,000 per month winning product that took me basically no time whatsoever. And if you're
+wondering what this new AI tool is, it's not ChatGPT, it's actually a new tool from OpenAI
+called Operator. So Operator is OpenAI's new AI agent tool, which an AI agent is basically an AI,
+think of it as an employee that you can hire to go and complete any task on the internet that you
+want. You can give it your specific logins to softwares, to platforms, and it'll go and actually
+do stuff for you, and then come back and save you a lot of time. So what I did is I programmed
+an operator, an AI agent, to go and do product research for me based off of a specific set of
+criteria. So once you open your Operator account, it's very, very simple to use. It's going to look
+exactly like ChatGPT, and all you want to do is basically insert a set of instructions that you
+want it to follow in order to find your winning product, okay? So for me, I have a specific set
+of criteria that I'm looking for in order to find my winning product. What I'm going to do
+is I'm actually going to give it access to one of my favorite software,
+that I like to use for product research called GetHooked. I'm going to give it access to that
+software and basically have it scrape the ad library based off a specific set of criteria
+to find the winning product. So let me show you exactly what I mean. So this is the GetHooked
+software right here. What I'm going to do is go over to the left-hand side, and as you can see,
+you can basically select the specific criteria that you want to have, whether it's like a winning
+ad, a video ad, if the ad is still running. And I have a list of criteria that I use that I uploaded
+into Operator along with a whole bunch of other instructions. Basically hit enter,
+basically let it run wild for about five to 10 minutes. It spit out an entire list
+of 10 winning products. And so if you want the full prompt that I actually used, you can tell
+it's kind of long. It did take a little bit of trial and error to actually get it to work. But
+if you want this specific prompt, I'll leave it as the third link in the description. So you can
+always just go and click it and get access to it for free. As you can see, I put in the prompt here
+and ran for a little bit of time. We went back and forth maybe one or two times because there
+was a few points where it couldn't exactly access something. But this is the way that I want you to
+think about using Operator, okay?
+Anytime that you're working with an AI agent, you have to give it a little bit of guidance. So this
+prompt that I gave you, again, third link in the description if you want it, it's just a starting
+point, okay? I have my specific criteria that I use. You can set your own. You don't have to use
+GetHooked. You can use whatever software that you want. You can have it go straight to the Facebook
+ads library and search based off keywords. It's entirely up to you. I like using GetHooked because
+their Explore section is basically like the ad library but on steroids. So I can specifically
+find ads that I know are winning and reverse engineer them to find the product and the revenue
+that they're doing. So I sent all this data into Operator. It worked. It worked. It worked. And it
+basically spit out this list right here of 10 potential winning products. You can see it missed
+the first one, but the other nine products got basically perfectly. And as I was going through
+this, I actually found one really good product here. Now, you don't have to say 10 products. You
+could say 20. You could say 50. You could say 100. You can say whatever you want. It's your AI agent
+that you can use with your own criteria. Now, based off this initial criteria that I used, I
+actually found this product right here. So I'm going to click on the link.
+And it's going to take me to the GetHooked product because let me tell you this, this video is not
+over, okay? I'm going to show you how to find the product, but that's only half of the process,
+okay? The other half of the process is doing what's called validating the product,
+aka proving with data that you can confirm that that product is selling at least $300,000 per month
+in sales. If it's not doing that, it's not a product that we want to sell. So here, I'm going
+to click on details and actually go to the landing page right here. And as you can see, this product,
+truth be told, but this is a really cool thing. Notice, look at the domain, okay?
+kiddysprout.com slash pages slash dc dash listicle, meaning on this channel, I talk a lot about using
+competitive advantages. By the way, I put together like a full video on this. It's unlisted on the
+channel, but you can just DM me on IG, DM me the word competitor, and I'll send it to you.
+But one of the competitive advantages that you can use is competing on funnels. And notice,
+this isn't like a traditional Shopify PDP. This isn't a product page. What this is, is a page
+that is designed to basically hide the sales process, which can possibly increase your
+conversion rate. And these guys, as you can tell, this product is not new, right? It's very much so
+validated. They say that they've sold over 190,000. No, I'm not going to believe that for a
+second. Maybe it's true. Maybe it's not. I'm not here to judge. But what I am going to do is look
+at the data. And so now we want to move on to the validation portion of this video. How can you
+actually validate that this product right here is selling at scale? So what I'm going to do,
+pop open the similar web extension, and you can see that these guys have scaled to
+235,000 visitors per month, okay? Now, you can do a really simple calculation here to determine,
+generally speaking, the amount of revenue that they're doing, okay? And so I'm going to say
+with a page like this, the conversion rate is going to be a minimum. I mean, this is a damn
+good page. I would say the conversion rate would be a minimum of a 2%. I think 3% is even realistic,
+or maybe even higher than 3%. But let's just be conservative, right? Let's say 2%.
+So you're going to do 0.02 times the number of visitors that they have on their store,
+which is 235,000, right? So let's go 235. And that's going to give you 4,700 orders per month.
+So now we need to estimate what would the AOV be of the store, the average order value. Because if
+you multiply the AOV times that 4,700 number, you can generally understand the type of volume that
+these guys are doing. Now, what I absolutely love about this product, by the way, not only does it
+solve a problem, which is a very important piece of criteria, not only does it solve a problem in
+the cash mint market, right? The only people that humans love more than themselves or their family
+is their pets, okay? So that's why I absolutely love this market. Look at what they did here.
+You basically sign them up on a subscription. So instead of just buying the product once,
+which we all know is really, really hard for you to be profitable when you just get a cut
+from the buy community once, right? You have to be really aggressive with your AOV, with your
+upsells, et cetera, just to be profitable. What these guys did is they built a subscription
+around, I'm guessing, the filters associated with this product, which is
+genius. I absolutely love that they did that because now their repeat customer rates can be
+very high. And even if they acquire a customer once, that customer is going to be paying them
+over and over and over again. And so even like absolute worst case scenario for the two months,
+it's $70, four months, it's 84. And the sixth month is 94, right? So worst case scenario,
+these guys have an AOV of at least $80. I think that's being extremely conservative. Once again,
+I haven't even looked at the other upsell that you guys have, but let's say very conservatively,
+they're at 80, right?
+We're going to multiply that $4,700 unit order number by $80 and see, let's do this the right
+way. There we go. $376,000 per month in sales that this brand is doing. So now that we know
+that this product, once again, solves the problem in a passionate market, it is validated. So we
+know that it's selling at at least $300,000 per month. The only thing that I want to look into
+at this point is the margins, okay? What I mean by margins is how much does it cost for you to
+get this product at cost? So let's quickly just pop open AliExpress to kind of get an idea of how
+much this product actually costs to fulfill. I'm not actually going to fulfill this product for
+you to sell it through AliExpress, but I just want to kind of get a general idea around how
+much it would cost, okay? So let's say cat water fountain. Obviously, it's an electric cat water
+fountain. So let's go ahead and take a look and generally see, I'm sure we'll see it pretty
+quickly here. Yep, there it is for $17. Okay, perfect. Let's just say it's around like $17 to
+$20 to fulfill and ship this product out. That means if they're selling for on average $70 and
+it costs $20, that means that it meets the two rules of profitability. Number one, you want to
+have a minimum of a $20 margin. In this case, they have $50 a margin. Those are really, really good
+profit margins. That's the first rule. The second rule is the product needs to absolutely positively
+be 3x your cost of goods sold. So in this case, the cost of goods sold is $20, right? Like I said
+$60. These guys, they're selling as $70. So they meet both of those rules of profitability. So this
+product right here checks off so many boxes. It's not going to be one that I would sell. I mean,
+the one thing that I'm keeping in mind here is that these guys are doing a lot of things right.
+So in the back of my mind, I'm like, how can I beat them? You know, I haven't looked at necessarily
+at their ad library yet. That would be the next thing that I do. But these guys are freaking
+destroying it. And it's not necessarily not necessarily a company that I want to compete
+with because they're doing really, really well. So I'd have to do a little bit more research really
+but this is the product that you can use. Okay, you can think of operator literally as one of your
+VAs as one of your employees in your business, you can start thinking like an entrepreneur and
+a business owner and less like an employee, because that's how you really create this
+wealth that I know that you're after. So I hope you guys enjoy this video. If you want to learn
+more about this process of intertwining like AI with with product research with Facebook ads,
+I've been experimenting a lot with operator over the past 20 been out, I think around like a week
+or a week and a half. But I've been experimenting a lot. I've been using a lot of my product research
+in my own business. So this is also that I share actually inside of our program Brand Builders
+Academy. So if you're interested in working with me a little bit closer, and actually getting like
+that one on one guidance to get you to owning a profitable, successful ecom store that actually
+pays you real income online, just click the first link in the description, you can apply for Brand
+Builders Academy. That's a mentorship program that I own with my partner, Alex fed it off. So if that
+interests you go ahead and fill out an application. We don't accept everybody, but we will let you
+know if you want to work with us. So other than that, guys, thanks so much for watching. See you
+on the next video.
+Peace

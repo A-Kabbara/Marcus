@@ -1,0 +1,254 @@
+TITLE: how to make a sh*t ton of money with facebook ads
+URL: https://www.youtube.com/watch?v=_bb-jz3F9fs
+DURATION: 1064s
+============================================================
+
+Hey guys, Mark here. In this video, I'm going to show you how to run Facebook ads and not lose a
+shit ton of money. Now, I don't know why it is this way, but for some reason, whenever people
+get into the whole e-com space, they're basically immediately brainwashed into this terrible line
+of thinking, which is, hey, 99% of my success comes down to one thing. And that one thing is,
+you guessed it, the product. And of course, this is not actually the real reality. This is not the
+allocation of what's most important. Like this would be like everything else. And 99% is a
+product. This is what most people genuinely believe. But in reality, what it really looks
+like is this. This tiny little piece right here that is like maybe 5% of the whole pie is actually
+the product. I actually think the product is not the end all be all thing. And I've believed that
+for quite a long time. This, the major piece here is literally just knowing how to read your
+fucking data. Everything inside of the Facebook ad account,
+is a signal. It's a signal to you so that you, because you're such a smart marketer,
+know what you need to adjust. Like every number on the dashboard, every number on your funnel,
+even it's just like indication. It's like if you're driving a car and your check engine light
+comes on, you don't know exactly what the problem is yet. It's just an indication that you need to
+check things out. That's exactly how you should think about running Facebook ads. So in this
+video, I want to actually walk you through the most important metrics that you need to know,
+the back of your freaking hand, and when you find one that is outside of KPI for you,
+exactly how to fix it.
+When it comes to all the metrics within the ads manager and also within the funnel,
+because if you're not looking at the funnel, AKA your store, then you could be diagnosing
+the wrong thing. For example, maybe your ads are actually performing great. All your numbers are
+super within KPI, but your funnel is simply just not converting people or it's not converting
+people at a high enough average order value, which we'll get to that in a second. But the
+way that I like to explain this is that you have soft metrics and you have hard metrics. So soft
+metrics are things that don't involve somebody actually taking an action on buying your product.
+Something like an add to cart, initiate checkout, a purchase, multiple purchases, a subscription,
+et cetera. But soft metrics, this is all on the ad side. And the most important of these soft
+metrics is the CPC, right? This is your cost per link click, specifically your link CPC.
+So when you go to the Facebook ads manager, you'll notice that there's all types of CPC.
+You want to make sure that you click link CPC. And this is the cost that you're paying Facebook
+to get somebody to actually click a link on your ad that goes to your website. If you click the
+regular CPC, technically speaking, you're going to get a link to your ad. So if you click the
+expand text section on your ad, that's technically a click, but we don't want to factor that in. So
+make sure that you use CPC link. This is the most important soft metric in your entire ad account,
+because this is what you're paying to acquire somebody who is potentially interested in buying
+your product. Now, the KPI here, if you're running in the US, I say you need to keep your KPI for
+cost per click around $1.50. If you're running a big four, I think anywhere from $1 to $1.50 is
+within KPI. But this is one of the first things that I look at because depending on the other
+metrics that you're buying, you're going to have to keep your KPI for cost per click around $1.50.
+I'm going to get to in a second. This is the indicator. This is not the root cause of the
+problem ever, because there's always something underlying the CPC. Maybe it's your credit,
+maybe it's your targeting. We'll get into that. But this is really like the check engine light,
+and it should prompt you to go into all these other soft metrics to identify. Let's say your
+CPC is outside of KPI. Okay, what is it exactly that's causing that CPC to go up? So next up,
+we have CTR link. This is something that could be influencing your CPC here. Your CTR stands for
+click-through rate. This is the percentage of people out of the total impressions that Facebook
+is serving to your audience. What percentage of people are clicking on the link and going to your
+website, right? The KPI here is 3%. It doesn't matter which country you're running in. It's
+most difficult to do in the United States, naturally, because the United States is the
+most competitive market out there. However, 3% is still the KPI, right? So if you go and look
+at your ads and your CTR is under 3%, that would be something that you need to look into.
+By the way, guys, I have a few more soft metrics here. The most important thing that I see,
+time and time again, that raises your CPC is simply your creatives are not good enough. I know
+that's not the answer that anybody wants to hear, but look, it's 2025. Creative is king. Creative
+is your targeting. All the targeting at the media buying level is borderline obsolete. We still do
+a tiny, tiny bit, but for the most part, the algorithm has all the power, which means that you,
+as the marketer, the one actually creating these creatives, you have the biggest control
+over every single soft metric here. And a lot of times, the simple, albeit a little bit,
+annoying answer is that you just have to make fucking better creatives, dude. A lot of times,
+that is simply your answer. Next up on the list, we have CPMs, probably the trickiest metric out
+of all of these. CPM stands for cost per meal. And what it means is how much money do I have
+to pay Facebook to get a thousand impressions on my particular ad? So for example, if I have $30
+CPMs, that means I go to Facebook and I say, hey, here's my 30 bucks or say, cool, I'm going to take
+that ad you just made and show it to 1000 people, right? That's generally how you want to think
+about it. I said CPMs are the most critical, but if you're a CPM, you're going to have to pay a
+complex issue because there's so many things that can impact it. I don't want to unpack CPMs
+in this video. All you need to know is that if your CPC is outside of KPI, it's above $1.50.
+Let's say it's $2, $2.50. The KPI for CPMs, if you're running in the US, should be around $30
+to $50. If you're running with extremely high CPMs, that could be influencing your CPC. Now,
+keep in mind, this should be at the top of your mind. Everything else, if it's outside of KPI,
+but the CPC is within KPI, you're good. You're chilling. A lot of times, I see guys that are
+running in European countries, for example, like Italy, the CPMs are dirt cheap. They're like 11
+euros, 12 euros, 15 euros. As a result, because it's so cheap to advertise there, it's going to
+drop your CTR pretty substantially, unless you just have monstrously good creatives, which if
+you do, shout out to you, you're going to be printing. Ultimately, it doesn't matter that
+the CTR is technically outside of KPI because your CPC is still going to be so low because
+your cost to advertise, aka your CPMs, is also very low. That's the general way that you want
+to think about it. Next up is the hook rate.
+We're getting into some custom metrics here. A hook rate is a percentage of people that continue
+to watch your ad after the first three seconds. Your KPI here is 50%. This is only applicable
+if you're running video ads because this metric doesn't exist if you're not viewing a video.
+But if you have a hook rate that is less than 50%, this is one thing that I will not compromise on.
+If my hook rate is less than 50%, I don't even want to talk about anything else except for
+creating better hooks for my ads. Another custom metric here that I have is your hold rate. This
+is the percentage of people that are watching up to a specific
+portion of your video. It could be 50% video view, 75% video view, whatever way that you want
+to set it up. We personally use 50% as that metric. What you really want to be looking at here is a
+25% KPI. This, of course, depends a lot on the length of your ad because naturally, if you're
+running a 12-minute BSL, which we do, your hold rate is going to be dog shit. That's okay. I don't
+even look at that number in that case. I'm more so looking at some other metrics. But the hook rate
+is good and the CPC is good and hold rate becomes mostly irrelevant at that stage. Now, the final
+on the soft metrics is your frequency. Now, I was debating putting this one on the list. Frequency
+essentially means how many times is one individual person seeing that same creative. The reason I
+decided to put it on this list is because in 2025, your creative is your targeting. A lot of times,
+people will start testing creatives. They're disguised as retargeting creatives. You have
+the product in the actual, let's just say, image ad, for example, and you have this retargeting
+style ad copy. Facebook picks up on that because, once again, your creative is your targeting and
+will only serve that ad to people that are already pretty warm, already within your Facebook
+ecosystem. The problem with that is if you're trying to target cold audiences, top of funnel
+audiences, but your frequency is like at a two, something ain't right. Something is broken that
+you have to fix. Probably the creative itself, if not the targeting within the ad set level.
+And that's it for the soft metrics. Pretty straightforward, but these are the first
+things that I'm looking at. I'm really looking at CPC. And if I see that it's outside of KPI,
+I want to know why. Is it because the CPMs are super high? Is it because your CTR is super
+low and your creatives are just dog shit? Is it because your hook rate is dog shit? Is it because
+your hold rate is dog shit? Something on this list has got to be dog shit if you're not making money.
+And if not, then we'll move over to the other column, which is going to be all your hard
+metrics. Because maybe you're just a fucking ad god, bro. Congrats. Must be nice. But for us
+mortals, we got to work on the funnel. So let's go over to the hard metrics. These are, as I said,
+the conversion metrics. So your added cards, your purchases, your initiate checkouts, people that
+are taking a direct action that is measurable so that you can actually get people to buy your shit.
+First up on the list, we have CVR, aka your conversion rate. This is the equivalent of the
+CPC. This is one of the main things that I'm looking at when it comes to the profitability
+of your funnel. Now, important note here, this metric is relative. For me, the KPI is a minimum
+of 3%. And I think that's a pretty good standard across basically 90% of all the e-commerce brands
+out there. However, if you're selling a product that is very, very expensive,
+running a more complex funnel, for example, pre-sale pages, advertorials, listicles, sales
+page, order page, upsells, et cetera, you can actually sacrifice a little bit more because
+your funnel is doing more heavy lifting and you're just getting really cheap traffic from Facebook.
+So it's all relative, but generally speaking, you want to shoot for a minimum of 3%. Absolute
+minimum. If you're selling like a $40 product, then I think 4% should be the KPI. And if you're
+selling something cheaper than even 5% is realistic. Next up on the hard metrics list,
+we have the add to cart ratio.
+So if you send a hundred people to your landing page, let's just say you're running a PDP,
+right? Standard product page. I want to see at least 10% of those people actually add that item
+to the cart. So I want to see a 10% ratio from people who view the content, aka view the landing
+page to add the cart. If it's anything less than this, this tells me that my sales page sucks.
+My PDP sucks, right? I'm getting traffic. Everything on the ad side is good, but people
+are getting to the landing page and something is breaking because
+they are clearly not adding this item to the cart.
+So you could be getting what's called curiosity clicks, in which case your ads, they may look
+like they're doing really well, but what about the quality of the clicks that are landing
+on your landing page? If it's just dog shit traffic, then of course you're going to see
+that reflected in your add to cart ratio, which case you would actually need to go back
+to the creative, adjust those soft metrics so that you qualify your traffic a little
+bit more. Next up on the list, we have your add to cart to purchase ratio. So this is
+like one step deeper down the funnel. For example, if you have like those 10 add to
+carts that I mentioned previously, I want to see at least three of those go through
+and actually purchase, which means that is a 30% add to cart to purchase ratio. If I have
+10 add to carts, I want to see three go through and purchase. If you have a breakdown here,
+that means that people are interested. Like they see the ad, the PDP is good enough so
+that they add it to cart, but they don't go and complete their purchase. Now you could
+add some urgency and some scarcity in there. Yes, of course, we all know those standard
+persuasion principles. However, what I see a lot of times is that people are going to
+go through and QC their own process. Like have you actually gone through your own website,
+added it to cart, initiate checkout and actually purchased from your own business? Because
+if you haven't, you should, you may have something that is broken. Maybe your payment processor
+wasn't set up properly. Maybe there's an error on the checkout page. Maybe there's something
+really weird on the add to cart page. And being able to divide these metrics this way
+will help you identify what that issue is. If there's a massive drop off from add to
+cart to initiate checkout, you know that there's a problem with the cart page, if any. And
+if there's a drop off from initiate checkout to purchase, then that's a checkout page issue.
+So notice how I'm basically taking this CVR concept, like the conversion rate, I'm trying
+to divide it into these sub component steps where I can actually identify where the breakdown
+is occurring. I'll tell you guys, I have trained multiple media buyers, multiple copywriters
+myself, and I teach them all the same framework, which is to ask yourself the question, where
+is the breakdown occurring? Marketing is just a game of funnels in general. I know I talk
+a lot about funnels, funnel scaling, chat funnels, whatever, but everything is a funnel.
+Like at the very beginning, you're going to have a funnel, and you're going to have a
+very, very top of the funnel on Facebook, on your ads, you have an impression. So somebody
+sees your brand for the first time. How many people actually will click on that initially?
+That's the first drop off. That's the first breakdown, right? Typically 97% of people,
+if you're within KPI, are never going to click on your ad. So that's like the first drop
+down. And then you have, they click the ad, and then they land on a landing page. That's
+another drop off. And then from landing page to add a cart, another drop off. And you just
+want to like be fucking maniacal about breaking down these big, scary metrics, like your
+CPC and your CVR into these subcomponent steps, because it's a lot easier to identify
+the root cause of the issue. And you don't end up trying to fix something that wasn't
+even broken in the first place. So next up on the list of hard metrics, we have AOV,
+right? Pretty standard average order value. And the reason I have this list, this on the
+list here is because this is what I see most entrepreneurs lacking on in general. They
+are not optimizing their upsell path whatsoever, either pre-purchase or post-purchase. It's
+just complete dog shit. And the way that I can know it's complete dog shit is actually
+a metric here, which is your AOV to front end ratio. So what that means is let's say
+that I'm selling a product, fidget spinner, selling it for 40 bucks. It's a premium
+fidget spinner. And my average order value on that store is 40 bucks. So it's literally
+a one to one ratio of my AOV to my front end product price. Terrible, absolutely terrible.
+That basically means that there is zero AOV contribution whatsoever throughout the rest
+of that funnel. Absolutely nothing. There's literally nothing that you're doing to extract
+more cash from your customers other than that one product. This is like the 2018 bullshit
+ass way of running e-com. It's not going to work and it's going to be so difficult for
+you to scale because every customer that you have coming in is so cheap and they're not
+buying that much of your shit. You got to fix that, right? There's a bunch of strategies.
+I posted videos on that. You can check it out. The optimal ratio here, I didn't give
+a KPI for AOV because it's so dependent on what your product price, but I can give one
+here. Minimum, absolute minimum should be a two to one ratio, which means if I'm selling
+AOV should be 80. Yeah, 80. That's double your front end product price. And to be honest,
+if you're asking me, I think that's like conservative. I think you can get it significantly
+higher, three, four, five X even of your front end product price. Of course, it all depends
+on which strategy you're running with, but absolute minimum, my opinion should be a two
+X ratio here. So if you're selling a $40 product, shoot for $80 AOV. If you're selling a $100
+product, shoot for $200 AOV. It's 100% doable. If you think that it's not, you haven't been
+in the game for that long and you just got to figure it out. So I think that's a double
+fucking level up. And that's not me trying to like ego slam you. It's just me being completely
+honest because I had to go through this process myself. And this was a big, like belief shifting
+moment for me. When I finally realized this, everything else became easier. And so next
+up on the hard metrics list, we have your average order value to LTV ratio. What this
+is essentially doing is showing how much am I getting one customer for, right? How much
+value does that one order bring me, which is your average order value versus how much
+is that customer worth period?
+What is the lifetime value of that customer? Now, the main thing that this one tells me
+is what is your retention and your repeat customer purchase rate? So I could have just
+added that on here, but ultimately I don't even care what your repeat purchase rate.
+I want to see how high your LTV is in comparison to your AOV. So this is showing how good is
+your retention? How good are you at reselling to your existing customer? What does that
+email flow look like? What are those SMS flows look like? What is the upsell process? What
+ads are you running specifically to people who have already bought from you? That is
+the main reason that I have this.
+Metric on here. And once again, the KPI here, ideally it should be, I kind of wrote this
+backwards, but it should be three to one LTV to AOV. So it'd be like one to three in the
+way that I wrote it here. So you should have an LTV. That's about three times as high as
+your average order value. That's what you want to shoot for. If it's below that you've
+got retention issues just because you acquired a customer once. Cool. You did the hard part.
+You did the most difficult part and you acquired a customer. That's the most expensive thing
+that you can do in your business. Now you've got to sell them again and again and again,
+without being an asshole and without completely burning that customer and shooting up your
+refund rate. Again, I can do whole videos on that, but that's the reason that that's
+on there.
+And then the final number that I have here on the hard metrics is your CAC, your cost
+to acquire customer, AKA your, your CPA, your cost per purchase. It's all kind of synonymous
+with the same thing. Now I'll take this in context with the CVR and the AOV to determine
+where the breakdown is occurring.
+So I shit you not guys, I have calls inside of my program, Brand Builders Academy, which
+by the way, if you want to apply, you can just click the first link in the description.
+And. We go through it. We go through it. We go through it. We go through it. We go through.
+We go through these numbers live on the call so that you can get like direct one-on-one
+feedback from me. And I literally have them fill out a form that looks almost identical
+to this. I want to see all these numbers so I can identify, all right, what's within KPI.
+What's outside of KPI for the stuff that's outside. Here's exactly what you do. And half
+the time people will come back to those calls and be like, Mark, I implemented what you
+told me. And I'm like twice as profitable. Thanks. I'm like, cool. Let's do it again.
+And that's the entire process. And I want you guys to understand the data is telling
+you a story.
+It's so easy.
+As an early stage entrepreneur to be completely manipulated by your own thoughts, to be manipulated
+by your own emotions, right? You just like test a product. It's not profitable. And you're
+just like, Oh, stupid product. Like I thought my ads were good. My creators are good. Fuck
+this shit. I just got to move on to the next one. No, that's how a fucking loser new brokey
+bitch talks. All right. Start talking like a fucking Chad and read the fucking data.
+It's telling you something, listen to it. And if you actually know how all these metrics
+kind of work together and interweave, you can identify the root cause of the issue.
+AKA you can identify where the breakdown is occurring, right? You want to think about
+your process of running Facebook ads like a hose, right? And right now the hose has a
+big fucking bend in the middle. So the water's not flowing through your job is to identify
+where that bend is actually occurring and how to solve it. And once you solve it, of
+course, it's going to go from bent to being completely straight and the water's going
+to flow with no issues. AKA you're going to be printing. All right. Other than that, y'all
+I'll see you in the next video piece.

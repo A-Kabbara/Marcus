@@ -1,0 +1,347 @@
+TITLE: AI found the product. AI made the ads. i make $305k/mo. (this feels illegal)
+URL: https://www.youtube.com/watch?v=mNjovxDwbaA
+DURATION: 1108s
+============================================================
+
+hey guys mark here in this video i'm going to show you how i use ai to find a winning product
+i use ai to build an entire funnel and i use ai even to make the ads completely from scratch and
+scale to over 10k a day as you can see here and just so we're clear this is not going to be a
+video about how to use chat gbt 101 clod 101 no we're gonna do some cool we're not gonna
+get into agentics quite yet that's a video coming soon but as long as you follow this process here
+you can easily find a good product build an amazing funnel and write some really good
+copies so let's get to it now the first step in the process here is of course to find the product
+now shockingly this is actually the easiest part of this entire process and probably the fastest
+part because all you have to do is use one specific ai tool to go and do some research
+out on the interwebs for you and find the best product that meets my criteria my criteria of
+course being you want to sell a product that is already proven to sell right i call these
+validated products ideally a product that is already generating at least 300 000 visits per
+month via something like similar web we can prove that we can get
+a product that is already selling at least 300 000 visits per month we can prove that we can get
+a product that is already selling at least 300 000 visits per month via similar web we can prove that
+they're probably doing around 8 to 10k per day maybe more maybe less i don't really care all
+i know is they're driving volume and i only want to sell products that other people are already
+selling successfully so because i want to make your job as easy as humanly possible i put together a
+little something called the mark builds brands ai product research prompt now you may be wondering
+mark what could possibly be on this document well it's actually a prompt use ai to do product
+research for you i know it sounds crazy but that is exactly what it's for but the cool part is i
+loaded in all my specific criteria here you can see that i've got a lot of criteria here i've got
+like this isn't a super extensive prompt right all i have is my specific criteria
+i show where to look what to find and then give me a few specific pieces of information for each
+product that is found all right so you can adjust this to your liking but what you're going to do
+is you're going to copy all this you're going to go into trusty dusty chat gpt you're going to
+paste that right in and then you're going to go to tools and make sure that you hit run deep research
+and go ahead and hit enter chat gpt may ask you one or two clarifying questions to make sure that
+it properly conducts the research but as you can tell here i ran this prompt myself and we've got
+this amazing list of five winning d2c supplement products specifically so one thing that i did in
+this particular prompt is i specified that i want it to be in the supplement market because selling
+supplements is fun so that's exactly what i did but you can change that based off the niche that
+you're selling in or want to sell in and as you can see we got this amazing list here of five
+winning d2c supplement products that are solving meaningful problems so one of the prompts or
+things that i put in this prompt is i want it to be a product that is solving a painful problem in
+a emotional hungry market right i believe that markets will
+everything you can go in with a product funnel ads and probably still print if the
+market is really that good so i want to go after markets first we got a few different examples here
+number one we have the company called seed doing 500 000 over 500 000 visits per month we have
+bloom nutrition also doing around a quarter million visits per month on similar web we all got mud
+water obviously massive d2c brand here we have o positive also massive absolutely massive i mean
+1.8 million plus visits and specifically we're looking at the flow pms gummies but still very
+also have front of the pack basically a dog multivitamin supplement so for example purposes
+i'm going to go with the flow pms gummy vitamins because i think that there's some really cool copy
+and angles that you can tap into specifically for this market so since i already did all the
+hard work for you you can just click one of the links here and see the exact product that was
+already found for you now obviously with supplements there's a pretty high degree of
+differentiation that has to be done in order for you to sell this product so the process is a
+little bit different but the whole product research process that process that i just took you through
+find a product that you can prove is selling the rest of the work we'll get to all right but the
+whole purpose of product research is really just to find a product that you can prove with data
+is selling at a high scale and i define a high scale at around 10k per day so just like that
+we got step number one done now we're going to move on to step number two step number two here
+is specifically going to be the process of creating the funnel now i'm not going to go
+through and design a landing page in front of you because between me and you i have people
+on my team that do that for me but i will write all the copy right in front of you
+but before we do that the whole process of building a funnel is very very heavy on
+copywriting right the most common mistake that i see people make when they come to
+you know my youtube lives or whatever is they say mark i'm getting all this traffic but i'm
+getting no sales yeah that's because your funnel sucks dick it's not converting anybody even the
+most perfect prime buyer that just whips out their credit card for for anything won't
+even buy it that's how shitty it is you gotta step the up so anytime that you're writing
+copy i have these documents that i call the foundational documents now the foundational
+is a series of four documents that i put together here that is basically going to be
+you know the foundation of every word of copy that you write whether that's your ads
+your landing pages your advertorials whatever it's all being written based off of these foundational
+documents so it's very important that you don't them up so let's go through and actually
+create these foundational documents based off a new brand that i'm saying i'm going to launch
+which i'm not but let's say i were to launch a competitor to the flow product by o positive
+this is the exact document that you want to follow and again i have links to all these sops
+and everything in the description now i hope you guys understand i am quite literally spoon feeding
+you this information so if you apply it and it doesn't work i apply almost this identical process
+myself and i'm doing just fine myself so what's the really the problem probably you're a dumbass
+all right so the four the four foundational documents is a research document which this
+is going to be the longest document where you basically prompt chat gbt to do deep research
+for you specifically about your market and then we have the avatar doc and the offer brief that builds
+on the marketing material things like the unique mechanism the state of awareness the level of
+sophistication all these like foundational marketing principles into one or two documents
+and then the final is what i call the necessary beliefs document so i believe that marketing at
+its core is simply a game of belief change work so people are coming into your business with a
+specific set of beliefs and it's your job to shift those beliefs into beliefs that align with buying
+your product so all this is so easy i'm going to skip through this part and just you know
+going to create these foundational documents real quick as if i was like a copywriter for
+o positive this is how i would start out by doing it all right so we got our full deep research done
+by chat gbt now if i were you i would go and actually read all this you don't have to read
+every word of copy that you write but this is one document that i would really really recommend you
+actually read it from top to bottom i know it's a lot but you know take some time and you give it
+a read because it'll help you write so much better copy because you'll know exactly what to look for
+anyways we're not gonna do that because we're lazy let's copy all of this here copy it and we're just
+going to paste it into its own document which is now 20 pages long and we're going to call this
+op research alrighty so we got all four of our foundational documents created here the research
+document avatar sheet offer brief as well as the necessary beliefs document so we are ready to
+finally finally write some copy and for that we're going to head over to clod.ai now
+standard rule of thumb for me personally at least is when it comes to writing copy clod is king i
+play around with the stuff all the time guys like all the time
+day every single day i'm trying every new tool every wrapper every new llm claude is consistently
+one of the best at creative forms of writing which copywriting is a creative act so i think that it's
+the best option for copywriting as of right now of course you can build your own custom solutions
+that would be the only thing that's maybe a little bit better but claude is fantastic if you're just
+starting out however what we're not going to do is just start typing prompts into claude and expect
+to get amazing results instead we're going to create a system where we can come in here and
+write let's say an advertorial in this case over and over and over again without having to prompt it
+million times and so a lot has this thing called projects that is basically the anthropic
+equivalent of a custom gpt so this is a kind of custom database where you can give a particular
+custom llm set of instructions and a set of resources and a knowledge base so what we're
+going to do is go up and hit new project you can name this whatever you want uh oh misspelled it
+god that's embarrassing um all right cool now let's move on to the next one
+now what we're going to do is going to go into set
+project instructions and once again i'll make sure that i put this somewhere in the description
+but you're going to paste that right there and go ahead and hit save instructions the only thing you
+need to edit here is the actual names of your files so i named all mine exactly like this so
+just go through and adjust names if need be and then the other thing we're going to do go up to
+the right hand corner of project knowledge and you're going to hit this little plus button and
+then hit upload from device and what i'm going to do here to begin is i'm going to upload those four
+foundational documents right the research necessary beliefs offer brief and avatar sheet
+does that so what we're doing is we're going to upload all these behavior practices so if you
+click hybridize tree3d to get hybridizing these things into
+into bola
+he's going to add to his project so for what we're going to do here is we're going to load all of those
+Now, since we already loaded so much knowledge and so much background research into this
+cloud project, the prompting is super duper simple.
+I can talk to it just like it's a standard human being, almost like an employee and just
+say, hey, I want you to write, you know, a few different outlines for advertorial.
+So in this case, all I said is please come up with a list of five different advertorial
+outlines for my brand flow that sells gummies to help women's BMS.
+And once again, super, super basic prompting, right?
+Like that's because we already did all the hard work of creating the project in the first
+place.
+As you can see now, it's searching through our project database, our knowledge base to
+identify the best potential angles that resonate with the research that we did.
+Now, if I wanted to take this a step further, what I would do is I would actually go and
+start spying on O positive or flow in this case and go look at their top ads.
+A lot of times you'll see that their top ads have one specific thing in common, specifically
+one angle.
+Once you identify the angle, I'll come back here and say, please come up with a list of
+five different advertorial outlines specifically around the angle of X, Y, Z.
+That's what I would say, because that's going to give you the best chance of success when
+it comes to your product.
+When it comes to writing this new advertorial, because Claude is going to write a great advertorial
+here regardless.
+Now, whether it resonates with the market in the specific angle that's already proven
+to convert and is destroying for this other company, that's up to you.
+So you have to go and analyze this brand and understand why are they actually successful
+and then take that knowledge into AI because AI is a tool.
+It's not going to replace you, at least not yet.
+It will in the future.
+And it'll be a lot better than you because you suck.
+So the first prompt that I sent here, once again, so freaking simple, right?
+But I said, can you come up with a list of five different headlines, each for a new advertorial?
+Now, what I'm going to do is identify the top performing or the top headline that I like the
+most, have it write an outline surrounding that particular headline, and then have it
+write the entire advertorial start to finish, right?
+So let's go through these examples here.
+Number one, Harvard's women health researcher exposes the real reason 75% of women suffer
+from PMS, an ancient solution Big Pharma hopes you never find.
+I actually like that one quite a bit.
+That one's going to be pretty hard to beat.
+Number two, my PMS rage ended.
+Ended my engagement until I discovered this 500-year-old European secret.
+Okay, it's okay.
+What high-achieving women are secretly using is hormonal thermostat.
+Oh, wow.
+I love that.
+I love that unique mechanism.
+Stop PMS from sabotaging their success.
+TikTok's viral.
+PMS hack that's making gynecologists furious.
+This one is pretty good too, actually.
+Man, I've created a monster.
+Speaking of monsters, the PMS monster finally has a match.
+Meet the four-ingredient formula that's giving women their lives back.
+So this one is obviously going to be a much more product-aware advertorial compared to
+something else.
+I personally like going like the really
+high-end.
+High, high-tam, high-emotional.
+Channel all that emotion into the product instead of starting with the product in the
+actual headline.
+So for that reason, let's go ahead and rock with number one, right?
+So let's prompt Claude again.
+So for this prompt, once again, do not overthink it.
+You did the hard work already with building the project.
+All I said was go ahead and write a full outline for an advertorial with this headline.
+I just chose one that I like the most.
+So now we have an outline.
+I like doing the outlines before actually, you know, writing the entire thing start to
+finish because if there's something you don't like about the structure...
+Then you can fix it there instead of having to, you know, rewrite the whole thing again
+and again and again.
+All right.
+So I'm pretty happy with the outline.
+I'm just going to tell it to write the full advertorial.
+Let's see what it does.
+All right.
+So we've got the full advertorial done here.
+Now, is this ready to run 100% without any editing whatsoever without any chiefing at
+all?
+No, of course not.
+God damn it.
+Don't you learn anything from watching my channel?
+You got to go through and chief this copy and if you guys want a full video on that,
+you can let me know.
+By the way, I decided to do something really special for the people that are still watching
+up until this point.
+So I put together a video that shows you how to take this text, like let's say this advertorial
+is perfect, good to go, and actually turn it into a live landing page using 100% AI.
+You don't have to know anything about coding or building landing pages or using any Shopify
+apps.
+We'll build everything completely from scratch and it looks good and it works.
+If you want that video, go DM me the word secret sauce on IG and I'll send it to you,
+but keep it between you and me.
+All right.
+All righty.
+Now at that point, we have the product.
+We have now created the funnel.
+Now we only created one step in the funnel, but you're just going to rinse and repeat
+that exact same process for the sales page, for the order page, for any other pages or
+any other copy, honestly, that you write.
+The only step that we have left now is of course the ads.
+And ironically, this is the most important piece of all.
+And what I'm going to do is I'm actually going to start testing my ads with static ads, with
+image ads, because it's a very cost efficient, lean way to test.
+You oftentimes reduce your CPM when you're testing with statics compared to videos, and
+you can identify the winning angle faster than you can with something like a VSL.
+Right?
+So what I use to create my image ads is Sora run through ChatGPT.
+So what we're actually going to do first is I'm going to load in all my foundational documents.
+Now to begin, all we're going to do is send over all of our foundational documents.
+Just say, hey, analyze these and let me know your thoughts.
+This is literally just to give this particular ChatGPT window context around our particular
+offer, around our research, around the psychological triggers that are associated with our market.
+Now for the next step, I want to find a successful ad.
+Specifically, a successful image ad that I can model for my own brand, because you
+never want to reinvent the wheel.
+You want to take your research and associate that with a proven image ad format that is
+working for other brands.
+So the perfect way to do that is to go to trustydustygethooked.ai, link in the description.
+And what you can do here is my whole purpose is really to find a winning image ad for another
+brand and then recreate it based off my brand.
+So what we're going to do over on the left hand side, go to performance, select four
+and five stars.
+Add format, select image.
+And then under static ad style, you can use just about any one of these specific static
+ad styles, or you can just go without any direction whatsoever.
+Let's just say you wanted to run before and afters.
+I don't recommend before and afters, great way to get your ad account banned, but obviously
+some people are using it successfully, right?
+So with that said, let's find a good example that we want to model.
+Keep in mind that the product I'm selling here, this low product is specifically for
+women struggling with PMS.
+So I need something that is very clear.
+That it has to do with.
+PMS specifically.
+So let's say I really love this particular static ad here, and I wanted to test it for
+my own brand instead.
+So what we're going to do is going to click here, right?
+Where it says download media.
+It's going to download that particular image.
+Let's go back into our ChatGPT window and upload that image.
+Now what I did here in the prompting is I basically wanted to draw out of this image,
+all the text, and then have ChatGPT rewrite what the text should be along with the prompt
+for how to create the entire image, right?
+So you can copy this prompt if you want, pause the video and do it.
+All that I have now.
+It looks a little something like this, and I'm going to upload the example once again
+as a, you know, kind of a swipe, go to tools, hit, create an image.
+And now we're going to go ahead and hit enter and see what the hell happens.
+Now while that particular image is loading, what I like to do as well, I can't load up
+my account right now or else I'd expose all my, my product images, but I highly recommend
+going to Sora.ChatGPT.com and you can actually get multiple images created at once.
+I go four images at one time.
+So you can see specific variations all the time.
+You can still make those adjustments for now.
+We're just rocking with a basic ChatGPT window, but Sora you can get, you can kind of iterate
+a lot faster because it's just creating more generations.
+Little fun fact while this image ad is being created.
+This new model from ChatGPT for image generation is the first model to ever create images pixel
+by pixel.
+That's why it's so freaking good.
+And even the text is not messed up.
+Hopefully I didn't jinx it.
+Nope.
+The text looks perfect.
+But yeah, it's the first model that really does that.
+So let's take a look.
+This is our creative that we have right now.
+And if you really didn't know that.
+That this was created with AI, you would think that this was probably some professional
+graphic designer, but we just modeled the exact winning version that we had over here.
+It took the specific color palette.
+It took the specific copy that I had it right.
+The only thing that's not perfect.
+I think I haven't actually checked.
+It's going to be obviously the style of the branding on the package, but that's a very
+simple fix.
+I'll just download this, send it right back to ChatGPT and then re-prompt it with specifically
+a mock-up of the product and nothing else.
+And it'll replace it with zero issues whatsoever.
+But as you can see, like zero issues with the text every once in a while.
+There's issues with text.
+It's very simple fix.
+You just have to re-prompt it.
+And another little tip for image generation.
+If you have a window that's like super duper long, you're only going to get worse and worse
+responses, right?
+You have to understand the context window associated with LLMs for ChatGPT 4.0.
+I believe the context window is like 128,000 or 200,000.
+I can't remember exactly.
+It's around that range.
+And so the longer that the window goes, it doesn't mean you're going to get better and
+better responses.
+Usually it means you're going to get worse and worse responses because you've already
+surpassed the context window.
+And I can't take context.
+I can't take context of everything from A to Z, right?
+But look, just like that, we got the product, we got the funnel and we got the ads.
+And guys, I'm telling you, this is basically the exact process that I use to scale.
+I mean, we just got a new brand from zero to 10K a day using this exact process.
+And so if you're one of those people that's like not taking AI seriously, I didn't even
+get into agentics.
+This is still like level one shit.
+This is just using specific LLMs for specific purposes and being not a total retard about
+it.
+But if you actually understand agentics and you start to understand it, you're going to
+get better responses.
+If you start to automate this process with AI agents, then shit starts to get really,
+really interesting.
+And if you like all this AI stuff and applying it to e-commerce specifically, I do have a
+mentorship program that I own with my partner, Alex.
+And if you want to be a part of it and you want to learn from me a little bit closer,
+you can click the first link in the description and fill out an application for that.
+The reason we have an application and we don't just like have a course link or something
+is because we really care about the people that are coming in the program.
+We have your best interests in mind.
+And if you're serious, we'll be serious too.
+But we don't allow everybody in for that reason.
+So if you are serious and you have some capital set aside, because obviously it's not free,
+you can click the first link description, fill out an application, see if you're a good
+fit.
+Other than that, y'all be legendary.
+I'll talk to y'all soon.
+Peace.

@@ -1,0 +1,132 @@
+TITLE: how i generate $10k/day ad hooks with this new AI
+URL: https://www.youtube.com/watch?v=Kl9QvifZFAE
+DURATION: 543s
+============================================================
+
+hey guys mark here in this video i'm going to be going over how you can create endless winning ad
+hooks using ai so that you don't even have to freaking think and this entire process entire
+strategy is based off one very simple but very unpopular fact and that one simple fact is that
+content creators suck and when i say they suck what i specifically mean is they suck at making
+money they're so so so so good at garnering all this attention getting all these views all these
+followers all these vanity metrics but they suck at actually converting it so we can take advantage
+of that as smart advertisers smart marketers we could take advantage of their ability to
+create really popular hooks and use those ourselves in our ads and all we have to do
+is inject a little bit of high quality direct response copy into those ads to actually make
+them convert that's what most content creators don't understand that's why most of them are
+completely broke there's a reason that there's a term for influencers called the broke influencer
+syndrome but we can use that to our advantage now the question becomes how do you actually
+make a good hook like how do you know that this is a good hook versus a bad hook how do i know that
+the ad that sucks versus everything else well for that there's actually something that you can do
+and something that you should look at as a metric called your hook rate now this is not something
+that is natively within the facebook ads dashboard if you're running ads on facebook or if you're
+running ads on tick tock same thing but you can create custom metrics inside your facebook ads
+account so for example this account here and all you have to do is go to columns you're going to
+hit edit to one of your custom columns go to custom and just select create custom metric now
+let's call this the hook rate and the way that we calculate the
+hook rate it's actually very very simple all we're going to do is three second video plays
+divided by impressions this is what your actual hook rate is so you're going to select create
+metric right here so from here all you have to do is hit create metric and then you want to
+specifically search for hook rate so that you can add it to your custom columns now the cool part is
+you can look at this at each individual creative for example these two creatives here this one has
+a hook rate of 49 that means about 50 of the audience is sticking around to continue watching
+the ad after three seconds of the video has played and this one's 36 so the hook rate you should
+be like what you're trying to reach as a kpi is 50 if you have a hook rate of 50 or more that means
+that the hook of your ad is really doing its job it's very very much so performing really well so
+the question now becomes how do we actually find these well what we're going to do is we're going
+to hop into an ai agent software i've been using one recently called gen spark it's actually called
+gen spark super agent it's kind of a little sub microcosm within gem spark but you can also use
+operator within chat gpt they all kind of do the same thing but this one in my experience is just
+significantly faster than operator which is like my biggest complaint that i have about operator so
+all you're going to do is paste in a very simple prompt now the prompt that i have here is so
+freaking simple i don't even think i need to share it i'll put it in the description of this video
+like it's it's literally one single line but i did a little bit of experimentation and what i realized
+is that the longer i made the prompt the worse of an output that i actually got and so for this
+example all i'm saying is i want you to search on tick tock terms around dog supplements you can
+enter your niche there and identify the videos that have the highest performance in relation to
+videos that have lots of views but very few followers and identify the winning hooks that
+are associated with these videos so the reason that i had that little stipulation is there is
+because you can have a creator that has millions and millions of followers and they have a video
+that gets you know 500 000 views or a million views but most of it is just the existing audience
+i want to see the videos that are helping the smaller creators completely pop off because that's
+how you really know the hook and the content of that video is very very strong so in this case
+let's use the the dog supplements just as an example but you can put hair loss for women hair
+so you can put in pepper like just describe the problem don't describe the product describe the
+specific problem like whether that's weight loss whether that is survival i don't care just
+describe the problem and we're going to hit enter now like i said the cool part about this is just
+how fast it is so the last time that i ran this prompt i believe it probably took me 30 to 45
+seconds to get a fully finished analysis of the top performing hooks and really what we're doing
+here is we're looking on tick tock for the top performing hooks in a specific niche and as a
+result because most content creators are not going to monetize their audience we're going to steal
+it in our ads or at least use some variation of it and then actually use it to convert people
+at a really really high level and i'm not joking when i tell you this guys like this is one of the
+strategies like the ai is new but generally looking at the organic hooks is something that has
+significantly powered our top ads like consistently and they're not always going to be on
+tick-tock sometimes i'll find them on instagram sometimes i'll find them on facebook doesn't
+really matter but the short form you have to be so aggressive with getting people's attention right
+because their attention span is so freaking low so i took that into consideration i was just like
+okay i'm going to go to the most aggressive one and i'm going to go to the most aggressive one and
+i'm going to go to the most aggressive platform that there is in terms of garnering that attention
+which is tick tock the king of short form even though you know i know ig reels is on come up but
+tick tock is definitely the king and just find the top performing hook so you can already see
+all these hooks that we have here let's look through one initially so let's look at these
+hooks here so here's one here's how i fixed my dog's health problem in just short time period
+if your dog has this symptom stop giving them xyz and try this instead this one supplement that
+finally held my dog's whatever health issue so let's say like they struggle with like joint pain
+right here's how i fix my dog's joint pain right here's how i fix my dog's joint pain right here's
+how i fix my dog's joint pain in just seven days in just 14 days in just 30 days if your dog has
+insert like big dog symptom here stop giving them common thing and try so it basically gave you a
+formula that you can use you can steal has been proven to convert let's look at another one so
+here we have the surprise discovery hooks right i'll zoom in a little bit i can't believe what
+the vest said about this dog supplement the shocking ingredient in most dog supplements
+that's harming your pet this one is what i discovered after testing 12 different dog
+supplements all right now we have another
+category of hooks expert authority hook as a vet tech for 10 years here's the only supplement i
+give for my dogs why most vets won't tell you about this dog supplement three supplements
+veterinarians actually recommend for dogs and it just continues to go on like the fact that
+this is available on the internet you don't even have to use the ai i'm not affiliated
+with this company i just started using them recently but it just speeds up the process
+and i don't like buying stuff i like buying my time and that's one thing that i could really do
+with ai agents like this and so the rest of this you know the content here is mostly worthless but
+i just got like what is it three six nine twelve fifteen really solid potential hook ideas and
+what i'll do is i'll copy all these and go paste them in document and i can even like upload these
+to clot or to chat gpt and start cross analyzing and just like give them all the information on
+my product everything the market all those foundational documents that i typically do
+and i can immediately just start having a conversation and producing better and better hooks
+over and over again so this is literally like the infinite hook glitch if you use it you can make
+incredible money with it so i'm just gonna try to get a little bit more detail here about that next
+Now, the hard part obviously is continuing that attention along the rest of the ad, but the hook
+is like 90% of your success because another thing that'll do, and it didn't drop the links in this
+case, sometimes it drops the links, but if I find a specific video that has a really proven hook,
+I want to also go look at the scroll stopper. What is the actual video? What is the clip that's
+being used on top of the actual hook? Because it's the combination, right? The hook is made up really
+of three separate things. Mostly people just think it's a text, but it's actually three things.
+One is the actual text, which is like the copy, you know, definitely the most important, probably
+80% of your success right there. The other 15%, that'll get you to 95% total, would be the scroll
+stopper, right? And this is the video or image that's actually associated with the text. Then
+finally you have the audio. It's not the most important thing, not very important at all
+typically because a lot of people watch these with no audio in general, but let's say it's 5%
+of the equation. So if this is what makes a successful hook, then we just got,
+all of this, what I'm going to do is find those hooks and then go look specifically at the scroll
+stoppers that they are using, because obviously that combination worked, that got people's
+attention. That's all marketing is like at its core, just getting people's attention and converting
+it. That is literally it. That's it. And so if you figure out at a core that content creators
+make really, really good attention grabbing videos, but are terrible converting it,
+just take the attention part and then apply that to your ads. Like it's, it's as simple as that.
+So this is obviously stuff that I just obsess over. And so if you want,
+like really, really the creative, the ad sauce, this is everything that we put inside of our
+program, Brand Builders Academy. This is the mentorship program that I own with Alex Fedidoff.
+If you're interested in applying, cool. You can click the first link in the description,
+fill out an application. We don't accept everybody, but if you want to, first thing in
+the description, if not, that's cool. The last thing that I want to say is I have a good friend
+of mine that owns this company called Disputifier. If you run an e-commerce brand, you know very,
+very well that handling, handling payment processors is a continual pain in the ass,
+but what this company does is it basically gets in front of chargebacks and refunds before they
+actually come in to help improve the relationship that you have with your payment processor.
+Cause I can tell you from experience multiple times, the worst thing to happen when you're
+selling stuff on the internet, like you're scaling, you're making money is when you lose
+a payment processor completely, or you get a hold or you get banned and God forbid you get put on
+the match list, which is like the absolute last thing you would ever want. Right? And so if you
+guys want to check out this company, I highly recommend it. If you're doing volume, if you're
+not probably not worth your time, but if you're doing over a hundred K a month, check these guys
+out. I'll drop them in the description as well. Other than that, y'all have a great video. I'll
+see you on the next one. Peace.

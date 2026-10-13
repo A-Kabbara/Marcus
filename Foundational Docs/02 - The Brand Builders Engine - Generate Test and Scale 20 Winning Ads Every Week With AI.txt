@@ -1,0 +1,640 @@
+The Brand Builder’s Engine
+An 8-Figure Operator’s Proven System To Generate, Test, And Scale 20 Winning Ads Every Week With AI
+
+[Mark Builds Brands]run more ads.
+
+15 min read…
+
+SECTION 1: READ THIS FIRST mfers
+
+Hey guys… Mark here, and what you are about to read has the power to change your business almost overnight. This is extremely valuable. Take advantage of it and don’t let your squirrel brain get distracted.
+
+Last month I spent over $1m on ads that brought in $2.2m in revenue… with 100% AI ads.
+
+No agency. No production team. No 3-day shoots. 
+
+Just me… a few AI systems, and some video editors.
+-285749289513
+2943225339137
+
+I'm not telling you that to flex. I'm telling you because if you've been running AI ads and watching them flop while everyone on Twitter screams about "agentic workflows" and the next shiny tool, there's a reason. And it's not the reason you think.It's not your prompts. It's not higgsfield. It's not Nano Banana Pro. It's not Sora. It's not Veo. It's not Kling. (although we will get into all of this later in the doc)
+
+It's the thinking behind the ads. Or more accurately, the lack of it. Sorry dude you’re just not as smart as you think you are.
+
+This doc is going to fix that.
+
+By the end, you'll know exactly how I'd build, test, and scale AI image ads (and video ads). Both the tactical workflow and the philosophy behind why it works. Because if you skip the philosophy, the tactics don't work.
+
+Let’s get right into it.
+
+SECTION 2: THE OLD GAME IS DEAD
+
+Before AI was actually useful for ads, you had to pick 2 of 3 things:
+1943100209550-4381492095504257675176213
+
+That was the rule. Pick any two. The third one disappears.
+
+Want quality + speed? Hire a production team, drop $5K-$50K per ad, get it back in a week. Cost just got obliterated.
+Want speed + low cost? Whip something up in Canva at midnight, slap a stock photo on it, hit publish. Quality is dogshit.
+
+Want quality + low cost? Sit there for 3 weeks doing it yourself, learning Premier Pro from YouTube tutorials at 2am. Speed is dead.
+
+Pick 2. Always. That was the deal for everybody running ads from like 2010 to 2025.Then AI showed up and broke the entire triangle. You can now have all three. Quality. Speed. Low cost. All at once.A creative that used to cost $5,000 and take a week now costs $5 and takes 20 minutes. Higher quality than what most agencies were producing 3 years ago.
+
+Sounds great, right?
+
+It is. And it isn't. 
+
+Lemme explain.
+The Two Curves
+
+Here's the thing nobody is telling you.
+
+Yes, the cost to produce a top-tier ad is dropping fast. We're on a negative log curve heading toward zero. Soon it'll cost almost nothing to produce a creative that would've taken a Hollywood crew in 2018.But the cost dropping isn't just happening for you. It's happening for everybody.
+
+Which means competitor ad volume is going the other direction. Positive exponential curve. Up and to the right. Forever.
+
+Every wantrepreneur with a higgsfield subscription is now flooding Meta with creatives. The ad auction is more crowded than it's ever been. CPMs are climbing. Attention is harder to win.
+
+So here's the question that nobody on Twitter is actually answering:
+
+If the tools are commoditized, the cost is approaching zero, and everybody has access to the same exact tech you do…
+
+What the fuck do you compete on?
+
+I spent a lot of time thinking about this. Because the old moats are gone. You can't out-spend, you can't out-produce, you can't out-tool anybody anymore. Anybody can buy what you bought. Anybody can prompt what you prompted.
+And here's where I landed.
+The Thinking Is the Moat.
+
+The only thing left to compete on is the thinking behind each ad. And the systemization of that thinking.
+
+That's it. That's the whole thing.
+
+Not the tool. Not the workflow. Not the prompt library. The actual psychological and strategic thinking that goes into every single creative you produce.Because the technology is going to keep getting better, cheaper, and faster… for everyone. 
+
+For example, i’ve been able to crank out 30 ads a day without breaking a sweat.
+
+But the person who understands their customer at a deeper level than everyone else? That person will destroy people with better tools every single time.
+
+Read that again.
+
+This is the entire thesis of this doc. If you take nothing else from these pages, take that.
+
+The rest of this guide is just the practical application
+
+How to actually do the thinking, how to systemize it, and how to push it through AI tools to print creatives that people who skipped this section literally cannot replicate.
+Let's get into it.
+SECTION 3: STOP CHASING WINNING ADS. CHASE THE WINNING SALES MESSAGE
+
+Most people running AI ads right now are doing this: they pump out 50 creative variations, throw them all into ad sets, and pray that one of them becomes "the winning ad."
+And when one of them works, they treat it like the holy grail. They scale it until it dies. Then they go back to pumping out 50 more variations. Pray again. Find another winner. Scale until dead. Repeat forever.
+This is the most exhausting, low-leverage way to run an ad account. Plz. Do yourself a favor. Stop it. Get some help. ifykyk.
+1133350
+You're not looking for a winning ad. You're looking for your winning sales message.
+What's the Difference?
+A winning ad is one specific creative that converts. It dies eventually. They all do. Saturation, fatigue, audience burnout, pick your poison.
+A winning sales message is the underlying angle, the emotional hook, the core idea that's making people buy. The thing that, when you say it, makes your customer go "oh shit, that's me."
+The ad is the container. The message is what's inside.
+And here's the part most people miss: once you have the message, you can pour it into infinite containers.
+A winning message can be transmuted into:
+Native static image ads
+Scroll-stopper images with long primary text
+AI UGC video
+Animation video ads
+VSLs
+Founder-style talking head video
+Landing page headlines
+Email subject lines
+Advertorial hooks
+Bottom of funnel retargeting ads
+Top of funnel cold ads
+Every single one of those formats can carry the same core message. And when the message is right, every format hits harder.
+This is also why "the winning ad died" isn't actually a problem. If the ad dies but the message still works…
+and you've been building your entire system around the message, not the ad…
+you just rebuild the container in a new format and keep printing. The death of one creative doesn't matter when you've got the underlying message locked.
+This Isn't New. It's Just Forgotten.
+If you study direct response history (and you should) every single legend in the space says the same thing.
+Eugene Schwartz. Gary Halbert. David Ogilvy. Michael Masterson. Every one of them wrote about this exact concept under different names. The big idea. The unique mechanism. The hook. The angle.
+They all knew that the format was just the delivery vehicle. The message was the actual product.
+Then AI hit. Everybody got distracted by the tools. And the entire space forgot that the timeless principles of selling humans things didn't change just because Nano Banana Pro got really good at generating images.
+Don't be one of those people. Stay focused on the message.
+
+SECTION 4: THE AI NON-NEGOTIABLES
+Three rules. If you break any one of them, your AI ads will print garbage no matter how advanced the technology gets.
+
+I don't care if Nano Banana Pro 5.0 comes out tomorrow and can read your mind. If you violate these three rules, you'll still struggle.
+
+Non-Negotiable #1: Copy Is the Foundation of Everything
+
+This is so BRUTALLY true.
+
+The art of copywriting is dying. Most people running ads in 2026 have no idea how to write copy that actually converts. They think "if I just make the most realistic AI UGC, the most insane animation, the most cinematic VSL, that's what makes ads profitable."
+It isn't.
+You still need the meat. And the meat is the copywriting.
+Mark my words: this is the thing that will separate the people pushing AI slop from the people actually scaling real ad accounts with AI creatives. If your copy is dogshit, AI just helps you make dogshit ads faster. And more of them.
+The whole concept of AI doesn't change what makes humans tick. It doesn't rewrite human psychology. AI is a multiplier of your understanding of psychology… not a replacement for it.
+And the biggest piece of writing copy that converts is the research underneath it.
+If you study any of the best direct response copywriters in history, they all say the same thing: 
+60-80% of your time should be spent on research. The actual writing… the part where pen hits paper… should be the minority of your time.
+This is why I built the Foundational Docs process. It's a 4-document system that gets you incredibly deep psychological and psychographic research on your customer in about 30 minutes using AI. Avatar doc, deep research doc, offer doc, and necessary beliefs doc.
+The point isn't that you have to use my exact system. The point is that without research-driven copy, every ad you make is a guess. And guesses don't scale.
+
+Non-Negotiable #2: Your Funnel Is a Creative Multiplier
+This is my hottest take in this entire doc and most people in the space will disagree with me.
+Everybody yaps from the rooftops about creative diversity. Creative diversity, creative diversity, creative diversity.
+Almost nobody talks about funnel diversity. And I'd argue funnel diversity matters more.
+Let me explain.
+
+You know that old saying "a rising tide raises all ships"? 
+
+That's exactly how to think about your funnel.
+
+Imagine every one of your creatives is a ship. Some are big, some are small. Some are great, some are mediocre. They're floating at different levels.
+Now imagine the sea level is your funnel.
+If you have a D-tier funnel… bad pre-lander, weak product page, broken checkout. Then even your BEST creatives are going to be capped at a ceiling…
+1143000114300
+
+Now upgrade to a C-tier funnel. Tighter copy, better images, decent flow. The sea level rises. Your worst creatives are still losing money, but your best ones are starting to scrape past 1x ROAS.
+509588180975
+
+S-tier funnel? Even your worst creatives are profitable. Your top creatives are doing 3-4x. You're scaling like an animal because the funnel is doing the heavy lifting that the creatives don't have to do anymore.923925457200
+
+This is why funnel matters more than creative volume. The same creative pushed into a D-tier funnel vs. an S-tier funnel will perform completely differently. Same image. Same headline. Same audience. Same budget. Wildly different outcomes.
+So before you go pump out 100 AI creatives, ask yourself: is my funnel actually good?
+If the answer is no, fix that first. You'll get more lift from a 20% improvement to your funnel than you will from doubling your creative volume.
+
+Non-Negotiable #3: Right Tool for the Right Job
+Quick one. full breakdown coming in the tactical sections.
+The wrong tool kills good ideas. The right tool turns mediocre ideas into profitable ads.
+Using Seedance 2.0 to test 50 video concepts? You're insane. That's a thousand dollars in credits before you have any data. Use Veo 3.1 or Kling for testing. Save Seedance for remaking your top 1-2 winners after they've already proven themselves.
+Using Nano Banana Pro to generate every single asset including post-edits? Slow. Use Canva Magic Layer for the small tweaks. It's free.
+Writing your own image-to-video prompts from scratch like it's still 2024? Use Whisper to verbally describe what you want, then have an LLM translate it into a real prompt.
+I'll break down the full tool stack and use cases later in the doc. For now, just internalize this: the tools aren't interchangeable. Each one has a job. Pick the right one for the right moment and your output quality goes up while your costs go down.
+
+SECTION 5: WHY MOST AI ADS FAIL
+I see this every single week inside Brand Builders Academy, our exclusive mentorship program. Someone shows me their ad account, half their creatives are AI, none of them are working, and they're convinced the problem is "AI ads just don't work for my niche."
+It's not the niche. It's not AI. It's one of three things. Almost always.
+Let's run through them.
+
+Killer #1: Shit Research
+
+This one is the most common. And the most fatal.
+Person sees a competitor ad doing well. Says, "let me remake this for my brand." Goes into Claude, says, "rewrite this for my brand selling X product." Claude generates something. They paste it into higgsfield. Generate the image. Launch the ad.
+Ad flops.
+They're confused. "But it worked for the competitor?"
+Yeah. It worked for the competitor because the competitor knew their customer at a deeper level than you do. The ad you swiped was the surface-level output of their understanding. You can't replicate the output without replicating the understanding.
+This is what Foundational Docs solves. Before you swipe anything, before you generate anything, before you write a single word of copy.
+Without that, every AI tool is just helping you produce hollow creatives faster.
+With it, every AI tool becomes a force multiplier on your understanding.
+If you're skipping the research step and going straight to generation, that's why your ads aren't working.
+
+Killer #2: Shit Prompting
+
+Most people writing prompts for image and video generation right now are writing them like it's 2023. Sentence-long prompts. Vague language. Hoping the model figures it out.
+It won't. Or it will, but the output will be 30% as good as it could be.
+Here's the move: stop writing your own prompts. Or at least, stop writing them from scratch.
+You don't need to be a prompt engineering genius. You need to speak the language of an LLM long enough to get a good prompt out of it. Then let the LLM speak to the image/video model on your behalf.
+
+Killer #3: Shit Technology
+
+Wrong tool for the wrong job.
+Some examples I see all the time:
+Using Seedance 2.0 to test 50 different video concepts. That's a thousand dollars in credits before you have any signal on what's working. Test with Veo 3.1 or Kling. Save Seedance for top performers only.
+Writing prompts in the chat interface for everything when you should've built a Claude project with your foundational docs uploaded as context once, then never touched the prompts again.
+Each tool has a job. The full breakdown is coming later in the tactical sections. But internalize this: if your output is bad, sometimes it's because the model you're using isn't the right one for what you're trying to make.
+If your AI ads are flopping, run them through these three filters.
+Is my prompting actually any good? Did I do the research first? Am I using the right tool for this specific use case?
+It's almost always one of these three. Sometimes all three. Fix them in order, research first, prompting second, tools third.
+Then watch what happens.
+
+SECTION 6: THE DIRECT / INDIRECT SPECTRUM
+Most people running AI image ads don't even know this map exists. Which is why they only run one type of ad and then complain they can't scale.
+Here's the map.
+Every image ad you can possibly run sits somewhere on this spectrum. On the right end, you have direct ads. 
+
+On the left end, you have indirect ads. Most ads land somewhere in between, leaning one direction or the other.
+
+Both types work. They just do different jobs and they target different audiences.
+
+Direct Ads
+
+Direct ads are exactly what they sound like. The person looking at the ad knows they're being sold to. There's no pretending.
+The product is in the image. There's a benefit statement. Often a price. A clear call to action. Maybe some social proof.
+Think of the most basic ad you can imagine: product on a clean background, "30% off this week," 5-star reviews, "shop now" button. That's a direct ad.
+Direct ads work great in two specific contexts:
+Retargeting. People who already know your brand. Already visited your site. Already added to cart. They're warm. They don't need to be pre-sold. They just need a reason to come back and buy.
+Product-aware and most-aware audiences. People who already know your product exists or already know they need a solution like yours. The selling work is mostly done. Direct ads close.
+The downside: direct ads usually don't scale to massive numbers on cold traffic. Cold audiences don't know your brand, don't know your product, and don't really care yet. Hitting them with "BUY MY THING" rarely works at scale because they haven't been warmed up.
+You can absolutely run profitable direct ads. They just usually live in the lower-spend, higher-margin parts of your account.-857245905502057400623888
+4276725142875
+Indirect Ads
+
+Indirect ads are where the real money lives.
+The image itself is just a scroll-stopper. It might look like a Facebook post someone's friend made. It might look like a meme. A news headline. A screenshot of a text conversation. A weird before/after. A confused-looking dog.
+You can't tell from the image alone what's being sold. That's the entire point.
+The selling happens in the primary text. Or on the next page after they click. The image's only job is to break the scroll long enough for them to read the hook in the copy.
+This is the format that does the heavy lifting on cold traffic. Problem-aware audiences. Unaware audiences. The huge top-of-funnel ocean that nobody else in your niche is fishing in because they're all just running direct ads with their product on a white background.
+Examples of indirect ads:
+If you're only running direct ads, you're leaving the entire top of funnel on the table. That's where the scale lives.116192541719501428752152650161925
+
+Why This Matters for AI Specifically
+Here's the kicker. AI is insanely good at making indirect ads.
+Direct ads are easy to make in any era. Stock photo + text overlay has worked since Facebook ads existed.
+But indirect ads? The native-style scroll-stoppers? The weird before/afters? The animated character looking exhausted? The news-style images that look like real photography? That stuff used to require photographers, models, locations, props, the whole production circus.
+Now you generate it in 90 seconds with Nano Banana Pro.
+This is the unfair advantage that AI gives you specifically in indirect ads. The format that scales the hardest is the exact format that AI makes the easiest.
+If you're only using AI to make direct ads, you're using a Ferrari to drive to the mailbox.
+
+SECTION 7: SWIPE VS. ORIGINAL (THE 80/20 rule)
+There are two ways to come up with image ads. Both work. Both have their place. Most people only do one.
+Swipes
+
+A "swipe" is when you find an ad that's already working. Usually, a competitor's, sometimes from a completely different niche, and you remake it for your brand.
+
+This isn't copying. You're not stealing. (well some of you mfers are) You're taking a proven concept and adapting it. 
+
+The structure works. The format works. The psychological angle works. You just fit it to your product, your customer, and your brand.
+
+Swipes are powerful for one reason: you're reducing variables.
+
+When you make an ad from scratch, you're guessing on every single dimension at once. The angle. The format. The headline. The visual style. The hook. Any of those guesses can be wrong, and most of them probably are.
+
+When you swipe, the competitor already proved that combination of variables works. They spent the money to validate it. You're inheriting their data.
+That's why swipes have a higher win rate. Not because they're better ads necessarily. Because you've removed half the guesswork before you even start.
+Originals
+
+Originals are concepts you create from scratch. No swipe. No template. Just you, your foundational docs, and an LLM helping you ideate.
+
+Originals have a slightly lower win rate than swipes. You're back to guessing on more variables.
+
+But here's the thing: when an original works, it really works. Because nobody else has it.
+
+Your top-scaling ads, the ones doing $50K, $100K, $200K in spend per month, those are almost always originals. Swipes get you started. Originals are where the moat is.
+
+Why? Because nobody can swipe what you haven't published yet. The moment your original starts working at scale, every competitor with an ad spy tool is going to copy it. But you got there first. You collected the data. You scaled it. By the time they catch up, you've already moved to the next angle.
+This is the actual game. Without originals you’ll always be (AT BEST) second.
+
+The 80/20
+
+Here's the rule I follow, especially in the early stages:
+80% swipes. 20% originals.
+When you're hunting for your winning sales message, swipes get you there faster. Lower variance. Higher win rate. More signal per dollar spent.
+The 20% originals are your moonshots. Most of them won't work. But the ones that do are the ones nobody can copy yet. That's where your scaling ceiling lives.
+Once you find your winning sales message, once a few ads are consistently profitable and you know what's resonating, the ratio flips.
+Then it becomes 80% originals, 20% swipes. Because at that point you understand the message at a deep level. You can crank out 10 variations of an original concept all built around your winning message, and most of them will work.
+But you have to earn that. You don't start there.
+
+A Quick Note on Originality
+Most people in the e-com space have about four brain cells combined. Almost everyone is just copying what their competitors are doing. Same products. Same angles. Same ads.
+
+This is good news for you.
+
+If you can use AI as a second brain to generate genuinely original concepts. Ideas that aren't already running in your niche. You have a moat that almost nobody else has bothered to build.
+Originality used to require talent. Now it requires a Claude subscription and a willingness to actually think for 20 minutes.
+Most people won't do it. Be the one who does.
+
+SECTION 8: HOW TO ACTUALLY MAKE THE IMAGE ADS
+
+Alright. Philosophy's done. Now to the fun part.
+
+This is what I do every single time I create AI image ads. Same process. Different products. It works.
+The Tool Stack
+Before we walk through the workflow, here's what you need:
+Claude (Sonnet or Opus, doesn't matter much) for prompt generation and ideation, with foundational docs uploaded as project knowledge
+higgsfield - an aggregator where you can run Nano Banana Pro and most of the video models in one place. Fast variations, 4-up grid output.
+Nano Banana Pro - the only image generation model you actually need. Available in higgsfield or directly through Gemini.
+Canva Magic Layer - free, slept on. Edit any element of an AI-generated image after the fact without going back into prompts.
+GetHookd or Meta Ad Library - for sourcing swipes.
+
+The Swipe Workflow (Step by Step)
+This is the workflow you'll use 80% of the time at the start.
+
+Step 1: Hunt for the swipe
+
+Open GetHookd and apply these filters. (meta ads library also works)
+4 or 5 stars (only on GetHookd this is their performance score)
+Format: images only
+Language: English
+Currently running for at least 7 days (anything less than 7 days hasn't proven itself)
+
+Now scroll. You're looking for ads that hit you in the gut. Not necessarily in your niche. Sometimes the best swipes come from a completely different category. The format is what matters. If a weight loss brand has a killer scroll-stopper concept, that same concept might work for a pet brand or a skincare brand or whatever you're selling.
+
+When you find one, hit "download media."
+
+You can also just look at the swipe file i have already put together here
+
+Step 2: Build your Claude project
+
+Go to Claude. Create a new project. Name it whatever you want
+
+Under "files," upload your foundational docs. All four of them. Avatar, deep research, offer, necessary beliefs.
+
+Under "instructions," paste in your prompt instructions for swipe analysis.
+
+This is a link to my prompt instructions.
+
+Step 3: Drop in the swipe
+Go into your Claude project. Upload the image you downloaded from GetHookd. Don't write anything else. Just upload it and hit enter.
+Claude does two things:
+Analyzes why the original ad was successful, what angle, what psychological lever, what visual structure
+Generates a complete text-to-image prompt that adapts the concept to your brand
+You don't have to read the analysis if you don't want to. Just scroll to the prompt section and copy it.
+
+Step 4: Generate in higgsfield
+Open higgsfield. Hit "create image." Make sure Nano Banana Pro is selected.
+Settings:
+Aspect ratio: 1:1 for feed placement, 9:16 for stories/reels placement
+Variations: 4
+Paste your prompt into the prompt box
+If your ad needs to feature your physical product, upload a clean PNG of your product on a white background as a reference image
+Hit generate.
+90 seconds later, you have 4 variations of an ad that adapts a proven competitor concept to your brand. Text is rendered correctly. Branding matches yours. No misspellings if you prompted correctly.
+
+Step 5: Iterate (if needed)
+If one of the 4 is close but not quite right, maybe you want different copy on the image, a different layout, a different angle, you have two options:
+
+Go back to Claude and ask it to adjust the prompt. "Make the headline more curiosity-driven." "Change the layout so the product is on the right side." "Use a different background color." Claude rewrites the prompt. Paste back into higgsfield. Generate.
+Use Canva Magic Layer. Download the image you mostly like. Drop it into Canva. Hit Magic Layer. It scans every element on the image and makes them all editable including AI-generated text. You can change copy, fonts, colors, layout in 30 seconds without touching a prompt.
+1657350203360
+Done. You now have a finished ad ready to upload.
+
+The Original Workflow
+
+Same setup. Different prompt structure.
+
+Instead of feeding Claude a swipe, you're asking it to mine your foundational docs for emotional triggers, pain points, and angles that nobody else in your niche has turned into ads yet.
+Your prompts to Claude looks something like:
+PROMPT #1
+
+You are my expert creative strategist and text to image prompt engineer and it is your role to come up with unique static image ad concepts for my e-commerce brand that helps [INSERT TARGET DEMO] [INSERT PROBLEM YOU’RE SOLVING] and then to write highly effective text to image prompts to bring those various image ads to life. I want you to please begin by analyzing the documents below so that you have a good understanding of my offer, the product, and the market I’m selling to, then let me know your thoughts. 
+
+[INSERT ALL FOUNDATIONAL DOCS]
+PROMPT #2
+
+Great work! Now that you have completed that step, I want you to please use the deep emotional research that you analyzed in the research documents above to create powerful and emotionally resonant image ad concepts and include the text to image prompt that I can use in Nano Banana Pro to actually bring that concept to life. Some of the various concepts could include (but are not limited to) before and afters, nightmare scenario illustrations, comparisons, big benefit statements, offer heavy statics, media and press releases, reasons why, features and benefits, us versus them, testimonial/review, humor/fun, etc. 
+
+You'll get 5 concepts back. Most won't be usable. 1-2 will be gold. Take those, paste the prompts into higgsfield, generate.
+This is how you build the 20% originals in your test pipeline.
+
+A Note on Prompting
+If your text comes out misspelled, your layout looks weird, or the brand details are off, that's not Nano Banana Pro's fault. That's your prompting.
+These models can generate near-flawless images and text if the prompt is detailed enough. They can't extract everything from a reference image. They can get close, but if you want pixel-level control, you have to specify it in the prompt.
+When in doubt, give Claude more context. Brand colors. Font style. Copy hierarchy. Background details. Lighting. Mood. The more specific you are, the better the output.
+
+The Image Ad Hook Breakdown
+For image ads specifically, three things make a hook work:
+Visual Contrast (the scroll-stopper layer)
+The image has to look different enough from the rest of the feed that someone's thumb pauses for half a second. Not "different and beautiful" necessarily. Sometimes it's "different and ugly." Sometimes "different and confusing." Whatever breaks the pattern.
+This is why some of the best indirect ads are intentionally a little weird-looking. They don't blend in.
+
+Headline Copy on the Image (70-80% of the work)
+The single most important element of any image ad. The headline either makes them want to read more or it doesn't. Copy carries the load.
+If your image is gorgeous but your headline is "save 20% today," your ad is dead. If your image is mid but your headline is "I tried this for 7 days and my doctor was speechless," people stop and read.
+
+Implied Curiosity (the click trigger)
+The best image ads make the viewer ask a question they need the next click to answer. They don't tell the whole story. They tell just enough that you have to keep going.
+"She's 57 from Norway. Here's why she has zero belly fat." → You want to know why.
+"Please stop buying oral B12 for neuropathy." → You want to know what to buy instead.
+"My dog stopped slipping on hardwood after I did this." → You want to know what.
+Curiosity is the click. Bake it in.
+
+SECTION 9: GRADUATING TO VIDEO ADS
+Let me be very clear about something before we get into video.
+If you're just starting with AI ads, do not start with video. Start with images.
+I know video ads look cooler. I know your favorite gurus on Twitter are showing off their hyperrealistic AI UGC and animated VSLs and making it look like the only way to win in 2026 is to be making cinematic 30-second video ads.
+Don't fall for it.
+Image ads are how you find your winning sales message. They're cheap. They're fast. You can test 20 angles in a week for less than $500. Each image is a hypothesis: "does this message resonate with this market?"
+Once you've found the message… that's when you go invest the time and money to scale into video.
+Trying to find your winning message via video first is just expensive guessing. You'll burn 5-10x more money than you needed to.
+Image first. Find the message. Then video.
+
+Why Video Once You Have the Message
+A few reasons video matters once you've cracked the message:
+It scales further on cold traffic without saturating as fast. Image ads can saturate quickly on Meta. I don't know exactly why, but it's true. Video ads can run profitably on cold traffic for much longer at much higher daily budgets.
+Higher conversion rates on average. Not always, but typically. Because video gets more of the viewer's attention. Their eyes aren't bouncing around the way they do with an image. You have them in isolation for 15, 30, 60 seconds. The longer someone interacts with your brand, the higher the conversion rate. This is just how it works.
+Audio adds a dimension. Voiceover. Character voice. Background music. None of that exists in an image. Audio amplifies the message and makes it stick.
+So once you have the message, video lets you scale it.
+
+The 5-Step Video Ad Process
+This is the same process I use for every video ad I make. Five steps. Don't skip any of them. (you’ll see similarities with the image process)
+
+Step 1: Swipe
+Find a competitor video ad you want to use as a structural starting point. Go to GetHookd or the Meta Ad Library, filter for video ads with 4-5 stars in your niche or adjacent niches.
+You're not stealing their script. You're using their structure. Their pacing. Their format. The thing they proved already works.
+Copy the transcript.
+Step 2: Script
+Drop the transcript into a Claude project that has your foundational docs uploaded. Ask Claude to rewrite the script for your brand using your customer research, your unique mechanism, your offer.
+Claude rewrites the script in your brand's voice with your psychological angles. Read through it. Adjust anything that sounds off. Approve the final version.
+Step 3: Storyboard
+Take the approved script and break it into 1-2 line chunks. Each chunk equals one video clip.
+A 30-second video typically breaks into 6-10 clips. Each clip has a specific job and each one needs it own visual:
+Hook
+Problem
+mechanism reveal
+social proof
+CTA 
+Match each line of the script to a description of what the visual should be.
+Step 4: Prompt (the two-part process)
+This is the part that trips most people up. Generating each clip is a two-step process:
+4a) Generate the starting frame as an image.
+Use Claude (image project from earlier) to write a text-to-image prompt for the first frame of the clip. Paste into higgsfield with Nano Banana Pro. Generate 4 variations. Pick the strongest one.
+4b) Image-to-video.
+Take that starting frame and run it through Kling 3 or Veo 3.1 (image-to-video mode) with a separate video prompt that describes what should happen during the clip, the motion, the camera movement, the action, the duration.
+This second prompt matters. A lot of people generate a great starting frame and then write a vague image-to-video prompt and end up with weird, off-brand motion. Be specific. What's moving? In what direction? At what speed? Where does the clip end?
+Repeat for every clip in your storyboard.I will say this about the prompt… 
+simplicity scales.
+There is such a thing as too much when it comes to prompting for videos.
+Step 5: Edit
+Open Premiere, CapCut, or whatever you use. Drop in your clips in order. Add captions. Trim where needed. Add a few cuts to keep the pacing tight. Layer in voiceover or character audio.
+Ship it.
+The whole process, start to finish, takes me about 30-45 minutes per video ad once you've done it a few times. Compare that to the 3-7 days it used to take with a production team.
+[Link placeholder: the NMN ad we built using this exact process]
+
+The Video Hook Breakdown
+FACT: 90% of your video ad's success comes down to the first 3-5 seconds. The hook.
+Three components, ranked by importance:
+Copy / Headline (70-80% of the hook)
+The text overlay or spoken hook in the first 3 seconds. This is the same as image ads, copy is doing most of the work. If your hook copy is weak, the prettiest scroll-stopper in the world won't save you.
+Examples that work:
+"Here's what doctors never tell you about why you're tired."
+"I woke up one morning and everything looked like there were two of them."
+"Please stop buying [common product] for [problem]."
+Each one creates curiosity, calls out a specific person, or discredits the obvious solution.
+
+Scroll-Stopper Clip (the visual)
+The first frame people see. It needs to be weird enough or compelling enough that someone's thumb pauses.
+Some of my best scroll-stoppers are intentionally bizarre. A character whose legs are melting because she's so tired. A confused-looking dog. A weird animation. 
+The viewer should look at the first frame and go "what the fuck am I looking at?" and that confusion buys you the next 2 seconds to deliver the hook.
+
+Audio (least important of the three)
+Voiceover, character voice, background music. Matters, but not as much as the other two. If your copy and scroll-stopper hit, decent audio is enough.
+Once the hook works:
+Body sells the mechanism - why your product is different, what's actually happening, why they should believe you
+CTA closes - clear next step, link in bio, tap below, whatever
+That's the whole structure. Hook, body, CTA.
+
+The Video Tool Stack (with Specific Use Cases)
+Each tool has a job. Pick the right one for the moment.
+Nano Banana Pro - every starting frame. Don't use anything else for this. Best in class.
+Kling 3.0 - best balance of quality and cost for image-to-video. Default for testing. This is the workhorse of my video creation.
+Veo 3.1 - cheaper and faster than Kling, slightly worse prompt adherence. Solid for high-volume testing when you're trying to crank out 20 video concepts at once. Strong specifically for image-to-video mode.
+Seedance 2.0 - most realistic, most expensive video model available. Do not use this for testing. The credits will eat you alive.
+The only use case for Seedance: take your top 1-2 winning videos that have already proven themselves at scale, and remake them with Seedance for an even higher-fidelity version that pushes top-of-funnel reach further.
+In other words: test with Kling/Veo, scale with Seedance.
+Higgsfield - the aggregator that lets you run all of these in one place. I'm not affiliated with them. I just use them constantly. It's nice having every model in one tab.
+Realism Is Not the Goal
+This is where most people running AI video ads are getting it wrong.
+The whole "AI is so realistic now!!!" conversation is over. We crossed the realism threshold a year ago. Sora 2, Veo, Kling, they all hit a level of realism that makes "is this AI?" basically irrelevant.
+So if everyone has access to realistic AI video, realism is not your moat anymore.
+What's actually winning right now? Creative format diversity.
+Some of the top-performing ads on my account in the last 30 days have been:
+Animation-style ads with cartoon characters
+Weird scroll-stoppers that look intentionally fake (legs melting, dogs floating, etc.)
+AI versions of formats that look like they came out of 1995 infomercials
+Here's the move that almost nobody is making: stop looking forward, look backward.
+Don't go on Twitter or Instagram looking for "the latest AI ad formats." Those people are 6 months to multiple years behind. They're showing you formats that are already saturated.
+Go backwards. Watch TV commercials from the 80s, 90s, 2000s. Watch infomercials. Watch QVC. 
+The formats that ran on television for decades, those are the ones nobody is testing on Meta right now. They worked for 30 years on TV. They'll work on Meta too. And nobody else in your niche is doing them because they're all chasing the latest shiny AI trend.
+Stop trying to make the most realistic AI video on Earth. Make the most attention-grabbing one. Those are different things.
+
+SECTION 10: THE COPY FRAMEWORKS THAT WIN
+
+"I Was Just Like You, But Worse" (link ad)
+The most powerful first-person testimonial structure I've seen.
+The character in the ad has the same problem as the customer… but worse. Way worse. They went through a more extreme version of the journey. Tried more things. Failed harder. Got more lost.
+Then they found the solution. And it worked.
+The customer watching thinks: "If she fixed it, and she had it way worse than me, then this will definitely work for me."
+The thyroid eye disease ad is a perfect example. The character couldn't drive. Couldn't read. Couldn't work. Her life was falling apart. She tried multiple doctors. Multiple specialists. All told her nothing was wrong.
+The viewer watching has maybe mild fatigue. Maybe some brain fog. Maybe nothing as extreme as "everything looks like there are two of it."
+But the implied math is: "If this woman with severe symptoms found relief, my mild symptoms will definitely respond to this."
+This framework is gold for any health, beauty, or wellness product. Find the most extreme version of your customer's pain. Tell that story.
+*Note: This type of ad must be based on a real testimonial or customer experience.
+
+The "Without" Word
+Top 5 most powerful words in direct response copywriting.
+The structure: "How to [desired outcome] WITHOUT [the obvious solution everyone hates]."
+"How to lose weight without giving up carbs."
+"How to clear your skin without prescription medication."
+"How to grow your hair back without minoxidil side effects."
+The word "without" does two jobs at once:
+Promises the outcome the customer wants
+Discredits the alternative they've already tried (or are scared to try)
+Even when you don't literally use the word "without," the same logic applies. Your job in any ad is to position your mechanism by killing the alternatives. Make the customer believe nothing else works and then present your solution which leads me too…
+
+Discrediting Common Solutions
+Related but distinct from "without."
+Most customers in your market have tried something already. They tried supplements. They tried the diet. They tried the device. They tried the prescription. None of it worked. Or worse…it worked for a while, then stopped.
+Smart copy acknowledges this. "You've tried [common solution]. Here's why it didn't work."
+Then you reveal your unique mechanism. The thing your competitors don't have. The reason your product solves the problem when nothing else did.
+The thyroid ad does this perfectly. "Every doctor told me it had nothing to do with my thyroid."
+Implied: the obvious experts in this space were wrong. Here's what they missed.
+This positions your product not just as another option… it positions it as the option, because everything else has failed.
+
+Specificity Over Generality
+This is the difference between mediocre copy and copy that converts.
+VAGUE
+"My labs were normal."
+"It happened really fast."
+"Most people don't realize this."
+SPECIFIC
+"My TSH was 1.8."
+"Within 9 days, I noticed a difference."
+"83% of women over 40 have this and don't know it."
+
+Specifics create believability. Numbers, dates, percentages, exact phrases your customer would recognize. These make the story feel real. 
+Generalities feel like marketing. Specifics feel like truth.
+When you're writing or reviewing AI-generated copy, hunt for vague language and replace it with specifics from your foundational docs.
+
+Why This Matters for AI Ads Specifically
+Here's the thing about AI-generated copy: by default, it's average. Models are trained on the entire internet, which means they default to the most common, most generic version of every sentence.
+Your job is to push past the average.
+When you use Claude to generate ad copy, your default output will sound like every other AI-generated ad in your niche. Same structures. Same phrasing. Same weak hooks.
+The way you push past it is by:
+Feeding Claude rich foundational docs (so it has specific language to pull from)
+Asking it to apply specific frameworks (like the four above)
+Iterating, never accept the first output. Push back. "Make this more specific. Discredit this alternative. Use the 'without' structure here."
+
+The frameworks above are the patterns to push toward. The more your ad copy sounds like the generic AI default, the worse it'll perform. The more it sounds like a real human with real pain telling a real story, the more it scales.
+
+SECTION 11: THE 2-HOUR ROADMAP
+
+Okay, truthfully, im being fuckin generous with 2 hours… this could take 20 mins. 
+
+Put on some yeat and go crazy.
+
+Regardless here’s how it should go…
+
+Hour 0: Prerequisites (one-time setup)
+These don't count toward the 2 hours because you only do them once per brand.
+Foundational docs built and saved as PDFs (4 docs: avatar, deep research, offer, necessary beliefs)
+Claude project created with foundational docs uploaded as project knowledge
+Higsfield account active with credits loaded
+GetHookd subscription or Meta Ad Library bookmarked
+A clean PNG of your product on a white background saved somewhere accessible
+If those are all done, the clock starts.
+
+Minutes 0-30: The Swipe Hunt
+Open GetHookd. Apply your filters: 4-5 stars, image format, English, running 7+ days.
+Scroll. Save 5 swipes. Mix of direct and indirect, at least 2 of each. Don't restrict yourself to your exact niche; the best swipes often come from adjacent or completely unrelated categories.
+While you're at it, jump into your Claude project and ask it to generate 2-3 original concepts pulled from your foundational docs. 
+End of 30 minutes: you have 5 swipes saved + 2-3 original concepts written out.
+
+Minutes 30-90: Generation
+This is the bulk of the work. 60 minutes. Move fast.
+For each swipe:
+Drop the image into your Claude project
+Let Claude analyze it and generate a text-to-image prompt
+Copy the prompt
+Paste into Higsfield with Nano Banana Pro selected, 4 variations, 1:1 aspect ratio
+Upload your product PNG as reference if needed
+Generate
+For each original concept:
+Take Claude's text-to-image prompt directly from the ideation chat
+Paste into Higsfield with the same settings
+Generate
+You're now stacking outputs. By the end of 60 minutes you should have 4 variations × 7-8 concepts = roughly 28-32 generated images.
+Don't get precious. Don't tweak. Just generate. The picking happens next.
+
+Minutes 90-120: Edit + Launch Prep
+Final 30 minutes.
+Go through everything you generated. For each concept, pick the strongest 1-2 variations. Kill the rest.
+For any image that's "almost perfect but not quite" don't go back into Higsfield. Drop it into Canva, hit Magic Layer, edit the element that's off. Faster than reprompting.
+Before you upload anything, run each ad through this filter:
+Visual contrast: does this break the scroll?
+Headline: is the copy doing the work? Or is it generic?
+Curiosity: does this make someone want to click to find out more?
+If an ad fails any of those three filters, fix it or kill it. Don't upload weak ads to your account just because you made them. Volume isn't the goal. Signal is the goal.
+End of 2 hours: you have 5-8 finished image ads, ready to upload.
+That's a full week's worth of testing. Done in an afternoon.
+
+What This Actually Buys You
+Here's what most people miss about why this matters.
+The point of the 2-hour roadmap is to acquire DATA faster and to speed up the feedback loop.
+You are always learning something from each test.
+The faster you can create, the faster you can spend, the faster you can learn.
+This is what AI actually unlocks. Not "better ads." 
+Faster iteration. More shots on goal. More speed to data.
+The thinking is still the moat. But the speed of testing your thinking is what makes you actually win.
+
+SECTION 12: Final Note
+If you’ve made it this far… congrats.
+
+One last thing before you close this doc.
+
+AI doesn't make you good. AI makes you more of what you already are.
+
+It's an exponent. Whatever you bring to the table…
+
+your understanding of customers, your taste, your copywriting, your work ethic, your willingness to actually do the research, AI multiplies it.
+If you understand your customer at a deep level, AI lets you turn that understanding into 50 ads in an afternoon.
+If you don't, AI lets you turn nothing into 50 pieces of garbage in an afternoon.
+Same tool. Same speed. Wildly different outputs.
+This is why most people are losing money with AI ads while a small group of operators are printing. It's not the tools. It's not the prompts. It's not the workflow. The operators who are winning brought something to the table before AI showed up.
+The wantrepreneurs who showed up empty-handed thinking AI would carry them? They're still empty-handed. Just faster now.
+So if you take one thing from this doc, take this:
+Don't try to use AI to skip the fundamentals. Use it to amplify them.
+Build the foundational docs. Learn copy. Understand your customer. Get reps in. Develop taste. Then turn AI loose on top of all of it.
+That's when you print.
+If you want direct mentorship, weekly calls, and a community of operators running real ecom brands at scale… Apply for Brand Builders Academy. Application only.
+Apply for Brand Builders Academy here.
+Now go run more ads.

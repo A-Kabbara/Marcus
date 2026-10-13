@@ -1,0 +1,142 @@
+TITLE: how to "dry test" products to make f*ck you money with branded dropshipping
+URL: https://www.youtube.com/watch?v=chJnXBGbdMs
+DURATION: 590s
+============================================================
+
+hey guys mark here in this video i'm going to show you how you can use dry testing to make f you
+money now what actually is dry testing and why is it better than any model out there well it's very
+simple let's say you got jimmy here and jimmy wants to start an e-commerce business to start
+an e-commerce business you have to go out and do all this product research for hours upon hours to
+find the perfect product you got to go build the store which oftentimes can take days if not weeks
+you have to go write the ads to actually launch traffic to your store you have to work out the
+suppliers you can actually ship out your product to customers there's like all these things you
+have to do the problem is like you do all of this before you even test the product you don't even
+know if that product is able to be sold successfully and that's the problem with this
+model so the concept of dry testing on the other hand is you literally just find a product using
+a very very simple method and you test it immediately using something called vcl which
+is a vibe coded lander and yes i 100 made that term up myself and i'm proud of it
+but for a lot of people the most time consuming part is simply actually building the store because
+you have to do all this manual work takes hours upon hours one to look perfect instead you can
+use a simple tool to vibe code a landing page and actually deploy it live on a domain in like
+under 30 minutes which means all you have to do at that point is find a product and test it so
+step number one you actually need to find a product that you're going to sell this is not going to be
+one of those product research videos i have many of those already on my channel if you want to check
+them out obviously you know they're there so step number two is going to be that vibe coded
+lander right so what you're going to do after you find the product is you're going to put that
+product through my foundational docs sop this is a well-known document at this point but this
+is the best way to get deep deep psychological research and understanding of the person that
+you're actually selling to okay so again i have many videos on this i'll leave a link to this
+resource in the description of the video but what's going to happen is you're going to pop out
+four different documents that are basically going to be the structure for the copy that you write on
+your landing page so after you have the foundational docs you can go into your favorite ai copywriting tool of choice
+docs you can go into your favorite ai copywriting tool of choice or if you want to raw dog it you
+know by all means go for it but what i did instead is i popped it into claude opus 4.1 for a shower
+head product just as an example i put it through a few simple prompts so that we have the actually
+outputted copy for this particular page as you can see here and this is now the entire sales
+page copy that i just wrote already in under 30 minutes is it perfect definitely not i haven't
+achieved this one bit but that's not the point the point of dry testing is to test quickly with
+minimal effort that's the whole point of dry testing because you don't want to be the guy
+right you don't want to be jimmy who has to go and build x y and z plus three million other things
+before he even launches a product because like what happens when you want to start a business
+is that you create this illusion where you think that the majority of the work is in the preparation
+but the majority of the work and the learning is actually after you already launch so many people
+get like this incredible
+sense of procrastination simply because they think that the most important thing is everything
+that's actually not important it's everything before the launch but the launch is actually
+what's most important if you can launch products really really quickly even if you don't have the
+entire back end built out even if you don't have supplier like don't even worry about that what
+we're looking for initially is positive leading indicators and i'll explain exactly what i mean
+in just a second but first before we do any of that we have to actually build this vibe coded
+lander so the software that i actually like using most for this is called builder.io i've used a lot
+of vibe coding softwares i use a lot of vibe coding softwares i use a lot of vibe coding softwares
+a lot of them every single day but builder i think it's specifically for landing pages has been
+my favorite one and this is essentially a software that you can have a normal english conversation
+with this particular software as if it was chat gbt and speak to it in real language so you can
+build the exact kind of lander that you want now before we type a single prompt in here the most
+important thing when it comes to actually building this dcl here that i'm talking about is that you
+have the structure right in my experience when you're working with these vibe coding softwares
+if you just have a monstrous first prompt that has like a lot of language and you're able to
+all the copy all the structure all the color palette the branding guidelines everything it's
+just going to completely under execute right i actually think that having this conversation back
+and forth a lot more you're going to get better results and so the structure that i like to follow
+is number one you want it to just get the structure down first okay so like don't input the copy don't
+input your colors don't input anything all we want is the structure of a sales page very simple thing
+that you can do here i just went to a brand that is doing really really well obviously don't copy
+these guys are a legit brand but i'm going to go ahead and go ahead and go ahead and go ahead and
+start doing amazing and all that i did is i screenshotted this and i uploaded it to the vibe
+coding software basically said i want you to remake this landing page all right so after you
+have the structure number two is going to be to input the copy so you actually want to paste all
+of the copy word for word in this particular chat and i'm going to show all this in just a second
+and then the third step is going to be of course the branding so what i mean by this is the color
+palette the typography the spacing the overall like feeling of your brand that makes sense and
+then the fourth and final thing obviously is going to be the images which i'm not going to be
+covering in this video i have again many videos on this you want to check out my video on image ads
+you can follow the exact same process so here's a particular landing page that as of right now
+looks pretty terrible for this shower head filter kind of product but i want you to focus over here
+so that you can specifically see the prompts that i'm using as you can tell the first one incredibly
+basic i probably could have done a lot better with this but it actually executed this step
+incredibly well i'll show you that i just wanted it to remake the structure of a particular landing
+it already did that one step so incredibly well check this out so this is the original lander from
+the competitor and this is the remade version so as you can see the only thing that's really not
+in place here is the images everything else looks pretty good so now we can go back here and say okay
+cool we got the structure down number two is going to be the copy which thankfully we already got
+that all written so what you're going to do is go to the copy copy the copy um you're going to go
+into builder.io and as you can see here this was the second message that i sent here just pasted
+the first one and i'm going to go back right here i'm going to go back to the old speaker
+and press ctrl otra ande and i'm going to type in the new speaker and i'm going to go ahead and
+click on the new speaker and this one is going to go to the brand structure of the lander where
+i have the in this copy so now i've just added a copy of the brand which is the brand structure
+of the lander so i'm going to click on and then i'm going to click on copy and i'm going to do
+the copy this time because it's a really really massive structure of the lander because i am
+zooming through this process but point being it works well now after you have inputted all
+it into this five coding software here let's say you got all the branding done the final thing is
+going to be the images this is the one thing i didn't show in this video but it's a very very
+simple process you can just again have a normal conversation what's cool is that with builder.io
+you can actually see this website in a responsive mode so as you can tell again this looks like
+nowhere near what i would actually use but if we replace the images you can see that it actually
+has a relatively solid design already and i've been doing this you know for about 10 minutes and
+it's only an example point is not to make this like a beautiful 10 out of 10 lander though i
+think you can with minimal effort the point is so that you have something quickly okay because i
+haven't even gotten to the testing side which is what i want to talk about now because let's say
+like okay mark i have all this stuff built out i got this vcl it looks amazing well the cool thing
+about builder.io is that you can actually launch on a subdomain through builder.io literally all
+you have to do is go into your dns settings on your domain add a record from builder.io and you
+can launch the process basically right away you're going to get all the information that you need from
+the site and then when you do it you're going to get all the information that you need in the process
+launch this lander completely live with like all this took, you know, like 30 to 45 minutes to
+actually launch. And the beauty, like I said, you have this lander built out, everything is ready to
+go. Then that's always everybody's next question is like, Mark, I have the lander, got the VCL.
+Cool. The answer to that is now you freaking launch. And obviously you don't actually have
+the product on hand. You don't have the supplier sorted out. You don't have the store. You don't
+have your payment process. You don't have anything. So Mark, how do you actually launch? Well, again,
+the point of the launch is simply to identify if people are genuinely interested in purchasing
+this product before you go and build out all the backend and the infrastructure. So the one change
+that you're going to make that is different from a standard launch of an e-commerce product, let's
+say, is that you're not going to have an add to cart kind of button. You're going to have a buy
+button, but instead of the buy button, it is going to be an opt-in. All right. So what you're looking
+for is people to opt in to this particular landing page at a specific rate that signifies that
+they're actually going to go through and purchase. And the rate that I'm looking for specifically is
+going to be,
+right around 10%. This is going to vary depending on the price of your product. If you're selling
+something more expensive, like in the hundred plus dollar range, you could probably get away
+with like eight to 9%. But overall, if people are not willing to opt in to purchase my product at a
+rate of at least 10%, then this is not a product I'm going to pursue. The beauty of this dry testing
+method is that you can test, you know, three products in a single day. And one of them gets
+maybe a 5% opt-in rates, obviously, you know, not going to be a winner. The next one gets a 4%
+opt-in rate, also clearly not a winner.
+The next one gets a 12% opt-in rate. You can see that the ads are doing well. The lander is
+converting. So this is a positive signal to you. You can actually launch this product successfully
+and probably make a lot of money. So this is a process that I like to teach internally to a lot
+of people, especially if you're a little bit strapped for cash, you're not going to make
+money when you dry test landers. That is a one important caveat because you don't even have your
+payment processor set up. All you're trying to do is see if it is worthwhile for you to build the
+entire infrastructure around this product. So it's very lean. It's mean.
+And it's a beautiful way of testing products quickly, especially with the help of vibe coding
+that you can build these landers and launch them and deploy them and just get data, right? I'm a
+huge data guy. Whenever you're running ads, I believe that you never lose money. You only buy
+data. So this is a way we can buy data faster and get results faster. And if you like kind of this
+entire strategy that I went over, this is just the tip of the iceberg. I promise you it goes so much
+deeper. But if you're interested in working with me and my team a little bit more closely, and you
+want somebody to actually hold your hand, entire process of starting and getting your econ brand,
+I do have a mentorship program called Brand Builds Academy. You can check it out. First
+link in the description. Other than that, I'll see you on the next video. Run more ads. Peace.

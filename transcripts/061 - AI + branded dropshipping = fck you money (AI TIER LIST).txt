@@ -1,0 +1,231 @@
+TITLE: AI + branded dropshipping = f*ck you money (AI TIER LIST)
+URL: https://www.youtube.com/watch?v=q0ErviKwR5U
+DURATION: 921s
+============================================================
+
+Hey guys, Mark here. In this video, I'm going to be ranking the best AI tools that you can use for
+branded dropshipping right now in 2025. We're literally existing in an AI revolution right now,
+and if you're not taking full advantage and just obsessing over this stuff, then you're just not
+going to make it. First up, we have Clod. Clod is an LLM, large language model, that was developed
+by the company called Anthropic, and I'm specifically referring to Clod 3.7 Sonnet.
+Now, Clod is really, really good for very specific things, and then really, really, really, really bad
+at other very specific things. So you'll notice when I'm ranking all these tools,
+some of them are great for one thing, but they're just dog shit at everything else.
+Clod is really, really good at specifically writing creative copy. So when it comes to
+direct response copy, a lot of these really, really intelligent models, like if you think
+of something like Gemini, which typically ranks like the highest out of any LLM in terms of just
+like pure intelligence, they're not always the best in terms of copywriting, just right out of
+the box. But Clod is one where even if you're just dog shit at prompting it, you're still going to
+get relatively good outputs from it. What I typically use this for is writing ad scripts,
+writing hooks, and not using...
+anything intelligent, but really tapping into that creativity aspect. Because when I compare
+Clod to something like, for example, OpenAI's new model 4.1, which is really, really solid,
+pretty good at creative writing as well, I actually think that Clod is superior. And I
+split tests of this across a variety of different types of copy, landing pages, ads, et cetera.
+Clod was king, but it's not the best. Really, really good, but I've actually found new solutions
+that are even better. So for that reason, Clod is really, really solid. We're going to put Clod
+in the A tier. Next up on the list, we have Kling AI. Now, Kling AI is, once again, really,
+really good at one very specific.
+That is taking an image and turning it into a very, very high quality video. And so the main
+purpose that I use Kling AI for, especially with their new model 2.0, it's very, very, very solid.
+And what I use it for is I'll basically go to something like ChatGPT for brand new image
+creation. And if I want to create a new piece, for example, of custom UGC content, where there's a
+creator that's holding a photo of my product, and I want to animate that into a video, Kling is by
+far the best way to actually do that as of right now. Now, a little disclaimer right now, I'm
+giving you guys all these AI tools.
+They're fantastic, but the speed with which AI is developing is unprecedented. And so what I use
+right now is literally going to be completely different in the next one to three months. So
+take this with a grain of salt and just always stay on top of it. Kling is very, very good. It's
+not perfect, right? We're still not at the point where everything is going to be perfect. Sometimes
+it still takes you a few different generations to get that S tier quality video. But still,
+for AI UGC clips, not full videos, but clips, it's very good. It is on the downside a little
+bit more on the costly side if you make a lot, a lot of runs and use up a lot of tokens. So for
+that reason, we're going to put Kling AI as well in the A tier. Next up on the list, we have N8N.
+So N8N is an AI agent workflow and automation software. Basically, what you can do is you can
+create AI agents with it, and you can connect all these various LLMs together into one workflow
+that basically works around the clock. So if you've ever heard people talking about like this
+AI agent term, there's various levels of using AI. There's like just popping into ChatGPT and
+like asking questions. That's like level one. And then you move to like Cloud or to like Gemini,
+you're still kind of in level one. The only time that you really get to
+level two is when you add the agent component. And what makes something an AI agent is that it's
+basically autonomous. It has agency, which means it'll make decisions based off the inputs that
+you give it. So is this, for example, an ad that should be pushed to our video editing team and
+turned into like a real actual creative, for example, this workflow through N8N would be able
+to actually say, yes, this is a good ad or no, this is a good ad if you prompt it correctly.
+One of the main takeaways with AI in general is that the quality of output that you get is
+directly predicated on the quality of input that you give it.
+And so if you're complaining about, oh, my output from Cloud isn't good, my output from
+ChatGPT isn't good. No, you just suck at prompting or you're just not using the right model. N8N
+combines these tools together and literally automates shit. So like if you're worried about
+AI taking your job, it's not going to be ChatGPT that takes your job. It's going to be softwares
+like N8N. And so for that reason, I'm building a lot of stuff with N8N right now. We're going to
+put this in the S tier because this is literally going to be something that is changing everything
+right now. And if you're not using it, you need to learn how. Next up on the list, we have Gumloop.
+N8N. But it differs in one very, very specific way, which is that it's much more user friendly,
+right? With N8N, if you're building a workflow, like I'm not a technical person. I know very,
+very basic fundamentals when it comes to coding and programming. I couldn't like code a website
+from the ground up. I can't code applications from the ground up. I can't even vibe code my
+way there if I really, really wanted to, right? With Gumloop, it's significantly more user
+friendly. Now, the limitations are significantly greater compared to something like N8N was more
+versatility. However, it's so user friendly. It's like the textbook difference between a software
+Zapier. Like Zapier, you can throw anybody in there and you're just, you're going to understand
+it within like the first few hours. On the other side, it obviously takes a little bit of time,
+a little bit of coding experience to really understand how it works. So for that reason,
+we're going to take Gumloop. We're actually going to put this in the B tier. The coolest part about
+Gumloop, in my opinion, is that you can actually create custom API integrations. As long as a
+company has API documentation, you can just go in there and copy it and it will custom create a new
+node based off the API documentation. So a lot of times you're limited with softwares because they
+don't have open APIs. But as long as they have the documentation,
+you can create a custom, which is super cool. And if you don't know what I just said, just go do
+some searches on Gumloop and I'm sure you'll be just as fascinated as me. Next up on the list,
+we have Perplexity. Now, Perplexity is another LLM, but specifically what I really like about
+Perplexity is their deep research model. Now, I actually just replaced Perplexity with a new model
+that I'm going to get to in just a second, but this used to be my go-to for deep research. When
+you think of deep research, this is where a particular LLM will actually start to think
+about how to conduct research in depth on a very specific project based off the instructions that
+you give it.
+And with Perplexity, it was significantly better than ChatGPT's deep research in my experience. It
+would go through and find more sources and create a more comprehensive and emotional report. The way
+that I'd use this most specifically is for copywriting research, right? I'll look at our
+top performing ads. I'll look through Amazon reviews, Reddit reviews, et cetera, and have all
+that data consolidated. But Perplexity actually just failed in comparison to another software
+that I'm going to get to in just one second. So for that reason, we're actually going to put this
+at the C tier. It's probably like the lowest ranking that I'm going to give in this entire
+video. It really is still quite good.
+It's just developing so quickly. There's already something better. And when I talk about something
+that's better, what I'm talking about is Gemini. Now, this is Google's main LLM that they've been
+working on. I believe it's the first what's called Omnimodal Model, which means not only is it an
+LLM, which can manage all these texts, but it can also analyze image and video and voice. So it can
+combine all these things together, which is insane. But what's really insane is just how
+intelligent the deep research is within Gemini. Just fair comparison, right? I ran the exact same
+prompt for copyright. I ran the exact same prompt for copyright. I ran the exact same prompt for
+research through Gemini and also through Perplexity. Perplexity gave me, I think, around
+50 to 60 different sources, a pretty solid report. It ended up being around six or seven pages worth
+of research. Exact same prompt I put into Gemini. Gemini gave me 226 sources and 36 pages of
+research. And I read every single motherfucking page because it is actually very, very good.
+I really want to see which was the best in Gemini. Specifically, Gemini 2.5 Pro Experimental is
+really, really solid. And honestly, it's probably my go-to LLM right now.
+For just regular day-to-day tasks. And so the only downside to this is potentially the cost.
+It can get a little bit costly, especially at scale if you're using it in automations and
+workflows, but it's still so freaking good. For that reason, this one is going to be going into
+the S tier. Next up on the list, we have Grok. Obviously, this is the AI model that's associated
+with Elon Musk, with X and with all that shit. And it's very, very good. I'm not going to lie
+to you. If you look at the ranking of the intelligence of these models, it typically
+ranks pretty high and it's not super costly. I have used the deep research and the deeper
+functions within Grok. And to be honest with you, I was a little disappointed. And I was also
+disappointed in the creativity when I came to writing copy. Beyond that, I haven't used Grok
+a lot. So if you guys have specific applications and use cases for Grok, you can let me know in
+the comments. But for me, I basically never use this. And for that reason, we're going to put
+this at the C tier. Next up on the list, we have Pika. Now, Pika is my newest fascination when it
+comes to AI tools, where you can take any image or video, basically add new visual elements to
+that video. For example, you see me recording this YouTube video right now. If I were using Pika,
+I can have just like a dragon just randomly appear behind me and it's going to be completely
+seamless, flawless, and you wouldn't even be able to tell that dragons aren't even actually
+fucking real. That's how good it is. It's really good. Now, in terms of practical applications
+into business and into e-commerce, there's only a few that I've personally seen. What I'll do is
+I'll take a piece specifically of UGC content. And if there's something that's not really the
+way that I want it to be with the UGC content, like something is just a little bit off or the
+background is off or something with speakers off, I want to like add glasses on the creator,
+for example. That's something that Pika can do. It's very solid for that reason.
+In terms of the overall value add, it's more of just like a cool tool to use. Like if you get an
+account, you'll just probably just play around with it for fun. But practical applications,
+I think it lacks a little bit. So for that reason, we're going to put Pika in the B tier.
+Next up on the list, we have OpenAI and specifically all their ChatGPT models. Now,
+OpenAI recently, literally last week, launched a few new models that are the most intelligent
+and low cost and fastest models that they've ever produced in the history of the company.
+What I'm referring to specifically is the 03 and 04 models within ChatGPT and
+also their new 04.1 model, which is going to trump the existing 04.5 model.
+So for me, ChatGPT is basically like all reliable. It's always there when you need it. If I do want
+like something really, really quick, I have keyboard shortcuts. So if I need something
+really, really quickly, I'll just pop open the ChatGPT window. Now, for anything that involves
+advanced reasoning where you need a larger context window, which means like if you want to send a
+lot, a lot of data into ChatGPT, I wouldn't use it. I would go into something like Gemini because
+it has a significantly greater context window, typically a little bit better
+reasoning. And honestly, for copywriting purposes, I don't use it a lot either there.
+I would go to something like Clotter, even the Gemini. If you prompt it well enough, Gemini can
+be really, really good for writing copy. So use cases here, just general all-rounder. It's like
+your daily driver. But for specific use cases, I always go to other softwares that I've shown you
+on this list already. So for that reason, old reliable ChatGPT, we're going to put this right
+at the A tier. Next up on the list, we have GetHooked. This is a super not humble, not biased
+brag. This is the software that...
+Me and my team have been building over the past year and a half, two years,
+and this is specifically applicable to if you're running ads. So if you're running ads and you go
+to the ad library constantly, you got to stop that and get yourself a GetHooked subscription
+because you can basically have significantly more clarity around the ads that are performing best,
+the ads that are getting the most amount of conversions for your competitors. You can
+analyze how many creatives your competitors are testing on a monthly basis, all types of cool
+stuff. And once you find a winning ad, you can literally recreate it 100% with AI. So for that
+reason, obviously I love GetHooked. I am super biased.
+That was a joke in the beginning, but definitely check it out. We're going to be putting GetHooked
+in the S tier. Next up on the list, we have Manus. Manus is the newest general AI agent on the block,
+and it is very, very, very sharp. And there's one other AI agent I'm going to get to in just
+one second that's also very good. But in many cases, I actually prefer Manus for one specific
+reason. If you guys are familiar with ChatGPT's operator model or OpenAI's operator model,
+this is basically an independent AI agent that you can prompt it to do whatever you want. And
+it'll literally open a cloud browser and start to do everything you need to do. So if you want to do
+whatever you want, and it'll literally open a cloud browser and start to do everything you need to
+do everything that you want to and follow your instructions. Now, I think this technology is
+going to evolve a lot. As of right now, sometimes if you give it your login, for example, to your
+Google Drive and you want it to do some things with your documents, it can do all of that for
+you as long as you supply those logins to Manus. The problem is sometimes Manus can be a little
+fucking stupid. It can't figure out some things that are even relatively simple. So I think that
+this isn't the fault of Manus. This is more so just general, the advancement of AI and where we
+are in the general landscape. It's still really, really good. And my favorite application for
+Manus actually is anytime that I leave my laptop and I'm like going to the gym or going to sleep,
+I always have a prompt running while I'm sleeping or while I'm working. So I'm literally working
+even when I'm not working. It's really, really great for a lot of that manual work that you know
+needs to get done, but you don't want to be the one that actually does it. Just create some type
+of SOP and feed it into Manus, give it the logins that it needs, and then it'll go and execute that
+while you're asleep. So whatever that like really annoying manual work, Manus can do that. The
+second really, really cool application here is that Manus can actually build like web applications
+for you and deploy them on their own external URL. So for example, I built a very, very simple
+tool that'll basically analyze and pre-validate if a specific ad creative hook is going to be
+successful before you test it. So I'll feed all my previous ad data, feed it a bunch of other stuff
+that I don't really want to get into right now. And then it'll basically give it a score of how
+likely that ad is to perform. You can create applications like that without knowing how to
+code through a tool like Manus. So for that reason, we're actually going to put Manus in S tier.
+Phenomenal, phenomenal software. Still a lot to be done, of course, but I think again, all these
+they're only going to get smarter and they're only going to get cheaper. We see that with every
+single new update that's being announced. Next up on the list, we have GenSpark. It's specifically
+super agent within GenSpark. GenSpark is another general AI agent that you can use to do basically
+anything. Really cool feature that it has is that it can actually call on your behalf to businesses
+and do it completely using AI. So for example, if I wanted to find the best sushi restaurant within
+a six mile radius that has a very specific type of sushi that I like, and I want to call and make
+a reservation for two, I can call and make a reservation for two, and I can call and make a
+reservation for two, Thursday night at 6pm. GenSpark can literally do all that. It'll not
+only find a restaurant and do all that stuff, but it'll actually call to make the reservation,
+make sure they have the specific type of sushi, and then send you the confirmation afterwards.
+So it's really cool. You can kind of listen to the call as it happens as well, but they're calling on
+your behalf. So you have to put your number in there. But GenSpark super agent is actually
+phenomenally smart and really, really good. The one downside is that it's wicked fast. And you
+would think that's not a downside, but it is because a lot of times it's not taking the time
+to reason through specific tasks.
+It's just like speed, speed, speed. Whereas Manus will take a little bit longer to complete
+a specific task, but the infrastructure with which that task is built is significantly better than
+something like GenSpark. So GenSpark is still amazing. I use it still every single day. And
+for that reason, we're going to put that in the A tier. And finally, last up on the list,
+we have MakeUGC. I've done a lot of testing recently, guys, on the best AI UGC softwares
+out there. And some of them are really, really good. Very, very few of them are great. And
+MakeUGC, in my opinion, is one that is great. I have no affiliation with this company.
+I'm actually not going to put them in the S tier. Quick spoiler alert. The reason why is because
+their videos are so freaking good, but they take forever to render and they're expensive. It ends
+up coming out to like seven to ten dollars per video that you make. Now, if that's worth it for
+you, you've got the budget, which I do. I use it a lot. But if you don't have the budget, it's not
+really that great. And you're limited to like a very specific number of videos based off the plan
+that you have. I still recommend you check them out. But for that reason, we're going to put
+MakeUGC in the A tier. As a final note, guys, these AI tools are going to come and go,
+but it's very, very important that you stay on top of your shit with AI right now. I really
+believe that the next six to 12 months is going to be transformational. And if you're able to
+properly apply AI to your business, you can make so much fucking money. It just makes me
+mad even thinking about how much money some of you guys are going to make because I want to make all
+of it. No, in all seriousness, you need to be obsessing over this as much as me. And if there's
+any tools that I missed, I'm trying to be the best at this in the same way that you are. If there's
+something that I missed, drop it in the comment section below. We're all trying to learn and get
+better. Just drop it. I want to learn from you guys in the same way that you learned from me.
+Obviously, there's a lot more I could have put on this list, but these are the ones that I use
+mostly on a day-to-day basis. So other than that, guys, if you're interested in applying these
+specifically to building an e-commerce brand, that's everything that we do inside of Brand
+Builders Academy. So if you want to see if you're a good fit, you can click the first link in the
+description or just join my Telegram. It's not as good as BBA, but I drop a little sauce in there
+every now and then. So if you want to join that, you can check the link in the description as well.
+Check out GetHooked. Other than that, y'all see in the next video. Peace.

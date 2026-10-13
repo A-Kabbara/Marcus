@@ -1,0 +1,5 @@
+audio/
+logs/
+*.m4a
+*.zip
+done_*
